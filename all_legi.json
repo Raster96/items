@@ -1,5 +1,5 @@
 {
-  "updated": "11.05.2025",
+  "updated": "28.07.2025",
   "data": [
     {
       "id": 55271,
@@ -1241,8 +1241,7 @@
       "cl": 13,
       "pr": 13464,
       "st": 0,
-      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48",
-      "extendedID": "34790@40"
+      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48"
     },
     {
       "id": 34438,
@@ -1909,7 +1908,8 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ]
+      ],
+      "extendedID": "42143@46"
     },
     {
       "id": 26366,
@@ -2116,6 +2116,66 @@
       "tags": [
         "event",
         "event-xmas-17"
+      ]
+    },
+    {
+      "id": 57666,
+      "name": "Rybie sztandary I",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 27860,
+      "st": 0,
+      "stat": "absorb=108;absorbm=54;ac=38;act=12;crit=2;critmval=12;da=21;energybon=13;evade=5;hp=206;legbon=lastheal,50;lvl=50;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resfrost=6;reslight=8;sa=46;slow=22",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57665,
+      "name": "Łuskołapki I",
+      "icon": "rek/rekawice1332.gif",
+      "cl": 11,
+      "pr": 24066,
+      "st": 0,
+      "stat": "absorb=162;absorbm=81;ac=27;crit=1;critmval=12;di=60;hp=570;legbon=glare,50;lvl=50;manabon=13;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=46",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57664,
+      "name": "Uścisk niespokojnej fali I",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 21829,
+      "st": 0,
+      "stat": "ac=54;crit=2;da=21;di=87;heal=57;legbon=critred,50;lowevade=5;lvl=50;manabon=13;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=46",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57662,
+      "name": "Czarne płetwy I",
+      "icon": "rek/rekawice1333.gif",
+      "cl": 11,
+      "pr": 21829,
+      "st": 0,
+      "stat": "ac=58;act=1;crit=2;critval=6;ds=32;energybon=13;hp=570;legbon=verycrit,50;lowevade=5;lvl=50;opis=Gdy na morzu je zobaczysz,[br]lepiej modły zmów do boga.[br]Wielki sztorm wywołać mogą,[br]marynarzy jest to trwoga![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=w;sa=46",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57661,
+      "name": "Muszelka urodziwej syreny I",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 20789,
+      "st": 0,
+      "stat": "crit=5;da=33;energybon=13;evade=5;heal=84;hp=554;legbon=facade,50;lowevade=5;lvl=50;manabon=13;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=46",
+      "tags": [
+        "event-waka-25"
       ]
     },
     {
@@ -2573,7 +2633,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39733@51"
     },
     {
       "id": 32658,
@@ -5523,7 +5584,7 @@
       "stat": "absorb=284;absorbm=142;ac=47;binds;crit=3;critmval=12;di=48;heal=89;hp=323;legbon=glare,80;lvl=80;manabon=20;opis=Specjalny projekt rękawic z wykorzystaniem kryształów serafitu wykonano na zlecenie samego Seldera. Niepozorne, choć niezwykle silne, miały zapewnić opatowi ochronę w niebezpiecznych sytuacjach. Jak wykorzystasz je ty?[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=68;slow=31",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -5536,7 +5597,7 @@
       "stat": "ac=95;binds;blok=12;crit=3;ds=48;heal=170;legbon=facade,80;lowevade=8;lvl=80;manabon=20;opis=Przepełnione energią, serafitowe kryształy wmontowane zostały w złote blachy ze świątynnej zbrojowni. Ich moc oddziałuje na umysł użytkownika, pozwalając na błyskawiczne wertowanie ksiąg i odszukiwanie informacji.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=p;resfrost=3;reslight=6;sa=68;slow=31",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -5549,7 +5610,7 @@
       "stat": "ac=102;act=1;binds;crit=1;critval=12;da=28;ds=48;energybon=31;heal=89;legbon=lastheal,80;lowevade=8;lvl=80;opis=Pancerne rękawice jednego ze strażników Andarum pokryto niezwykle cennym minerałem z Kopalni Krwawego Opętania - sproszkowanym serafitem. Pogłoski mówią, że siła wojownika wzrosła tak bardzo, że mógł korzystać z dwóch broni dwuręcznych jednocześnie.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=w;sa=68;slow=31",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -5562,7 +5623,7 @@
       "stat": "ac=85;act=8;binds;crit=1;critval=12;da=28;energybon=15;evade=16;hp=621;legbon=curse,80;lvl=80;opis=Nim rozpocznie się batalia,[br]odmów prędko modły swoje... [br]Jeśli zyskasz łaskę bogów,[br]walczyć będziesz jak za dwoje![br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=b;resfire=3;reslight=2;sa=88",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -5575,7 +5636,7 @@
       "stat": "ac=76;act=16;binds;crit=2;da=48;energybon=15;evade=16;legbon=facade,80;lowcrit=2;lowevade=8;lvl=80;opis=Gdy świątynię wróg najeżdża,[br]czas porzucić swe zasady...[br]Kiedy mnich za laskę chwyci,[br]żaden wróg mu nie da rady![br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=h;resfire=7;sa=88",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -5588,7 +5649,7 @@
       "stat": "absorb=189;absorbm=95;ac=66;act=7;binds;crit=1;da=48;energybon=31;evade=8;heal=170;legbon=curse,80;lvl=80;manabon=20;opis=Jak się okazało, kryształy użyte do wytworzenia rękawic zostały zarysowane mieczem Wyznawcy Ciemnych Mocy. Plugawe ostrze odcisnęło swe piętno na serafitowych bryłkach, permanentnie zaburzając ich właściwości. Czy mimo tego odważysz się skorzystać z przedmiotu?[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawego Opętania.;rarity=legendary;reqp=t;resfire=6;resfrost=6;reslight=5;sa=68;slow=31",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -6023,7 +6084,7 @@
       "stat": "absorb=216;absorbm=108;ac=97;act=4;binds;crit=2;critmval=12;di=50;heal=97;hp=348;legbon=cleanse,82;lowevade=8;lvl=82;manabon=21;opis=Zerwany z głowy kaptur odsłonił splugawione oblicze naiwnego człowieka, który zawierzył swe życie Murmurowi - jednemu z Synów Eszmy. Zaklęta w potępionym ostrzu istota zdaje się kontrolować Wyznawcę Ciemnych Mocy nawet w najdrobniejszych jego ruchach...[br][br]Trofeum po samotnym pokonaniu obrońcy Kopalni Krwawego Opętania - Wyznawcy Ciemnych Mocy.;rarity=legendary;reqp=mpt;resfrost=6;reslight=8;sa=70",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -6036,7 +6097,7 @@
       "stat": "ac=120;act=8;binds;crit=2;critval=12;da=29;ds=50;dz=50;evade=16;legbon=curse,82;lvl=82;opis=Wypalona czaszka wyznawcy, choć oddzielona od reszty ciała, wyje przeraźliwie niczym pochwycona we wnyki zwierzyna... Choć doskonale wiesz, że to manifestacja czystego zła, nie możesz pozbyć się narastającej potrzeby wsunięcia swej głowy w demoniczną skorupę...[br][br]Trofeum po samotnym pokonaniu obrońcy Kopalni Krwawego Opętania - Wyznawcy Ciemnych Mocy.;rarity=legendary;reqp=bhw;resfrost=5;sa=70",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -6171,7 +6232,7 @@
       "stat": "amount=1;cansplit=1;capacity=10;lvl=83;opis=Mnisi z Andarum mogą nie dopuścić do wyniesienia go poza świątynię.[br][br]Pochodzi z Kopalni Krwawego Opętania.;rarity=legendary",
       "tags": [
         "kopalnia-83",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -6903,6 +6964,18 @@
       "st": 0,
       "stat": "ac=135;act=1;binds;crit=2;critval=6;da=30;ds=53;energybon=16;heal=103;legbon=facade,89;lowcrit=2;lowevade=9;lvl=89;opis=Najlepsza para butów Morthena, której używał tylko podczas najtrudniejszych i najbardziej krwawych bitew. Podobno do stopu złota dodawał tajemniczy składnik, który go niebywale wzmacniał.;rarity=legendary;reqp=pw;reslight=6;sa=75",
       "tags": []
+    },
+    {
+      "id": 57720,
+      "name": "Muszelka urodziwej syreny II",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 69228,
+      "st": 0,
+      "stat": "acdmg=7;crit=3;da=98;energybon=16;evade=9;heal=159;legbon=cleanse,90;lowevade=9;lvl=90;manabon=23;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=76",
+      "tags": [
+        "event-waka-25"
+      ]
     },
     {
       "id": 54766,
@@ -7926,7 +7999,7 @@
         "event",
         "event-school"
       ],
-      "extendedID": "26374@100!dz"
+      "extendedID": "26374@100"
     },
     {
       "id": 26373,
@@ -8482,8 +8555,7 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ],
-      "extendedID": "42137@102"
+      ]
     },
     {
       "id": 50598,
@@ -8711,7 +8783,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39745@107"
     },
     {
       "id": 50666,
@@ -8819,7 +8892,7 @@
       "stat": "ac=152;act=16;binds;crit=1;energybon=17;evade=22;hp=471;legbon=critred,110;lowcrit=4;lowevade=11;lvl=110;opis=Przepiękną koronę dostrzegł archeolog Bunar na głowie jednego z ożywionych szkieletów w pobliżu Zapomnianego Grobowca. Po krótkiej, zakończonej zwycięstwem potyczce, przedmiot trafił do zbiorów naukowca, by następnie wpaść w twoje ręce. Jeśli ośmielisz się założyć tę koronę, to miej na uwadze, iż nadal nie wiesz kim są twoi poddani...[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=h;resfire=7;sa=146",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -8832,7 +8905,7 @@
       "stat": "absorb=380;absorbm=190;ac=133;act=12;binds;crit=1;di=65;energybon=35;evade=33;heal=131;legbon=cleanse,110;lvl=110;opis=Odnaleziona pośród stosów kości przyłbica zaciekawiła archeologa Bunara swym nietuzinkowym kształtem i przebijającym się spod piaskowej skorupy złotym wykończeniem. Wystarczyło kilka ruchów szorstkiego pędzla i użycie odpowiedniego roztworu oczyszczającego, by wydobyć pełnię piękna tego niezwykłego znaleziska.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=t;resfrost=14;sa=118;slow=39",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -8845,7 +8918,7 @@
       "stat": "absorb=570;absorbm=285;ac=95;act=10;binds;crit=2;critmval=6;da=36;heal=377;legbon=glare,110;lvl=110;opis=Fikuśny diadem należał do obdarzonej darem jasnowidzenia kobiety, którą sprowadzono z odległej, zamorskiej krainy. Ulokowana w zapomnianym grobowcu, czekać miała na wojenne rozkazy swych przełożonych... Te jednak nigdy nie nadeszły, a wyrocznia - mimo swych nadnaturalnych mocy - umarła z głodu i odwodnienia.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=m;resdmg=1;reslight=10;sa=118;slow=39",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -8858,7 +8931,7 @@
       "stat": "ac=190;binds;blok=17;crit=1;di=126;energybon=35;heal=131;legbon=cleanse,110;lowevade=11;lvl=110;manabon=28;opis=Przeklęty kask porzucony został w pustynnym grobowcu. Chociaż niezwykle cenny, bo pokryty szczerym złotem, to zmieniał w bezwzględnego potwora każdego, kto założył go na swoją głowę. Zastanów się więc, czy przymierzenie tego hełmu będzie dla ciebie właściwym wyborem...[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=p;resfrost=6;reslight=3;sa=118",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -8871,7 +8944,7 @@
       "stat": "ac=205;act=1;binds;crit=1;critval=6;da=63;ds=65;energybon=52;legbon=curse,110;lowevade=11;lvl=110;opis=Poprzedni właściciel tej przyłbicy dowodził setkom wojaków, którzy posłusznie ruszali do boju na jedno skinienie jego palca. Niestety, lekkomyślne rzucenie wyzwania Rhazzgowi Aberu okazało się nie mieć szczęśliwego zakończenia...[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=w;sa=118",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -8884,7 +8957,7 @@
       "stat": "ac=171;act=8;binds;crit=3;critval=6;energybon=17;evade=22;hp=471;legbon=curse,110;lvl=110;opis=Złota tiara wydobyta została z głębin pustynnych piasków... Według archeologa Bunara należała ona do jednego z antycznych władców, choć równie dobrze może być to wysokiej jakości falsyfikat.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Arogancji.;rarity=legendary;reqp=b;resfrost=5;sa=146",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -9565,7 +9638,7 @@
       "stat": "binds;crit=3;critmval=12;da=65;di=67;heal=210;hp=718;legbon=puncture,114;lowcrit=2;lowevade=11;lvl=114;manabon=57;opis=Woda, ogień, ziemia, powietrze... W klejnocie zdobiącym złotą obręcz jawią się naprzemiennie cztery żywioły. Czyżby uwięziona była w nim cząstka magii samego Rhazzga Aberu?[br][br]Trofeum po samotnym pokonaniu obrońcy Kopalni Krwawej Arogancji - Szkieletu Władcy Żywiołów.;rarity=legendary;reqp=mpt;sa=94;slow=41",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -9578,7 +9651,7 @@
       "stat": "binds;crit=3;critval=12;da=94;energybon=18;evade=11;hp=2106;legbon=puncture,114;lowevade=11;lvl=114;opis=Naszyjnik ten należał do Rhazzga Aberu - wielkiego nekromanty, głównego dowódcy w Wojnie Magów. Choć jego działania odcisnęły olbrzymie piętno na krainie, to on sam - pod obecną postacią - pozostaje tylko pozbawionym świadomości wspomnieniem swej dawnej sylwetki.[br][br]Trofeum po samotnym pokonaniu obrońcy Kopalni Krwawej Arogancji - Szkieletu Władcy Żywiołów.;rarity=legendary;reqp=bhw;sa=94;slow=41",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -9657,7 +9730,7 @@
       "stat": "amount=1;cansplit=1;capacity=10;lvl=114;opis=Niebywałe odkrycie archeologiczne.[br][br]Pochodzi z Kopalni Krwawej Arogancji.;rarity=legendary",
       "tags": [
         "kopalnia-114",
-        "latest"
+        "latest-2"
       ]
     },
     {
@@ -10698,7 +10771,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39727@122"
     },
     {
       "id": 54544,
@@ -10932,7 +11006,8 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ]
+      ],
+      "extendedID": "42146@127"
     },
     {
       "id": 42971,
@@ -11055,6 +11130,30 @@
       "stat": "binds;crit=3;critval=12;ds=147;energybon=19;heal=245;hp=3260;legbon=lastheal,129;lowevade=13;lvl=129;opis=Nie nosiła jeszcze ziemia krasnoluda tak chciwego i tak łasego na zysk jak poprzedni właściciel tego sygnetu. Szeptano o nim, że był niemową tylko dlatego, iż za bardzo przemówiła do niego maksyma \"Mowa jest srebrem, a milczenie złotem\". Oby spalająca go żądza nie udzieliła się również tobie!;rarity=legendary;reqp=pw;sa=105",
       "tags": [
         "removed"
+      ]
+    },
+    {
+      "id": 57783,
+      "name": "Pluszowy żarłacz III",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 165816,
+      "st": 0,
+      "stat": "ac=164;acdmg=11;act=8;crit=1;critval=6;ds=148;dz=76;energybon=19;evade=26;legbon=lastheal,130;lvl=130;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;resfire=3;reslight=2;sa=106",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57781,
+      "name": "Muszelka urodziwej syreny III",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 136417,
+      "st": 0,
+      "stat": "crit=5;enfatig=40,7;evade=13;heal=486;legbon=critred,130;lowcrit=2;lowevade=13;lvl=130;manafatig=40,16;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=106;slow=82",
+      "tags": [
+        "event-waka-25"
       ]
     },
     {
@@ -13253,7 +13352,8 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ]
+      ],
+      "extendedID": "42133@147"
     },
     {
       "id": 54876,
@@ -13295,6 +13395,39 @@
       "stat": "ac=281;act=6;binds;crit=2;critval=12;da=45;energybon=20;evade=15;hp=653;legbon=holytouch,149;lowevade=15;lvl=149;opis=Potyczka Burkoga Lorulka z Obłąkanym Łowcą Orków była jedynym momentem w jego życiu, gdy znalazł się na krok od śmierci. Bitewna przyłbica, strącona wielkim mieczem z orczego łba, trzasnęła z hukiem o ziemię. Czerwonoskóry przywódca, przerażony całą sytuacją, skrył się wtedy w jednej z sal orczej siedziby. I tkwi tam po dziś dzień.;rarity=legendary;reqp=bhpw;reslight=6;sa=120",
       "tags": [
         "removed"
+      ]
+    },
+    {
+      "id": 58168,
+      "name": "Nietypowa peruka syreny",
+      "icon": "hel/helm1422.gif",
+      "cl": 9,
+      "pr": 190222,
+      "stat": "ac=237;acdmg=14;act=16;binds;crit=2;energybon=60;evade=15;legbon=lastheal,150;lvl=150;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=h;resfrost=7;sa=158;slow=51",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 58166,
+      "name": "Potwór z morskich głębin",
+      "icon": "hel/helm1423.gif",
+      "cl": 9,
+      "pr": 231216,
+      "stat": "absorb=177;absorbm=89;ac=272;acdmg=14;act=6;binds;crit=2;energybon=20;heal=183;legbon=holytouch,150;lowevade=15;lvl=150;manabon=38;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfrost=10;sa=158",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 58165,
+      "name": "Bursztynowa ośmiorniczka",
+      "icon": "hel/helm1424.gif",
+      "cl": 9,
+      "pr": 199733,
+      "stat": "ac=293;acdmg=14;act=5;binds;crit=1;critval=12;ds=87;evade=15;legbon=cleanse,150;lowevade=30;lvl=150;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=bw;resfire=4;sa=158",
+      "tags": [
+        "event-waka-25"
       ]
     },
     {
@@ -14857,7 +14990,6 @@
       "icon": "hel/helm1349.gif",
       "cl": 9,
       "pr": 253383,
-      "st": 0,
       "stat": "ac=354;act=1;binds;blok=25;crit=2;critval=6;da=49;ds=96;energybon=42;hp=731;legbon=holytouch,165;lvl=165;opis=Artefakt ten otrzymał dzielny, orczy wojownik jako wyraz wdzięczności za dowodzenie hordą, która to zgładziła Czarnego Smoka. Imię jego zostało jednak zapomniane, a tam, gdzie było wspominane w księgach, teraz widnieją wyłącznie puste pola. Czyżby, z jakiegoś powodu, musiał on zostać wymazany z kart historii orczej dynastii?;rarity=legendary;reqp=pw;resfrost=6;sa=132",
       "tags": []
     },
@@ -14867,7 +14999,6 @@
       "icon": "hel/helm1350.gif",
       "cl": 9,
       "pr": 279354,
-      "st": 0,
       "stat": "absorb=852;absorbm=426;ac=204;act=6;binds;crit=2;da=49;di=187;evade=33;legbon=lastheal,165;lvl=165;manabon=41;opis=Zgodnie z dawną tradycją, raz na dziesięć lat, orcze córy przejawiające magiczne zdolności prowadzono przed oblicze pramatki. Tam każdej z nich, po kolei, nakładano na głowę srebrną maskę do czasu, aż przedmiot nie wybrał swej nowej posiadaczki. Gdy zaś już to następowało, orcze dziecię zyskiwało na najbliższą dekadę tytuł wyroczni i przenosiło się do królewskich sal, mając od tej pory realny wpływ na dzieje pradawnej dynastii.;rarity=legendary;reqp=mt;resdmg=1;resfire=9;reslight=6;sa=132",
       "tags": []
     },
@@ -14877,7 +15008,6 @@
       "icon": "hel/helm1348.gif",
       "cl": 9,
       "pr": 241317,
-      "st": 0,
       "stat": "ac=290;act=12;binds;crit=2;da=49;ds=96;dz=187;evade=33;hp=731;legbon=lastheal,165;lvl=165;opis=Zaszczyt noszenia złotej przyłbicy przypadał tylko Władcy Klanów, którym zostawał najmężniejszy watażka spośród wszystkich orczych wojowników. Pobłogosławiony przez Lusgratherę, zyskiwał miano strażnika praorczej magii, a jego zadaniem stawała się ochrona pradawnych sztuk, zaklętych grymuarów oraz niezwykle cennych, wróżbiarskich akcesoriów przed licznymi wrogami z powierzchni.;rarity=legendary;reqp=bh;resfire=6;sa=132",
       "tags": []
     },
@@ -15286,7 +15416,6 @@
       "icon": "nas/naszyjnik631.gif",
       "cl": 13,
       "pr": 224180,
-      "st": 0,
       "stat": "binds;crit=4;critval=6;dz=282;energybon=42;evade=33;hp=2275;legbon=holytouch,167;lvl=167;opis=Wydana za zezwoleniem Lusgrathery z praorczego skarbca dla najlepszego z myśliwych, którego strzała była na tyle precyzyjna, że potrafiła oddzielić duszę od ciała ofiary.;rarity=legendary;reqp=bht;sa=133;slow=56"
     },
     {
@@ -15295,7 +15424,6 @@
       "icon": "nas/naszyjnik636.gif",
       "cl": 13,
       "pr": 224180,
-      "st": 0,
       "stat": "binds;crit=3;critmval=12;di=282;heal=340;hp=3401;legbon=lastheal,167;lvl=167;manabon=84;opis=Wydana za zezwoleniem Lusgrathery z praorczego skarbca dla największego znawcy sztuk magicznych pośród dynastii - twórcy wielu potężnych, smoczych artefaktów.;rarity=legendary;reqp=mpt;resdmg=1;sa=133"
     },
     {
@@ -15304,7 +15432,6 @@
       "icon": "nas/naszyjnik635.gif",
       "cl": 13,
       "pr": 224180,
-      "st": 0,
       "stat": "binds;crit=4;critval=6;ds=282;energybon=42;heal=340;hp=3401;legbon=cleanse,167;lowevade=17;lvl=167;opis=Wydany za zezwoleniem Lusgrathery z praorczego skarbca dla najbardziej oddanego ze strażników - prawej ręki pramatki, powiernika królewskich sekretów.;rarity=legendary;reqp=bpw;sa=133"
     },
     {
@@ -15313,7 +15440,6 @@
       "icon": "rek/rekawice644.gif",
       "cl": 11,
       "pr": 203338,
-      "st": 0,
       "stat": "ac=237;binds;crit=3;da=133;evade=17;hp=692;legbon=critred,167;lowevade=17;lvl=167;opis=Poprzedni właściciel własnoręcznie się zadusił. Czyżby zemsta smoka?;rarity=legendary;sa=133"
     },
     {
@@ -15322,7 +15448,6 @@
       "icon": "hel/helm564.gif",
       "cl": 9,
       "pr": 203338,
-      "st": 0,
       "stat": "ac=312;binds;crit=3;da=133;energybon=21;heal=207;legbon=glare,167;lvl=167;manabon=42;opis=Kilka kropli smoczej krwi spłynęło na czaszkę dawnego wroga zakreślając na niej ciąg runicznych znaków. Koścista pułapka, z barachła taczającego się po mrocznych komnatach, stała się niebawem jednym z cenniejszych, orczych skarbów.;rarity=legendary;sa=133"
     },
     {
@@ -15331,7 +15456,6 @@
       "icon": "pie/pierscien627.gif",
       "cl": 12,
       "pr": 213505,
-      "st": 0,
       "stat": "binds;crit=4;da=133;evade=33;heal=340;hp=2275;legbon=facade,167;lowevade=17;lvl=167;opis=Źrenica prastarego smoka oprawiona[br]w złoto wytopione z diademu jego[br]pogromcy. Jak głosi legenda, smok[br]ten jednym spojrzeniem zamieniał[br]największe zamki w gruzy.;rarity=legendary;sa=133;slow=56"
     },
     {
@@ -15344,6 +15468,18 @@
       "stat": "ac=315;act=-5;binds;crit=3;critmval=6;critval=6;da=92;energybon=21;heal=208;legbon=holytouch,168;lvl=168;manabon=42;opis=Korona Lusgrathery - Pradawnej[br]Matki Orków. Nim założysz,[br]zastanów się dobrze...;rarity=legendary;sa=134",
       "tags": [
         "removed"
+      ]
+    },
+    {
+      "id": 57839,
+      "name": "Muszelka urodziwej syreny IV",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 256051,
+      "st": 0,
+      "stat": "acdmg=16;crit=1;da=51;energybon=21;evade=34;hp=3480;legbon=critred,170;lowcrit=2;lowevade=17;lvl=170;manabon=43;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=178",
+      "tags": [
+        "event-waka-25"
       ]
     },
     {
@@ -15561,12 +15697,19 @@
       ]
     },
     {
+      "id": 57440,
+      "name": "Nienawistny chwyt królowej",
+      "icon": "rek/rekawice1314.gif",
+      "cl": 11,
+      "pr": 299022,
+      "stat": "ac=293;act=1;binds;blok=26;crit=2;critval=6;da=52;ds=101;energybon=22;hp=728;legbon=glare,175;lowevade=18;lvl=175;opis=Choć z reguły Królowa Śniegu wyroki wykonywała na odległość - za pomocą zaklęć i magicznych ataków, to w bezpośredniej walce z wrogiem nie rezygnowała z korzystania ze swej przewagi fizycznej. Mając taką sposobność, chwytała przeciwnika za gardło, by następnie obdarzyć go zakańczającym życie, lodowym pocałunkiem...;rarity=legendary;reqp=pw;reslight=6;sa=139"
+    },
+    {
       "id": 54718,
       "name": "Skostniałe paluchy monarchini",
       "icon": "rek/rekawice1230.gif",
       "cl": 11,
       "pr": 258307,
-      "st": 0,
       "stat": "ac=240;act=12;binds;crit=3;critval=12;energybon=22;evade=18;legbon=cleanse,175;lowevade=18;lvl=175;opis=Para rękawic oziębła tak samo, jak uczucia Królowej Śniegu... Choć zdawało się, że potrafi kochać - miała bowiem przybraną córkę, Abrizę, która to żyła z nią w dostatku - jak się okazało, nie darzyła jej prawdziwą miłością. Gdy dziewczyna opuściła lodowe komnaty wraz z ukochanym, Kasimem, na pozór kochająca matka ukazała swe prawdziwe oblicze pozbawionej wszelkiej empatii jędzy. Aktywując klątwę ciążącą na amulecie Abrizy, zabiła swą własną córkę, gdyż nikt inny nie miał prawa się nią cieszyć...;rarity=legendary;reqp=bh;resfrost=6;sa=183",
       "tags": [
         "latest-3"
@@ -15578,7 +15721,6 @@
       "icon": "rek/rekawice1231.gif",
       "cl": 11,
       "pr": 299022,
-      "st": 0,
       "stat": "absorb=705;absorbm=353;ac=169;act=6;binds;crit=3;critmval=12;da=52;heal=201;legbon=glare,175;lvl=175;manabon=44;opis=Unoszące się w powietrzu lodowe kryształki to manifestacja unikalnych mocy Królowej Śniegu. Włókna noszonych przez nią rękawic z czasem nasyciły się mocą wyspecjalizowanych zaklęć, czyniąc przedmiot ten niezwykle cennym. Dla doświadczonego maga, zdolnego zapanować nad energetycznymi przepływami, będzie to nie lada wzmocnienie ekwipunku.;rarity=legendary;reqp=mt;resfrost=15;sa=139;slow=58",
       "tags": [
         "latest-3"
@@ -15626,7 +15768,6 @@
       "icon": "pie/pierscien637.gif",
       "cl": 12,
       "pr": 258307,
-      "st": 0,
       "stat": "binds;crit=3;critmval=12;da=52;di=101;evade=18;heal=362;hp=2418;legbon=lastheal,175;lvl=175;manabon=88;opis=Ugnij kolana przed majestatem twej królowej, mierna istoto. Wzroku nie unoś, nim wzrok twój nie będzie pożądany! Skoml zaś o życie, gdy sąd nad tobą ostateczny już i bezwzględny.;rarity=legendary;reqp=mpt;sa=183"
     },
     {
@@ -15635,7 +15776,6 @@
       "icon": "pie/pierscien638.gif",
       "cl": 12,
       "pr": 258307,
-      "st": 0,
       "stat": "binds;crit=3;critval=12;da=52;ds=101;energybon=43;evade=18;hp=2418;legbon=curse,175;lvl=175;opis=Mechaniczne ruchy miniaturowej szczęki orka są zasługą niezwykłej precyzji i umiejętności goblinich dłoni. Od tamtej pory - czasów stworzenia tego pierścienia - technologie stosowane przez zielonoskórych fachowców rozwinęły się nie do pomyślenia i zakrawają niemal o magię.;rarity=legendary;reqp=bhw;sa=183;slow=58"
     },
     {
@@ -15825,6 +15965,70 @@
       ]
     },
     {
+      "id": 44256,
+      "name": "Pąk Wabiciel",
+      "icon": "nas/naszyjnik1264.gif",
+      "cl": 13,
+      "pr": 261246,
+      "stat": "binds;crit=2;critmval=18;da=96;di=297;heal=720;hp=1230;legbon=puncture,176;lowcrit=2;lvl=176;opis=Wyjątkowy pąk chryzantemy emanuje zapachem tak słodkim, że odurza wszelkie zwabione do jego wnętrza insekty. To spośród nich Chryzoprenia wybiera nowe owady do swojej kolekcji, zatapiając ich truchła w kroplach magicznej żywicy.;rarity=legendary;reqp=mpt;sa=140;slow=58"
+    },
+    {
+      "id": 44255,
+      "name": "Wrzosowa plecionka driady",
+      "icon": "nas/naszyjnik1270.gif",
+      "cl": 13,
+      "pr": 261246,
+      "stat": "binds;crit=2;critval=12;da=96;ds=102;energybon=22;evade=18;hp=4847;legbon=holytouch,176;lvl=176;opis=Ten na pozór zwykły wianek kryje w sobie wielką tajemnicę... Ten bowiem, kto ma go na szyi, zyskuje przychylność wrzosowisk. Wystarczy wtedy nawet cicho wypowiedziany rozkaz, a fioletowe krzewinki - niczym miniaturowa armia - pochwycą i unieruchomią stopy twoich wrogów, pozwalając na zadanie ostatecznego ciosu.;rarity=legendary;reqp=bhw;sa=96;slow=159"
+    },
+    {
+      "id": 57456,
+      "name": "Cholewy leśnej monarchii",
+      "icon": "but/buty1225.gif",
+      "cl": 10,
+      "pr": 277413,
+      "stat": "absorb=1033;absorbm=517;ac=172;binds;crit=2;critmval=12;di=201;heal=422;legbon=verycrit,177;lvl=177;manabon=44;opis=Podarunek od Nymphemonii, opiekunki Drzewa Życia, dla Chryzopreni - swej następczyni. Buty te symbolizują absolutną władzę nad driadami, a ich założenie równoznaczne jest z przyjęciem wiecznej przysięgi opieki nad leśnym ludem. Szkoda tylko, iż przedmiot ten jest jedynie zmyślnym narzędziem manipulacji wysokich driad...;rarity=legendary;reqp=m;resfrost=16;sa=141"
+    },
+    {
+      "id": 57455,
+      "name": "Bezszelestny chód mchów",
+      "icon": "but/buty1224.gif",
+      "cl": 10,
+      "pr": 291283,
+      "stat": "ac=276;act=12;binds;crit=2;critval=6;dz=102;energybon=22;evade=35;hp=771;legbon=curse,177;lowevade=18;lvl=177;opis=Driady niezwykle często oplatają swe stopy pnączami oraz dziwnymi roślinami, co zapewnia im dodatkowy kontakt z naturą. Mawia się, że to właśnie dzięki tym ozdobom opiekunki lasu czerpią niezwykłą energię z kniei, potrafią przemieszczać się bez zbędnych odgłosów oraz natychmiastowo leczyć drobne skaleczenia.;rarity=legendary;reqp=bht;resfire=8;sa=141"
+    },
+    {
+      "id": 57454,
+      "name": "Chryzantemowy diadem",
+      "icon": "hel/helm1402.gif",
+      "cl": 9,
+      "pr": 305848,
+      "stat": "absorb=947;absorbm=474;ac=227;act=6;binds;crit=3;critmval=6;di=201;heal=221;hp=791;legbon=cleanse,177;lvl=177;manabon=44;opis=Ni to bukiet, ni korona, chociaż złote na tym kwiecie... Oto diadem z chryzantemą, najpiękniejszym kwiatem w świecie!;rarity=legendary;reqp=mt;resfrost=15;sa=141"
+    },
+    {
+      "id": 57453,
+      "name": "Korona życiodajnych kalii",
+      "icon": "hel/helm1401.gif",
+      "cl": 9,
+      "pr": 264203,
+      "stat": "ac=322;act=12;binds;crit=2;critval=12;energybon=22;evade=18;hp=1557;legbon=lastheal,177;lvl=177;opis=Z kwiatów kalii upleciona,[br]złote stróżki ma na sobie. [br]Choć to cacko pewnej driady,[br]to posłuży teraz tobie!;rarity=legendary;reqp=bh;resfire=6;sa=185"
+    },
+    {
+      "id": 57452,
+      "name": "Przyłbica pani wrzosowisk",
+      "icon": "hel/helm1403.gif",
+      "cl": 9,
+      "pr": 291283,
+      "stat": "ac=394;act=1;binds;crit=2;critval=6;ds=102;energybon=22;heal=221;hp=791;legbon=cleanse,177;lowevade=35;lvl=177;opis=Kwaśne gleby jej domeną,[br]na nich rosną wrzosów łany.[br]Kto zawalczy tam z Wrzoserą,[br]wnet zostanie pokonany.;rarity=legendary;reqp=pw;reslight=6;sa=141"
+    },
+    {
+      "id": 56808,
+      "name": "Święte kwiecie driad",
+      "icon": "tal/tal109.gif",
+      "cl": 22,
+      "pr": 170307,
+      "stat": "afterheal=60,18100;binds;lvl=177;opis=Hodowane przez Cantedewię kwiaty zostały ścięte i związane sznurem splecionym z traw i pnączy porastających okolicę rytualnego źródła driad. Zgodnie z szeptami leśnych mieszkańców, bukiet ten nigdy nie więdnie, a przyłożony do nozdrzy potrafi ocucić nawet rosłego niedźwiedzia.;rarity=legendary;respred=89"
+    },
+    {
       "id": 54649,
       "name": "Sopel z porzuconych kopalni",
       "icon": "nas/naszyjnik1165.gif",
@@ -15919,8 +16123,7 @@
       "name": "Święta Dębina",
       "icon": "but/buty686.gif",
       "cl": 10,
-      "pr": 251622,
-      "st": 0,
+      "pr": 264203,
       "stat": "ac=358;act=1;binds;crit=2;critval=12;ds=299;energybon=22;legbon=critred,177;lowevade=18;lvl=177;opis=Obuwie zostało wyżłobione z pozostałości zniszczonego dębu będącego dawniej obiektem leśnego kultu i miejscem odprawiania driadzich rytuałów. Zaszczyt korzystania z tego niezwykłego artefaktu przypada wyłącznie dowódczyni Jarzębinowych Oddziałów.;rarity=legendary;reqp=pw;resfrost=6;sa=141"
     },
     {
@@ -16027,6 +16230,22 @@
       "pr": 280534,
       "st": 0,
       "stat": "ac=325;act=12;binds;crit=2;critval=12;energybon=22;enhancement_refund=1;evade=18;hp=1567;legbon=lastheal,178;lvl=178;opis=Selekcja pierwszych, wiosennych pąków Cerasusa wpleciona została w soczystą tkaninę wykonaną ze źdźbeł świętej trawy porastającej okolice rytualnego źródła driad. Powstałe w ten sposób nakrycie głowy stanowi symbol paktu zawiązanego lata temu między Cerasusem i jego poplecznikami a przybyłym w okolice Thuzal driadzim rodem.;rarity=legendary;reqp=bh;resfire=6;sa=186"
+    },
+    {
+      "id": 57023,
+      "name": "Hełm ogrzego szaleństwa",
+      "icon": "hel/helm1382.gif",
+      "cl": 9,
+      "pr": 235976,
+      "stat": "ac=350;binds;crit=4;energybon=22;evade=18;hp=806;legbon=verycrit,180;lvl=180;manabon=45;opis=Strzeżony z niezwykłym zaangażowaniem hełm ujrzał w końcu promienie wschodzącego słońca. Podobno został on wykradziony z ruin Tass Zhil przez mężnego śmiałka, którym to następnie posiliły się ogry. Miej się na baczności, gdyż przyłbica swą moc czerpie z krwi osoby, która ją nosi...;rarity=legendary;sa=188"
+    },
+    {
+      "id": 56806,
+      "name": "Buciory krwawego obłędu",
+      "icon": "but/buty1218.gif",
+      "cl": 10,
+      "pr": 235976,
+      "stat": "ac=318;binds;crit=3;da=98;heal=430;hp=785;legbon=cleanse,180;lvl=180;opis=Przeklęci niech będą ci, których żądza potęgi skłoniła do założenia tych butów. Natchnione czarną magią, skłaniają do najbrutalniejszych czynów, a kryjący je metal spija każdą kroplę krwi z ich powierzchni...;rarity=legendary;sa=143;slow=59"
     },
     {
       "id": 52896,
@@ -16717,7 +16936,8 @@
         "autolvl",
         "event-xmas-24",
         "event"
-      ]
+      ],
+      "extendedID": "55332@182"
     },
     {
       "id": 51801,
@@ -16731,8 +16951,7 @@
         "abyss",
         "autolvl",
         "event"
-      ],
-      "extendedID": "51801@182"
+      ]
     },
     {
       "id": 51800,
@@ -16746,7 +16965,16 @@
         "abyss",
         "autolvl",
         "event"
-      ]
+      ],
+      "extendedID": "51800@182"
+    },
+    {
+      "id": 56807,
+      "name": "Stalowe pieścidełko",
+      "icon": "pie/pierscien1246.gif",
+      "cl": 12,
+      "pr": 243852,
+      "stat": "binds;crit=3;da=191;evade=18;heal=384;hp=5102;legbon=facade,183;lowevade=18;lvl=183;opis=Pośród skarbów gromadzonych przez ogry, twą uwagę przykuł nie lśniący diament czy samorodek złota, a masywny pierścień zwieńczony metalową czaszką. Na jego szynie dostrzegasz wyryte inicjały \"S.P.\" - czyżby przedmiot ten należał do samego ogrzego przywódcy, Stalowego Pazura?;rarity=legendary;sa=145"
     },
     {
       "id": 41874,
@@ -16928,6 +17156,14 @@
       ]
     },
     {
+      "id": 57423,
+      "name": "Złoty księżyc Ankelwaldów",
+      "icon": "nas/naszyjnik1272.gif",
+      "cl": 13,
+      "pr": 277674,
+      "stat": "act=5;binds;crit=4;critval=18;da=55;dz=314;energybon=22;legbon=verycrit,186;lowevade=19;lvl=186;opis=Wykonanie ochronnego amuletu zlecono wraz z przyjściem na świat Gniezny - młodszej siostry Torunii Ankelwald. Paskudna klątwa, będąca opus magnum wiedźmy najętej przez wrogów arystokracji, była początkiem końca historii zwaśnionych rodów. Zaledwie kilka dni później wszyscy z nich zostali bestialsko zaszlachtowani, a na wrotach ich wspaniałej posiadłości wymalowano symbol niebieskiego oka...;rarity=legendary;reqp=bht;sa=194"
+    },
+    {
       "id": 54055,
       "name": "Pazur strażnika upraw",
       "icon": "pie/pierscien1129.gif",
@@ -16994,7 +17230,6 @@
       "icon": "nas/naszyjnik722.gif",
       "cl": 13,
       "pr": 264451,
-      "st": 0,
       "stat": "binds;crit=4;critval=12;ds=314;energybon=22;hp=3916;legbon=critred,186;lowevade=37;lvl=186;opis=Fortuna kołem się toczy, a czasem chodzi także na ośmiu nogach. Kołowrotek złotych monet zakręcić w głowie może każdemu, a świetnym przykładem złotej gorączki są dziedzictwa dawnych arystokratów... Po dziś dzień w krainie odnajdywane są fikuśne, odlane z drogocennych kruszców cacka, które lata temu służyły chełpieniu się arystokracji zarówno przed plebsem, jak i przed innymi ziemianami. Ten nader masywny naszyjnik, który spoczął w twych dłoniach, również nie stanowi od tego wyjątku.;rarity=legendary;reqp=pw;sa=148"
     },
     {
@@ -17003,8 +17238,31 @@
       "icon": "nas/naszyjnik723.gif",
       "cl": 13,
       "pr": 277674,
-      "st": 0,
       "stat": "binds;crit=4;critmval=12;di=211;heal=776;hp=2619;legbon=curse,186;lvl=186;manabon=93;opis=Tajemna symbolika, wiązana niekiedy z pewnym bractwem działającym z thuzalskiego podziemia, nad wyraz często oznaczała swą obecność w historii rodu Ankelwaldów. Sygnowano nią co cenniejsze z rodzinnych artefaktów, ale także i pospolite broszki oraz guziki zdobiące arystokratyczne szaty. Symbol niebieskiego oka odnajdywano również wytatuowany na ciałach wysoko postawionych, Thuzalskich dostojników... Ci zawsze jednak odnajdywani byli martwi, z twarzami pełnymi cierpienia.;rarity=legendary;reqp=mpt;resdmg=1;sa=148"
+    },
+    {
+      "id": 57052,
+      "name": "Trio mięsożernych pąków",
+      "icon": "pie/pierscien1262.gif",
+      "cl": 12,
+      "pr": 297819,
+      "stat": "binds;crit=2;critval=12;dz=213;energybon=23;evade=38;hp=2656;legbon=glare,188;lowevade=19;lvl=188;opis=Rosną pączki na pierścieniu,[br]każdy porcji mięsa łaknie![br]Gdy już przydział swój dostaną,[br]sił ci w walce nie zabraknie!;rarity=legendary;reqp=ht;sa=196;slow=62"
+    },
+    {
+      "id": 57051,
+      "name": "Wonne kwiecie dezynfekcji",
+      "icon": "pie/pierscien1263.gif",
+      "cl": 12,
+      "pr": 283637,
+      "stat": "binds;blok=28;crit=4;critmval=12;di=317;heal=398;legbon=cleanse,188;lowevade=19;lvl=188;manabon=47;opis=Jeden pierścień, dwie korzyści:[br]palec zdobi, ranę czyści...;rarity=legendary;reqp=mp;sa=196"
+    },
+    {
+      "id": 57050,
+      "name": "Piękno pełni rozkwitu",
+      "icon": "pie/pierscien1264.gif",
+      "cl": 12,
+      "pr": 283637,
+      "stat": "binds;crit=4;critval=12;da=102;ds=213;evade=19;heal=398;legbon=anguish,188;lowevade=19;lvl=188;opis=W zależności od natężenia światła, porastające ten wyjątkowy sygnet rośliny raz rozchylają, a innym razem domykają swe okazałe pączki. Głębokie barwy kwiatów, w połączeniu z odurzającą wonią pyłku, zdają się wręcz hipnotyzować... Skieruj więc pierścień w stronę przeciwnika i wykorzystaj piękno natury do własnych celów!;rarity=legendary;reqp=bw;sa=196"
     },
     {
       "id": 56372,
@@ -17053,6 +17311,110 @@
       "pr": 286643,
       "st": 0,
       "stat": "binds;crit=3;da=103;energybon=23;evade=19;heal=400;hp=5324;legbon=lastheal,189;lowevade=19;lvl=189;manabon=47;opis=Zdjęta z koślawego palca Myświóra, odciętego podczas straszliwej walki. Odmieni los osoby, która go poskromi.;rarity=legendary;sa=150"
+    },
+    {
+      "id": 57422,
+      "name": "Pnie wymuszonej symbiozy",
+      "icon": "but/buty1220.gif",
+      "cl": 10,
+      "pr": 335322,
+      "stat": "ac=357;act=8;binds;crit=1;da=151;ds=110;energybon=23;evade=19;hp=835;legbon=lastheal,190;lowevade=19;lvl=190;opis=Cerasus i Dendroculus... Niegdyś ta dwójka pomniejszych bogów rozgniewała Tellarów, którzy to - w ramach kary - połączyli ich ciała i przemienili w drzewo. Powstały w ten sposób, emanujący magią starodrzew karmił glebę, a okolica zmieniała się w tętniący życiem ekosystem. Ekspansja puszczy natrafiła jednak na opór ze strony driad, które podstępem zapieczętowały ukaranych bogów i wysuszyły ich pień, przez co cały ekosystem stracił wspólną myśl i źródło swej energii...;rarity=legendary;reqp=bhw;resfrost=5;sa=151"
+    },
+    {
+      "id": 57026,
+      "name": "Osłony naczelnego medyka",
+      "icon": "rek/rekawice1319.gif",
+      "cl": 11,
+      "pr": 304147,
+      "stat": "ac=298;act=8;crit=1;ds=110;energybon=68;evade=19;hp=1570;legbon=curse,190;lvl=190;opis=W osłonach tych naczelnemu medykowi nie straszny był kontakt z ciałami zarażonych, ani z sączącymi się z nich wydzielinami. Mawiał on, że na rękawicach spoczywa boskie błogosławieństwo, choć mógł stać za tym inny sekret - zanurzanie ich w misie z alkoholem przy każdym jednym użyciu.;permbound;rarity=legendary;reqp=bhw;resfrost=5;sa=198"
+    },
+    {
+      "id": 57025,
+      "name": "Żelazna Twarz",
+      "icon": "hel/helm1410.gif",
+      "cl": 9,
+      "pr": 319355,
+      "stat": "ac=393;act=8;binds;crit=1;critval=6;evade=19;heal=240;hp=3354;legbon=puncture,190;lvl=190;opis=Metaliczny pobłysk złowrogiej maski to ostatnie wspomnienie dawnych jeńców Brehereta. Ci zaś z nich, którzy cudem uchodzili z życiem, czy byli wypuszczani z niewoli, uciekali w popłochu niosąc na ustach nowinę o wielkim wojowniku z twarzą z żelaza. W ten właśnie sposób przydomek swój zyskał aktualny dowódca Draków - Breheret - jeden z ostatnich spadkobierców linii krwi legendarnego Kystiosa, wodza barbarzyńców.;rarity=legendary;reqp=bhw;resfrost=5;sa=151;slow=62"
+    },
+    {
+      "id": 57024,
+      "name": "Krwawa szczęka Valmira",
+      "icon": "hel/helm1392.gif",
+      "cl": 9,
+      "pr": 335322,
+      "stat": "absorb=710;absorbm=355;ac=317;act=4;binds;crit=2;critmval=12;di=110;heal=705;legbon=puncture,190;lowevade=19;lvl=190;opis=Kopnięcia Brehereta były ponoć tak silne, że rozrywały ciała i wypruwały plugawe wnętrzności. Śnieżne polany na zachód od Thuzal często mieniły się przez to czerwienią, a drzewa zdobiły lądujący w ich gałęziach śmiałkowie, którzy odważyli się zakłócić spokój Valmirów.;rarity=legendary;reqp=mpt;resfire=14;sa=151"
+    },
+    {
+      "id": 57022,
+      "name": "Pióropusz przeznaczenia",
+      "icon": "hel/helm1399.gif",
+      "cl": 9,
+      "pr": 304147,
+      "stat": "ac=338;act=16;crit=1;energybon=45;evade=19;hp=1689;legbon=anguish,190;lowevade=38;lvl=190;opis=\"Już wkrótce zdobędziemy należytą nam władzę! Winna ona bowiem spoczywać w rękach istot wspanialszych niż pospolici ludzie - w rękach magów. Gwiazdo Przeznaczenia, obdarz swą łaską tych, którzy zawierzają ci swe błagania!\";permbound;rarity=legendary;reqp=h;reslight=7;sa=198"
+    },
+    {
+      "id": 57021,
+      "name": "Dziób fałszywego bohatera",
+      "icon": "hel/helm1398.gif",
+      "cl": 9,
+      "pr": 352088,
+      "stat": "absorb=845;absorbm=422;ac=296;act=12;crit=3;critmval=6;da=56;evade=19;heal=240;legbon=curse,190;lvl=190;manabon=48;opis=Aby pozyskać wpływy u obywateli, szykujący się do wielkiej wojny magowie uciekali się do najgorszych z możliwych sztuczek. Potajemnie wywołana epidemia i bohaterskie leczenie zarażonych? Plan wydawał się idealny. Żaden z nich jednak nie przypuszczał, że zaraza przybierze aż tak wielki rozmiar i zbierze śmiertelne żniwo także w ich gronie.;permbound;rarity=legendary;reqp=t;reslight=14;sa=198"
+    },
+    {
+      "id": 57020,
+      "name": "Zasłona adepta nekromancji",
+      "icon": "hel/helm1397.gif",
+      "cl": 9,
+      "pr": 335322,
+      "stat": "absorb=1267;absorbm=634;ac=211;crit=3;critmval=12;da=56;heal=473;legbon=glare,190;lvl=190;opis=Zdobiona maska pamięta każdy rozrysowany krąg i każdą wyszeptaną inkantację, które potajemnie przekazywane były między członkami wąskiego, wyselekcjonowanego grona magów. W podziemnych kryjówkach, na tajnych kompletach, poznawali oni tajniki nekromancji, zaś ci z nich, którzy nie byli wystarczająco dobrzy w tej dziedzinie, stawali się żywym naczyniem dla przywoływanych dusz.;permbound;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=151;slow=62"
+    },
+    {
+      "id": 57019,
+      "name": "Kask toczącej zarazy",
+      "icon": "hel/helm1396.gif",
+      "cl": 9,
+      "pr": 304147,
+      "stat": "ac=422;crit=2;critval=12;da=56;energybon=23;heal=240;legbon=holytouch,190;lowevade=19;lvl=190;opis=Po ziemi się wili z bólu wielkiego...[br]Charczeli, pytając: Za co to kara? [br]Do bogów swych modły rzewne wnosili[br]błagając, by była to tylko mara...;permbound;rarity=legendary;reqp=p;reslight=9;sa=198"
+    },
+    {
+      "id": 57018,
+      "name": "Ochrona trzepoczących skrzydeł",
+      "icon": "hel/helm1394.gif",
+      "cl": 9,
+      "pr": 289664,
+      "stat": "ac=456;act=1;crit=3;critval=6;ds=110;energybon=23;legbon=holytouch,190;lowcrit=4;lvl=190;opis=Wbrew powszechnej opinii, wonne olejki i zioła umieszczone w końcówce dziobu nie zabezpieczały przed zarazą... Chroniły one umysły medyków, tłumiąc odór rozkładających się zwłok. Niekiedy także do maski przymocowywana była para mechanicznych skrzydeł, której zadaniem było odpędzanie od twarzy morowego powietrza.;permbound;rarity=legendary;reqp=w;sa=198"
+    },
+    {
+      "id": 57017,
+      "name": "Maska doktora plagi",
+      "icon": "hel/helm1395.gif",
+      "cl": 9,
+      "pr": 304147,
+      "stat": "ac=380;act=8;crit=1;critval=6;ds=110;evade=57;hp=1689;legbon=glare,190;lvl=190;opis=Do wykrycia bakcyla używano specjalnych kosturów, a kryształy nasycone magią zimna przykładano do owrzodzeń, by przynieść chociaż chwilową ulgę zarażonym. Gdy jednak pojedyncze przypadki przekształciły się w rosnące stosy trupów, nikt nie miał już czasu na takie zabiegi...;permbound;rarity=legendary;reqp=b;reslight=5;sa=198"
+    },
+    {
+      "id": 56973,
+      "name": "Źródło leśnego mroku",
+      "icon": "nas/naszyjnik1259.gif",
+      "cl": 13,
+      "pr": 275870,
+      "stat": "binds;crit=5;da=151;evade=38;heal=798;hp=1359;legbon=anguish,190;lowevade=19;lvl=190;opis=Cerasus, choć oddzielony od Dendroculusa, odczuwał ból taki, jakby stracił połowę własnego ciała. Pełen gniewu i cierpienia, tchnął czarną magię w resztkę swych korzeni, uśmiercając badających okolicę magów. Od tej chwili każde truchło padające na ściółkę Mrocznego Lasu było opanowywane i wprawiane w ruch przez pnącza Cerausa, a krew wszystkiego co żyje, stała się jego pożywieniem. Ekspansja puszczy rozpoczęła się więc na nowo, lecz tym razem przyświecał jej już jasny cel - ponowne połączenie się dwójki braci.;rarity=legendary;sa=151;slow=62"
+    },
+    {
+      "id": 56971,
+      "name": "Palce czarnej śmierci",
+      "icon": "rek/rekawice1320.gif",
+      "cl": 11,
+      "pr": 319355,
+      "stat": "absorb=538;absorbm=269;ac=240;act=14;crit=3;critmval=6;di=110;legbon=facade,190;lvl=190;manabon=143;opis=W każdej sali z zarażonymi brakło palców, aby zliczyć tych, którzy odeszli już z tego świata. Pośród nadal żyjących słyszeć zaś można było jedynie ciche błagania o szybką śmierć. To nie tak miało wyglądać... Nie tak...;permbound;rarity=legendary;reqp=mpt;reslight=8;sa=198"
+    },
+    {
+      "id": 56970,
+      "name": "Cholewy krwawego przebudzenia",
+      "icon": "but/buty1219.gif",
+      "cl": 10,
+      "pr": 352088,
+      "stat": "absorb=645;absorbm=323;ac=288;act=4;binds;crit=2;critmval=6;da=103;di=215;heal=233;legbon=lastheal,190;lvl=190;manabon=48;opis=Puszcza, którą driady pozbawiły głównego źródła energii, niszczała przez długie lata, lecz - choć już nie różniła zbytnio się od innych lasów - wzbudziła zainteresowanie przybyłych do krainy magów. W jej sercu odnaleźli oni zasuszony pień, a podejrzewając, iż jest czymś więcej, niż zwykłym kawałkiem drewna, skropili go mutagenną krwią gnomów. W ten sposób ożywili, a następnie rozdzieli dwójkę ukaranych bogów, porywając Dendroculusa i pozostawiając osamotnionego Cerasusa na miejscu.;rarity=legendary;reqp=mpt;resfire=14;sa=151"
     },
     {
       "id": 49848,
@@ -17216,6 +17578,14 @@
         "event-waka-23",
         "event"
       ]
+    },
+    {
+      "id": 44254,
+      "name": "Dekapitatorki",
+      "icon": "rek/rekawice1318.gif",
+      "cl": 11,
+      "pr": 262734,
+      "stat": "ac=288;binds;crit=2;da=198;legbon=holytouch,190;lowcrit=2;lowevade=19;lvl=190;opis=Zaciśnięte na szyi wroga rękawice, na rozkaz dłoni Brehereta, wysuwają ukryte ostrza dekapitując ofiarę. Materiał przesiąknięty krwią valmirzych wrogów, lata temu śnieżnobiały, permanentnie zabarwił się teraz bestialsko pozyskanym burgundem...;rarity=legendary;sa=151;slow=62"
     },
     {
       "id": 41437,
@@ -17640,7 +18010,6 @@
       "icon": "nas/naszyjnik682.gif",
       "cl": 13,
       "pr": 305008,
-      "st": 0,
       "stat": "binds;crit=4;critval=12;da=57;ds=221;energybon=23;hp=4169;legbon=cleanse,195;lowevade=20;lvl=195;opis=Ukrywany w tajemnicy przed światem artefakt w końcu ujrzał światło dzienne. Piekielny nietoperz, który przypadkiem wyfrunął z otchłannego portalu, po dziś dzień budzi grozę, zwiastując przyszłe nadejście demonów. Do tej pory dodawał sił smaganiom Sadolii - nadzorczyni hurys, teraz należy do ciebie! Czy będzie symbolizował także przebudzenie twej własnej, demonicznej potęgi?;rarity=legendary;reqp=bpw;sa=203"
     },
     {
@@ -17649,7 +18018,6 @@
       "icon": "nas/naszyjnik684.gif",
       "cl": 13,
       "pr": 290484,
-      "st": 0,
       "stat": "binds;crit=3;critmval=12;di=329;heal=827;hp=2787;legbon=verycrit,195;lvl=195;manabon=98;opis=Dwa naszyjniki przekazał swej oddanej słudze Demonis Pan Nicości. Zdobyte w zażartym boju z Marlloth Malignitas, stanowiły demoniczny atrybut Syna Eszmy przez długie lata. Znalazłszy nowe, potężniejsze zabawki, Tchnienie Grozy oraz Podmuch Potępionych wzmocniły wyposażenie najwierniejszych z wyznawców demona. Czy w innych dłoniach nadal emanują tą samą, przedwieczną energią?;rarity=legendary;reqp=mpt;sa=203"
     },
     {
@@ -17658,7 +18026,6 @@
       "icon": "nas/naszyjnik683.gif",
       "cl": 13,
       "pr": 305008,
-      "st": 0,
       "stat": "binds;crit=3;critval=6;da=106;energybon=46;evade=39;hp=4169;legbon=curse,195;lowevade=20;lvl=195;opis=Dwa naszyjniki przekazał swej oddanej słudze Demonis Pan Nicości. Zdobyte w zażartym boju z Marlloth Malignitas, stanowiły demoniczny atrybut Syna Eszmy przez długie lata. Znalazłszy nowe, potężniejsze zabawki, Tchnienie Grozy oraz Podmuch Potępionych wzmocniły wyposażenie najwierniejszych z wyznawców demona. Czy w innych dłoniach nadal emanują tą samą, przedwieczną energią?;rarity=legendary;reqp=bhtw;sa=203"
     },
     {
@@ -17874,6 +18241,30 @@
       ]
     },
     {
+      "id": 57096,
+      "name": "Pantofle opasłego gryzonia",
+      "icon": "but/buty1223.gif",
+      "cl": 10,
+      "pr": 343161,
+      "stat": "ac=345;act=12;binds;crit=2;critval=6;energybon=46;evade=20;legbon=puncture,197;lowevade=20;lvl=197;opis=Wielki Mysiur - pan i władca,[br]dziura w ziemi jego tronem![br]Gdy zabraknie mu jedzenia,[br]chłosta służbę swym ogonem!;rarity=legendary;reqp=bh;resfire=6;sa=205;slow=64"
+    },
+    {
+      "id": 57095,
+      "name": "Myświórowe kaprysy",
+      "icon": "but/buty1222.gif",
+      "cl": 10,
+      "pr": 397252,
+      "stat": "absorb=1015;absorbm=508;ac=244;act=11;binds;crit=2;critmval=6;di=113;evade=39;heal=243;legbon=cleanse,197;lvl=197;manabon=49;opis=Kąpiel w szlamie, masaż brzuszka,[br]w ogon wtarta już glicyna![br]Gołym okiem stwierdzić można:[br]ma zachcianki myświórzyna!;rarity=legendary;reqp=mt;resdmg=1;resfire=12;sa=156"
+    },
+    {
+      "id": 57094,
+      "name": "Szczurołapki",
+      "icon": "but/buty1221.gif",
+      "cl": 10,
+      "pr": 326820,
+      "stat": "ac=422;act=1;binds;crit=2;critval=12;da=107;energybon=23;legbon=glare,197;lowevade=39;lvl=197;opis=Niegdyś małe miały łapki,[br]szare futro - zwykłe szczury![br]Gdy mutacja nastąpiła, [br]zamieniły się w myświóry!;rarity=legendary;reqp=pw;resfire=6;sa=156"
+    },
+    {
       "id": 31059,
       "name": "Rękawice oddanego sługi",
       "icon": "rek/rekawice484.gif",
@@ -17953,6 +18344,30 @@
       "pr": 346632,
       "st": 0,
       "stat": "ac=381;act=8;crit=2;critval=6;ds=114;energybon=23;evade=40;legbon=lastheal,198;lowevade=20;lvl=198;opis=Krocząc między piętrzącymi się stosami przegniłych ciał, w odurzającym smrodzie lejącej się ropy, słyszeć można było jedynie ciche błagania o szybką śmierć. To nie tak miało wyglądać... Nie tak...;permbound;rarity=legendary;reqp=bhw;reslight=5;sa=206"
+    },
+    {
+      "id": 57399,
+      "name": "Łańcuchy ujarzmiania demonów",
+      "icon": "rek/rekawice1313.gif",
+      "cl": 11,
+      "pr": 353626,
+      "stat": "ac=260;act=14;binds;crit=2;critval=6;da=58;energybon=23;evade=20;hp=1663;legbon=holytouch,200;lvl=200;opis=W czasach wielkiego niepokoju, gdy wrota Otchłani stanęły otworem i przeciskały się przez nie byty powstałe z praojca demonów, Eszmy, wielu wojaków - w obronie krainy - stanęło w szranki z tymi istotami. W starciach korzystali oni z uprzednio zaklętych łańcuchów, które - zaciśnięte na ciałach otchłannych potworów - skutecznie je ujarzmiały. Kilka z tych złotych ogniw ostało się po dziś dzień...;rarity=legendary;reqp=ht;reslight=9;sa=208"
+    },
+    {
+      "id": 57398,
+      "name": "Kryjówka demonicznych sugestii",
+      "icon": "rek/rekawice1317.gif",
+      "cl": 11,
+      "pr": 353626,
+      "stat": "absorb=520;absorbm=260;ac=260;binds;crit=2;critmval=6;di=226;heal=460;legbon=puncture,200;lvl=200;manabon=100;opis=Materiał przesiąknięty mroczną magią Demonisa Pana Nicości skłania do makabrycznych czynów i knowania przeciwko niewinnym obywatelom. Czyżby to właśnie z jego powodu Sataniel, jeszcze jako dziecko, wymordował swoich bliskich i podpalił rodzinną kamienicę, zatajając przy tym własną tożsamość? A może taka jest po prostu cena bratania się z demonami?;rarity=legendary;reqp=mp;reslight=14;sa=158"
+    },
+    {
+      "id": 57397,
+      "name": "Szpony krwawych przesłuchań",
+      "icon": "rek/rekawice1316.gif",
+      "cl": 11,
+      "pr": 389872,
+      "stat": "ac=343;act=5;binds;crit=2;critval=6;ds=115;dz=115;energybon=23;evade=20;heal=234;legbon=lastheal,200;lowevade=20;lvl=200;opis=Wysuwane z rękawicy pazury to jedna z wielu niespodzianek, jakie przygotował Sataniel zarówno dla swoich więźniów, jak i oponentów. Doskonale zdawał on sobie sprawę, że podczas walki każde dodatkowe ostrze może zaważyć o zwycięstwie, a pojawiające się znienacka metalowe szpony skutecznie rozwiążą język każdej niemowie.;rarity=legendary;reqp=bw;reslight=4;sa=158"
     },
     {
       "id": 53364,
@@ -18108,7 +18523,6 @@
       "icon": "but/buty679.gif",
       "cl": 10,
       "pr": 277075,
-      "st": 0,
       "stat": "ac=374;binds;crit=2;da=108;evade=40;hp=1745;legbon=verycrit,200;lvl=200;opis=Dostojne obuwie powolnie emanuje tajemniczym światłem, imitując bicie serca i synchronizując się z pulsem uśpionego w Otchłani piekielnego pomiotu. Pozwala to na swobodny przepływ energii między plugawą mocą z eteru a jej ziemskim medium, pomimo nieotwartego portalu.;rarity=legendary;sa=208"
     },
     {
@@ -18117,8 +18531,7 @@
       "icon": "tal/tal69.gif",
       "cl": 22,
       "pr": 217095,
-      "st": 9,
-      "stat": "afterheal=60,12500;lvl=200;opis=Pulsujący symbol sprzeniewierzenia się bogom przypomina o krwawych oczekiwaniach demonów. Przenośna wersja ołtarza, chociaż pozwala zaspokajać tę żądzę poza salami sekty, pomieści jednak tylko jedną ofiarę.;rarity=legendary;respred=90;binds"
+      "stat": "afterheal=60,21600;binds;lvl=200;opis=Pulsujący symbol sprzeniewierzenia się bogom przypomina o krwawych oczekiwaniach demonów. Przenośna wersja ołtarza, chociaż pozwala zaspokajać tę żądzę poza salami sekty, pomieści jednak tylko jedną ofiarę.;rarity=legendary;respred=90.2"
     },
     {
       "id": 41046,
@@ -18135,7 +18548,6 @@
       "icon": "pie/pierscien697.gif",
       "cl": 12,
       "pr": 320749,
-      "st": 0,
       "stat": "binds;crit=4;critval=6;da=108;dz=115;energybon=23;evade=40;hp=2883;legbon=curse,200;lvl=200;opis=Wprawione w obrączkę kryształy niewiadomego pochodzenia kumulują energię, przekształcając ją - przy każdym ciosie - w wiązkę błyskawic. Niekiedy łaskoczą one ofiarę, niekiedy spiekają ją na śmierć, duszący zaś swąd usmażonych ciał nigdy już nie wywietrzeje z korytarzy Lochów Kultu...;rarity=legendary;reqp=ht;sa=208"
     },
     {
@@ -18144,7 +18556,6 @@
       "icon": "pie/pierscien694.gif",
       "cl": 12,
       "pr": 320749,
-      "st": 0,
       "stat": "binds;crit=2;critval=12;da=108;dz=226;evade=60;hp=1454;legbon=critred,200;lvl=200;opis=Fikuśną błyskotkę Bergermona otrzymała od kupca z odległych krain, który na następny dzień zniknął z miasta. W prastarym pierścieniu, ze zdobieniem przypominającym szpony, zachowały się instrukcje przyzwania potomków Eszmy. Demoniczne sugestie, którym wtedy uległa, zaprowadziły ją do podziemi Nithal, gdzie zaczęła czuć sens swego istnienia, przybierając miano Krwawej Hrabiny...;rarity=legendary;reqp=bh;sa=208;slow=65"
     },
     {
@@ -18153,7 +18564,6 @@
       "icon": "pie/pierscien699.gif",
       "cl": 12,
       "pr": 336786,
-      "st": 0,
       "stat": "binds;blok=30;crit=4;critmval=6;da=108;di=115;heal=432;hp=1454;legbon=critred,200;lvl=200;manabon=100;opis=Sygnet ten, zwany inaczej Pazurem Bluźnierstwa, to pamiątka próby przyzwania do krainy sześciu Synów Eszmy. Gdy ostatni z nich - Bahaal - miał przejść już przez piekielne wrota, połączenie zostało zerwane, a portal zamknął się i ściął wystający z Otchłani palec demona jak gilotyna. Fiasko przedsięwzięcia nie odstraszyło jednak wyznawców, którzy od tamtej pory przygotowują się już do kolejnej apokaliptycznej próby. Zechcesz ich przed tym powstrzymać, czy może do nich dołączysz?;rarity=legendary;reqp=mp;sa=208"
     },
     {
@@ -18162,7 +18572,6 @@
       "icon": "pie/pierscien695.gif",
       "cl": 12,
       "pr": 336786,
-      "st": 0,
       "stat": "binds;crit=3;critmval=12;da=158;di=115;evade=20;heal=432;legbon=cleanse,200;lvl=200;manabon=50;opis=Po długich latach poszukiwań mrocznych artefaktów, staremu Thinkusowi finalnie udało się odnaleźć ruiny piekielnego portalu i elementy pozwalające na jego aktywację. Pradawne wrota, po spełnieniu warunków, nagle rozjaśniały, samemu odbudowując się do dawnej świetności z powietrza i pyłu, odsłaniając przy tym gamę kunsztownych zdobień. Perła ta to jeden z segmentów portalu, strącony smagnięciem Pana Nicości - chroniony przez czcicieli jako materialny symbol zaczątków sekty.;rarity=legendary;reqp=mt;sa=208;slow=65"
     },
     {
@@ -18171,7 +18580,6 @@
       "icon": "pie/pierscien696.gif",
       "cl": 12,
       "pr": 336786,
-      "st": 0,
       "stat": "binds;blok=60;crit=3;critval=12;da=108;ds=115;energybon=23;heal=432;hp=1454;legbon=cleanse,200;lvl=200;opis=Otchłanna, niepozornych rozmiarów szkarada chroniła czegoś na tyle długo i tak wytrwale, że stała się z tym jednością. Spomiędzy jej ostrych kości, które jako jedyne oparły się niszczycielskiemu działaniu tajemniczej mocy, połyskuje teraz drobne skupisko energii.;rarity=legendary;reqp=pw;sa=208"
     },
     {
@@ -18180,7 +18588,6 @@
       "icon": "pie/pierscien698.gif",
       "cl": 12,
       "pr": 320749,
-      "st": 0,
       "stat": "binds;crit=4;critval=18;ds=226;energybon=23;evade=20;hp=1454;legbon=verycrit,200;lowevade=20;lvl=200;opis=W kryształowe serce ognistą duszę tchnął sam Murmur - jeden z sześciu Synów Eszmy, demon patronujący krwawym, bezwzględnym oprawcom. Rozżarzony sygnet wypala resztki człowieczeństwa i wypacza kwestię sumienia u osób, które odważą się włożyć piekielny okrąg na swój palec. Strzeż się, gdyż jest to swoisty, chociaż niewypowiedziany wprost, pakt z samym diabłem.;rarity=legendary;reqp=bw;sa=208"
     },
     {
@@ -18531,6 +18938,14 @@
       ]
     },
     {
+      "id": 57389,
+      "name": "Nawiedzona chusta hrabiny",
+      "icon": "hel/helm1404.gif",
+      "cl": 9,
+      "pr": 302609,
+      "stat": "ac=425;binds;crit=1;da=161;hp=2741;legbon=anguish,204;lowevade=20;lvl=204;opis=Poszarpane nakrycie głowy towarzyszyło Krwawej Hrabinie w każdej egzekucji i każdej łapance nowych dziewic na potrzeby obrządków kultu. Podobnież w tejże chuście, będącej świadkiem największych okropieństw i zła, jakie człowiek może wyrządzić drugiemu człowiekowi, zamieszkują strzępki dusz poległych niewolników, które czasem - niczym lekki powiew wiatru - wprawiają materiał w ruch.;rarity=legendary;sa=161;slow=66"
+    },
+    {
       "id": 44562,
       "name": "Symbol demonicznego oddania",
       "icon": "pie/pierscien810.gif",
@@ -18686,8 +19101,7 @@
       "icon": "hel/helm617.gif",
       "cl": 9,
       "pr": 429961,
-      "st": 0,
-      "stat": "absorb=1188;absorbm=594;ac=285;act=6;binds;crit=2;critmval=6;di=232;heal=263;hp=935;legbon=critred,205;lvl=205;manabon=103;opis=Będziesz cierpieć, przeżywać katusze, oddasz duszę złu... [br]Ale twoja potęga przewyższy wszystko, [br]co do tej pory istniało...;rarity=legendary;reqp=mt;resfrost=9;reslight=6;sa=162"
+      "stat": "absorb=1188;absorbm=594;ac=285;act=6;binds;crit=2;critmval=6;di=232;heal=263;hp=935;legbon=critred,205;lvl=205;manabon=103;opis=Będziesz cierpieć, przeżywać katusze, oddasz duszę złu... Ale twoja potęga przewyższy wszystko, co do tej pory istniało...;rarity=legendary;reqp=mt;resfrost=9;reslight=6;sa=162"
     },
     {
       "id": 39814,
@@ -18695,7 +19109,6 @@
       "icon": "hel/helm616.gif",
       "cl": 9,
       "pr": 389987,
-      "st": 0,
       "stat": "ac=404;act=12;binds;crit=2;critval=6;dz=232;energybon=24;evade=21;legbon=lastheal,205;lowcrit=2;lvl=205;opis=Symbol niezwykłego bestialstwa i fanatyzmu zdobił twarz Zufulusa przez długie lata. Po odebraniu tak wielu żyć i skosztowaniu tak zatrważającej ilości niewinnych serc, zdawać by się mogło, że sam właściciel maski zaczął zmieniać się w demona. A może już nim jest?;rarity=legendary;reqp=bh;reslight=6;sa=162;slow=67"
     },
     {
@@ -18703,8 +19116,7 @@
       "name": "Diadem Tysiąca Świec",
       "icon": "hel/helm615.gif",
       "cl": 9,
-      "pr": 371416,
-      "st": 0,
+      "pr": 353730,
       "stat": "ac=494;act=1;binds;crit=2;critval=6;ds=232;energybon=47;heal=263;legbon=facade,205;lowevade=21;lvl=205;opis=Każdy płomień tańczący w zakamarkach plugawych sal to kolejna ofiara złożona ku czci bestialskich demonów. Każda świeca to życie niewinnej istoty odebrane dla pokrzepienia spaczonych umysłów fanatyków... Zakładając ten diadem, poza wielką siłą z niego płynącą, przyjmiesz na siebie także brzemię ponad tysiąca ofiar rozpłatanych i złożonych na krwawym pentagramie. Możesz się jeszcze wycofać... Póki nie jest za późno.;rarity=legendary;reqp=pw;resfire=6;sa=162"
     },
     {
@@ -18732,6 +19144,66 @@
         "event",
         "event-xmas-15"
       ]
+    },
+    {
+      "id": 57902,
+      "name": "Rybie sztandary V",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 473614,
+      "st": 0,
+      "stat": "absorb=748;absorbm=374;ac=262;act=12;crit=1;da=61;energybon=24;evade=21;hp=891;legbon=curse,210;lowevade=42;lvl=210;manabon=53;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resfire=8;reslight=6;sa=218",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57899,
+      "name": "Pluszowy żarłacz V",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 389643,
+      "st": 0,
+      "stat": "ac=337;act=8;crit=3;critval=6;ds=121;evade=42;legbon=verycrit,210;lowevade=21;lvl=210;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;resfire=2;reslight=3;sa=218",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57897,
+      "name": "Muszelka urodziwej syreny V",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 371089,
+      "st": 0,
+      "stat": "crit=4;dz=121;energybon=24;evade=21;heal=915;legbon=lastheal,210;lowcrit=4;lowevade=21;lvl=210;manabon=53;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=166;slow=68",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57177,
+      "name": "Medalion doskonałości",
+      "icon": "nas/naszyjnik1271.gif",
+      "cl": 13,
+      "pr": 371089,
+      "stat": "binds;crit=2;da=166;energybon=24;evade=21;heal=462;hp=4604;legbon=lastheal,210;lowcrit=4;lvl=210;manabon=53;opis=Amulet ten wykuto lata temu, gdy pierwsi śmiałkowie - poszukiwacze nowych źródeł magii - zawitali w te strony świata. Jedni z nich otoczyli kultem wilki, inni zaś południowe niedźwiedzie, a niektórzy nawet gryfy i mantikory zamieszkujące aktualnie tereny Dzikiego Zagajnika. Niewielka grupa postanowiła zasięgnąć także mistycznych nauk u furboli, jednak żadnemu z adeptów nie udało się opanować złożoności ich prastarych zaklęć, by zasłużyć na odznaczenie tym medalionem.;rarity=legendary;sa=166;slow=68"
+    },
+    {
+      "id": 57176,
+      "name": "Światło odstraszające pająki",
+      "icon": "pie/pierscien1265.gif",
+      "cl": 12,
+      "pr": 353418,
+      "stat": "binds;crit=1;da=113;energybon=24;evade=42;hp=6130;legbon=facade,210;lowevade=21;lvl=210;manabon=53;opis=Wtopiony w pierścień klejnot emanuje światłem, gdy wróg jest w pobliżu... Niegdyś niedoceniany, lecz w czasie bitw z pająkami okazał się zbawienny dla Czempiona, ratując życie jemu i całej jego brygadzie, gdy przez północne lasy przedzierał się Arachin Podstępny, szukający schronienia... Bogowie jedni wiedzą, jaki los spotkałby niedźwiedziego przywódcę, gdyby nie błysk oznaczający niebezpieczeństwo...;rarity=legendary;sa=166;slow=128"
+    },
+    {
+      "id": 57175,
+      "name": "Dziedzictwo linii czempionów",
+      "icon": "rek/rekawice1315.gif",
+      "cl": 11,
+      "pr": 320560,
+      "stat": "ac=337;binds;crit=2;da=166;evade=42;heal=247;hp=891;legbon=critred,210;lvl=210;opis=W dłoniach swych trzymasz artefakt, który dziedziczył po swym poprzedniku każdy kolejny czempion furboli. Choć pazury te liczą już setki lat, to pozostają w niemal idealnym stanie, a wykorzystane do przelewu krwi - według legendy - mogą zostać tylko i wyłącznie wtedy, gdy zagrożone byłoby przetrwanie ciągłości gatunku.;rarity=legendary;sa=166"
     },
     {
       "id": 55669,
@@ -18955,8 +19427,7 @@
       "tags": [
         "event",
         "event-waka-22"
-      ],
-      "extendedID": "43750@210"
+      ]
     },
     {
       "id": 43749,
@@ -19109,7 +19580,6 @@
       "icon": "rek/rekawice486.gif",
       "cl": 11,
       "pr": 409125,
-      "st": 0,
       "stat": "ac=348;act=8;binds;crit=2;critval=6;ds=121;dz=121;energybon=24;evade=42;heal=247;legbon=critred,210;lvl=210;opis=Gdy w odpowiedzi na jad pająka jego oczy zapłonęły szkarłatem, było już pewne, że to właśnie on stanie się tym, który uratuje życie swej Pani. Szkolony przez wybitnych szermierzy i magów, wyruszył na daleką wyprawę, z której nigdy już nie powrócił w ojczyste strony...;rarity=legendary;reqp=bhw;reslight=5;sa=166"
     },
     {
@@ -19118,7 +19588,6 @@
       "icon": "pie/pierscien454.gif",
       "cl": 12,
       "pr": 409125,
-      "st": 0,
       "stat": "acdmg=22;binds;crit=3;critmval=12;di=237;heal=462;hp=1551;legbon=facade,210;lowcrit=2;lvl=210;manabon=53;opis=Nie bez powodu Rycerz nie został stracony przez pajęczą kolonię - w trzymanym przez ciebie pierścieniu drzemie bowiem najwspanialsza z antypajęczej magii, opracowana na terenach zamorskiej Meryzrei. Nieszczęśnik pozostanie więźniem pajęczyn póki nie wydobędą one z niego całej tej mocy i nie przetworzą jej w odporności, by gatunek mógł pozostać bezpieczny.;rarity=legendary;reqp=mpt;resdmg=1;sa=166;slow=68"
     },
     {
@@ -19356,8 +19825,7 @@
       "name": "Pajęcza ozdoba",
       "icon": "nas/pajak_amulet.gif",
       "cl": 13,
-      "pr": 371089,
-      "st": 0,
+      "pr": 353418,
       "stat": "binds;crit=2;da=166;energybon=24;evade=21;heal=462;hp=4604;legbon=facade,210;lowcrit=4;lvl=210;manabon=53;opis=Ten amulet posiada wyjątkowe, ochronne[br]właściwości przeciwko pajęczakom.[br]Dodatkowo, możesz go ścisnąć i kilka[br]kropel jadu w nim zawartego, użyć jako[br]śmiertelnej trucizny dla wroga.;rarity=legendary;sa=166;slow=68"
     },
     {
@@ -19405,7 +19873,6 @@
       "icon": "but/buty118.gif",
       "cl": 10,
       "pr": 424766,
-      "st": 0,
       "stat": "ac=393;acdmg=23;act=12;binds;crit=2;critval=12;ds=123;dz=123;evade=21;legbon=holytouch,214;lowevade=21;lvl=214;opis=Cicho przebiegasz za plecami innowierców. Skradasz się i[nbsp]atakujesz szybko. Krew z poderżniętych gardeł brudzi twoje buty, a każda jej kropla tylko je wzmacnia. Tak jak łzy wrogów, gdy padając na kolana, błagają o litość i[nbsp]szybką śmierć.;rarity=legendary;reqp=bh;resfrost=6;sa=169"
     },
     {
@@ -19413,8 +19880,7 @@
       "name": "Buty uwikłanego piewcy",
       "icon": "but/buty119.gif",
       "cl": 10,
-      "pr": 404539,
-      "st": 0,
+      "pr": 385275,
       "stat": "ac=481;act=1;binds;crit=3;critval=12;ds=123;energybon=24;heal=268;legbon=verycrit,214;lowevade=21;lvl=214;opis=Buty te nosili najtwardsi wojownicy oddani[br]służbie Marlloth Malignitas. Cechowała ich[br]niezwykła siła i zawziętość. Czy chcesz stanąć z nimi w jednym szeregu, dać się uwikłać i z dumą je nosić?;rarity=legendary;reqp=pw;resfrost=6;sa=169"
     },
     {
@@ -19423,7 +19889,6 @@
       "icon": "but/buty117.gif",
       "cl": 10,
       "pr": 468305,
-      "st": 0,
       "stat": "absorb=1156;absorbm=578;ac=277;act=6;binds;crit=2;critmval=12;da=62;di=123;evade=21;heal=268;legbon=lastheal,214;lvl=214;opis=Jesteś w sidłach. Wijesz się. Wykręcasz i walczysz. Z każdym ruchem zapadasz się głębiej w pajęczą matnię... Marlloth Malignitas cię wybrała.;rarity=legendary;reqp=mt;resfrost=15;sa=169;slow=69"
     },
     {
@@ -19432,7 +19897,6 @@
       "icon": "hel/helm207.gif",
       "cl": 9,
       "pr": 362565,
-      "st": 0,
       "stat": "ac=471;binds;crit=2;da=63;heal=283;hp=2964;legbon=glare,218;lowevade=22;lvl=218;opis=Usłyszawszy opowieść o Vaporze Veneno i jego skarbach, wyruszył na manowce w poszukiwaniu bestii. Będąc przekonanym o potędze swojej i swego hełmu, zaglądał do każdej jaskini i uśmiercał maddoki, zwąc je przy tym niegodnymi jego majestatu płotkami. Wielkim musiało być jego zdziwienie, gdy zamiast zwyciężyć z Vaporem Veneno, stracił głowę będąc pokonanym przez jedną z tych płotek - opitego nektarem Mocnego Maddoksa. Trofeum to wisząc przez lata na stalagmicie nie straciło nic ze swej mocy. Czy uda ci się pokonać w nim Vapora Veneno i odebrać mu jego kosztowności?;rarity=legendary;sa=172;slow=70"
     },
     {
@@ -19441,7 +19905,6 @@
       "icon": "nas/mad_n3.gif",
       "cl": 13,
       "pr": 399728,
-      "st": 0,
       "stat": "binds;crit=3;critmval=6;critval=6;da=172;evade=44;heal=486;hp=3237;legbon=holytouch,218;lowevade=22;lvl=218;opis=Legenda głosi, iż najsilniejszy ze wszystkich[br]maddoków zwał się Mocny Maddoks. Jedni[br]mówią, że to wszystko przez hektolitry[br]nektaru, który ciągle pił. Inni, że to przez ten[br]naszyjnik...;rarity=legendary;sa=172;slow=70"
     },
     {
@@ -21417,6 +21880,30 @@
       "stat": "binds;crit=4;critmval=12;di=277;heal=1142;hp=3819;legbon=cleanse,246;lvl=246;manabon=123;opis=Jako przywódca mahopteckiego plemienia, Cuaitl Citlalin utożsamiany był ze Świętym Krukiem - symbolem przenikliwości. Dzięki mocy, która zagnieździła się w tym pierścieniu, posiadł on możliwość zaglądania w głąb dusz i błądzenia swym umysłem po zaświatach. Czy zechcesz poznać tajemnice, jakie zostały mu objawione?;rarity=legendary;reqp=mp;sa=193"
     },
     {
+      "id": 57962,
+      "name": "Morska asystentka VI",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 551176,
+      "st": 0,
+      "stat": "ac=395;act=16;crit=2;critval=12;dz=143;energybon=27;evade=25;legbon=holytouch,250;lvl=250;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;reslight=7;sa=196;slow=151",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 57959,
+      "name": "Uścisk niespokojnej fali VI",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 524929,
+      "st": 0,
+      "stat": "ac=494;blok=38;crit=2;critval=6;di=282;energybon=27;heal=598;legbon=facade,250;lvl=250;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=196",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
       "id": 39925,
       "name": "Ryk cienistego sługusa",
       "icon": "nas/naszyjnik621.gif",
@@ -22367,6 +22854,29 @@
       "pr": 602839,
       "st": 0,
       "stat": "ac=470;act=12;binds;crit=2;critval=12;energybon=56;evade=27;hp=1179;legbon=facade,268;lvl=268;opis=Istniał niemal od zawsze, jednak dopiero chciwość wysokiej, pragnącej nieśmiertelności kasty Wernoradu, przywołała go do krainy. Nauczywszy magów imperium, w jaki sposób przyzwać Seta, stał się niebawem świadkiem zawartego między nimi paktu. Począł wtenczas, ku własnej uciesze, dostarczać śmiertelnikom niebezpiecznych narzędzi z mroku dziejów, obserwując w jaki sposób zostaną one przez nich wykorzystane. Czy oprą się oni niebywałej potędze skarbów, czy może się w niej zatracą? Upływ czasu miał to zweryfikować...;rarity=legendary;reqp=bh;resfire=6;sa=276"
+    },
+    {
+      "id": 58182,
+      "name": "Zagadka oceanu",
+      "icon": "nas/naszyjnik1286.gif",
+      "cl": 13,
+      "pr": 611829,
+      "stat": "binds;crit=3;critval=6;energybon=84;evade=81;heal=656;hp=2187;legbon=holytouch,270;lvl=270;manafatig=40,28;opis=W dłoniach swych trzymasz trofeum po zwycięskim boju z ożywionym szkieletem pirata. Czym jednak jest to ustrojstwo? Jaką skrywa tajemnicę? Odnajdź pasujący do kłódki kluczyk, by rozwiązać tę zagadkę...[br][br]Wakacje 2025 r.;rarity=legendary;reqp=bh;sa=278;slow=85",
+      "tags": [
+        "event-waka-25"
+      ]
+    },
+    {
+      "id": 58181,
+      "name": "Piracka tajemnica",
+      "icon": "nas/naszyjnik1285.gif",
+      "cl": 13,
+      "pr": 611829,
+      "st": 0,
+      "stat": "binds;crit=3;critval=6;da=143;ds=304;enfatig=40,13;heal=656;hp=4349;legbon=holytouch,270;lowevade=54;lvl=270;opis=W dłoniach swych trzymasz trofeum po zwycięskim boju z ożywionym szkieletem pirata. Czym jednak jest to ustrojstwo? Jaką skrywa tajemnicę? Odnajdź pasujący do kłódki kluczyk, by rozwiązać tę zagadkę...[br][br]Wakacje 2025 r.;rarity=legendary;reqp=pw;sa=278",
+      "tags": [
+        "event-waka-25"
+      ]
     },
     {
       "id": 52904,
@@ -23498,8 +24008,7 @@
       "cl": 12,
       "pr": 657773,
       "st": 0,
-      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288",
-      "extendedID": "20110@280"
+      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288"
     },
     {
       "id": 20099,
@@ -23770,6 +24279,18 @@
       "pr": 725470,
       "st": 0,
       "stat": "ac=576;act=8;binds;crit=2;critval=6;da=152;energybon=58;evade=29;legbon=lastheal,287;lvl=287;opis=Opiekunka Drzewa Życia, obudzona wizją zbliżającej się Wielkiej Wojny, czym prędzej zebrała z leśnego runa święte igliwie i magiczne ciernie, z których to splotła jedną z najbardziej okrutnych wizytówek kniei - sękate i dotkliwie kaleczące szpony, którymi broniła w starciu swe driadzie siostry. Pobłogosławione w Źródle Rytuału rękawice stały się prawdziwą pięścią ochronną kniei, przed którą lęka się teraz każdy intruz wkraczający na tereny opanowane przez mroczne driady i ich popleczników.;rarity=legendary;reqp=bhw;reslight=5;sa=223;slow=90"
+    },
+    {
+      "id": 58014,
+      "name": "Muszelka urodziwej syreny VII",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 671791,
+      "st": 0,
+      "stat": "crit=3;da=226;enfatig=40,14;evade=58;heal=727;legbon=verycrit,290;lowevade=29;lvl=290;manafatig=40,29;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=226;slow=174",
+      "tags": [
+        "event-waka-25"
+      ]
     },
     {
       "id": 51920,
@@ -24272,7 +24793,8 @@
         "autolvl",
         "event-hallo-24",
         "event"
-      ]
+      ],
+      "extendedID": "54236@300"
     },
     {
       "id": 54071,
@@ -24603,7 +25125,8 @@
       "tags": [
         "autolvl",
         "removed"
-      ]
+      ],
+      "extendedID": "47381@300"
     },
     {
       "id": 45488,
@@ -24681,7 +25204,7 @@
         "event",
         "event-wiel-24"
       ],
-      "extendedID": "44129@300"
+      "extendedID": "44129@300!ds"
     },
     {
       "id": 44055,
