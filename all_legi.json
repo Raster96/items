@@ -1,5 +1,5 @@
 {
-  "updated": "28.07.2025",
+  "updated": "04.08.2025",
   "data": [
     {
       "id": 55271,
@@ -1241,7 +1241,8 @@
       "cl": 13,
       "pr": 13464,
       "st": 0,
-      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48"
+      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48",
+      "extendedID": "34790@40"
     },
     {
       "id": 34438,
@@ -1634,6 +1635,42 @@
       "tags": [
         "removed"
       ]
+    },
+    {
+      "id": 57534,
+      "name": "Monstrum z północy",
+      "icon": "pie/pierscien1279.gif",
+      "cl": 12,
+      "pr": 16270,
+      "st": 0,
+      "stat": "binds;crit=3;da=19;dz=52;energybon=13;evade=13;legbon=anguish,43;lowcrit=2;lowevade=4;lvl=43;opis=Choć już dawno skamieniałe, to oblicze tej małej, acz groźnie wyglądającej istotki, może jeszcze wiele namieszać w krainie... Pilnuj tej błyskotki jak własnego oka![br][br]Wakacje 2025 r.;rarity=legendary;reqp=ht;sa=51;slow=20"
+    },
+    {
+      "id": 57533,
+      "name": "Monstrum z zachodu",
+      "icon": "pie/pierscien1280.gif",
+      "cl": 12,
+      "pr": 16270,
+      "st": 0,
+      "stat": "binds;crit=5;da=19;di=28;ds=28;heal=136;legbon=anguish,43;lvl=43;manabon=16;opis=Choć już dawno skamieniałe, to oblicze tej małej, acz groźnie wyglądającej istotki, może jeszcze wiele namieszać w krainie... Pilnuj tej błyskotki jak własnego oka![br][br]Wakacje 2025 r.;rarity=legendary;reqp=mp;resdmg=1;sa=40;slow=33"
+    },
+    {
+      "id": 57532,
+      "name": "Monstrum z południa",
+      "icon": "pie/pierscien1278.gif",
+      "cl": 12,
+      "pr": 16270,
+      "st": 0,
+      "stat": "acdmg=3;crit=4;da=19;ds=52;energybon=13;evade=9;heal=72;legbon=anguish,43;lvl=43;opis=Choć już dawno skamieniałe, to oblicze tej małej, acz groźnie wyglądającej istotki, może jeszcze wiele namieszać w krainie... Pilnuj tej błyskotki jak własnego oka![br][br]Wakacje 2025 r.;rarity=legendary;reqp=b;sa=51;slow=20;binds"
+    },
+    {
+      "id": 57531,
+      "name": "Monstrum ze wschodu",
+      "icon": "pie/pierscien1277.gif",
+      "cl": 12,
+      "pr": 16270,
+      "st": 0,
+      "stat": "binds;crit=4;critval=6;da=19;ds=76;energybon=13;heal=72;hp=249;legbon=anguish,43;lvl=43;opis=Choć już dawno skamieniałe, to oblicze tej małej, acz groźnie wyglądającej istotki, może jeszcze wiele namieszać w krainie... Pilnuj tej błyskotki jak własnego oka![br][br]Wakacje 2025 r.;rarity=legendary;reqp=w;sa=51;slow=20"
     },
     {
       "id": 56694,
@@ -2119,6 +2156,15 @@
       ]
     },
     {
+      "id": 57667,
+      "name": "Morska asystentka I",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 22920,
+      "st": 0,
+      "stat": "ac=43;act=16;crit=3;critval=6;dz=32;evade=10;hp=206;legbon=lastheal,50;lvl=50;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;reslight=7;sa=46;slow=22"
+    },
+    {
       "id": 57666,
       "name": "Rybie sztandary I",
       "icon": "rek/rekawice1330.gif",
@@ -2137,7 +2183,7 @@
       "cl": 11,
       "pr": 24066,
       "st": 0,
-      "stat": "absorb=162;absorbm=81;ac=27;crit=1;critmval=12;di=60;hp=570;legbon=glare,50;lvl=50;manabon=13;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=46",
+      "stat": "absorb=162;absorbm=81;ac=27;crit=1;critmval=12;di=60;hp=570;legbon=glare,50;lvl=50;manabon=18;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;resfrost=6;reslight=10;sa=46",
       "tags": [
         "event-waka-25"
       ]
@@ -2149,10 +2195,19 @@
       "cl": 11,
       "pr": 21829,
       "st": 0,
-      "stat": "ac=54;crit=2;da=21;di=87;heal=57;legbon=critred,50;lowevade=5;lvl=50;manabon=13;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=46",
+      "stat": "ac=54;crit=2;da=21;di=87;heal=57;legbon=critred,50;lowevade=5;lvl=50;manabon=18;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=46",
       "tags": [
         "event-waka-25"
       ]
+    },
+    {
+      "id": 57663,
+      "name": "Pluszowy żarłacz I",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 24066,
+      "st": 0,
+      "stat": "ac=49;act=8;crit=2;critval=6;da=21;dz=32;evade=10;hp=206;legbon=lastheal,50;lvl=50;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;reslight=5;sa=46;slow=22"
     },
     {
       "id": 57662,
@@ -2173,7 +2228,7 @@
       "cl": 12,
       "pr": 20789,
       "st": 0,
-      "stat": "crit=5;da=33;energybon=13;evade=5;heal=84;hp=554;legbon=facade,50;lowevade=5;lvl=50;manabon=13;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=46",
+      "stat": "crit=5;da=33;energybon=13;evade=5;heal=84;hp=554;legbon=facade,50;lowevade=5;lvl=50;manabon=18;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=46",
       "tags": [
         "event-waka-25"
       ]
@@ -6966,13 +7021,49 @@
       "tags": []
     },
     {
+      "id": 57727,
+      "name": "Morska asystentka II",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 69228,
+      "st": 0,
+      "stat": "ac=88;act=16;crit=3;dz=54;energybon=32;evade=18;legbon=lastheal,90;lvl=90;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;reslight=7;sa=76;slow=34"
+    },
+    {
+      "id": 57723,
+      "name": "Uścisk niespokojnej fali II",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 65932,
+      "st": 0,
+      "stat": "ac=110;crit=3;di=54;ds=54;energybon=32;legbon=glare,90;lowevade=18;lvl=90;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=76"
+    },
+    {
+      "id": 57722,
+      "name": "Pluszowy żarłacz II",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 72690,
+      "st": 0,
+      "stat": "ac=99;act=8;crit=2;da=31;dz=104;evade=9;hp=701;legbon=critred,90;lowevade=9;lvl=90;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;reslight=5;sa=76"
+    },
+    {
+      "id": 57721,
+      "name": "Czarne płetwy II",
+      "icon": "rek/rekawice1333.gif",
+      "cl": 11,
+      "pr": 62792,
+      "st": 0,
+      "stat": "ac=119;act=1;crit=2;critval=12;energybon=32;hp=1039;legbon=curse,90;lvl=90;opis=Gdy na morzu je zobaczysz,[br]lepiej modły zmów do boga.[br]Wielki sztorm wywołać mogą,[br]marynarzy jest to trwoga![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=w;sa=76"
+    },
+    {
       "id": 57720,
       "name": "Muszelka urodziwej syreny II",
       "icon": "pie/pierscien1276.gif",
       "cl": 12,
       "pr": 69228,
       "st": 0,
-      "stat": "acdmg=7;crit=3;da=98;energybon=16;evade=9;heal=159;legbon=cleanse,90;lowevade=9;lvl=90;manabon=23;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=76",
+      "stat": "acdmg=7;crit=3;da=98;energybon=16;evade=9;heal=159;legbon=cleanse,90;lowevade=9;lvl=90;manabon=28;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=76",
       "tags": [
         "event-waka-25"
       ]
@@ -8783,8 +8874,7 @@
         "event",
         "autolvl",
         "event-autumn"
-      ],
-      "extendedID": "39745@107"
+      ]
     },
     {
       "id": 50666,
@@ -9527,7 +9617,8 @@
         "event",
         "event-marzanna",
         "autolvl"
-      ]
+      ],
+      "extendedID": "42149@112"
     },
     {
       "id": 24661,
@@ -11131,6 +11222,42 @@
       "tags": [
         "removed"
       ]
+    },
+    {
+      "id": 57787,
+      "name": "Morska asystentka III",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 157920,
+      "st": 0,
+      "stat": "ac=146;acdmg=11;act=16;crit=2;dz=76;evade=13;heal=146;hp=1034;legbon=curse,130;lvl=130;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;resfire=4;reslight=3;sa=106"
+    },
+    {
+      "id": 57786,
+      "name": "Rybie sztandary III",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 174107,
+      "st": 0,
+      "stat": "absorb=364;absorbm=182;ac=127;act=12;crit=2;di=148;energybon=19;evade=26;legbon=facade,130;lvl=130;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resdmg=1;resfire=8;reslight=6;sa=106;slow=45"
+    },
+    {
+      "id": 57785,
+      "name": "Łuskołapki III",
+      "icon": "rek/rekawice1332.gif",
+      "cl": 11,
+      "pr": 165816,
+      "st": 0,
+      "stat": "absorb=546;absorbm=273;ac=91;crit=3;di=148;heal=146;legbon=glare,130;lvl=130;manabon=38;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;resdmg=1;resfrost=7;reslight=9;sa=106;slow=45"
+    },
+    {
+      "id": 57784,
+      "name": "Uścisk niespokojnej fali III",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 165816,
+      "st": 0,
+      "stat": "ac=182;blok=20;crit=1;da=41;di=148;energybon=19;heal=146;legbon=facade,130;lvl=130;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;resdmg=1;resfrost=6;reslight=3;sa=106;slow=45"
     },
     {
       "id": 57783,
@@ -13403,10 +13530,20 @@
       "icon": "hel/helm1422.gif",
       "cl": 9,
       "pr": 190222,
+      "st": 0,
       "stat": "ac=237;acdmg=14;act=16;binds;crit=2;energybon=60;evade=15;legbon=lastheal,150;lvl=150;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=h;resfrost=7;sa=158;slow=51",
       "tags": [
         "event-waka-25"
       ]
+    },
+    {
+      "id": 58167,
+      "name": "Władca mórz i oceanów",
+      "icon": "hel/helm1421.gif",
+      "cl": 9,
+      "pr": 199733,
+      "st": 0,
+      "stat": "absorb=887;absorbm=444;ac=148;binds;crit=2;di=337;heal=183;legbon=glare,150;lvl=150;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=m;resdmg=1;resfrost=13;reslight=3;sa=158"
     },
     {
       "id": 58166,
@@ -13414,7 +13551,8 @@
       "icon": "hel/helm1423.gif",
       "cl": 9,
       "pr": 231216,
-      "stat": "absorb=177;absorbm=89;ac=272;acdmg=14;act=6;binds;crit=2;energybon=20;heal=183;legbon=holytouch,150;lowevade=15;lvl=150;manabon=38;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfrost=10;sa=158",
+      "st": 0,
+      "stat": "absorb=177;absorbm=89;ac=272;acdmg=14;act=6;binds;crit=2;energybon=20;heal=183;legbon=holytouch,150;lowevade=15;lvl=150;manabon=43;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfrost=10;sa=158",
       "tags": [
         "event-waka-25"
       ]
@@ -13425,6 +13563,7 @@
       "icon": "hel/helm1424.gif",
       "cl": 9,
       "pr": 199733,
+      "st": 0,
       "stat": "ac=293;acdmg=14;act=5;binds;crit=1;critval=12;ds=87;evade=15;legbon=cleanse,150;lowevade=30;lvl=150;opis=Ni to zwierzę, ni peruka,[br]choć obydwa przypomina...[br]Gdy swą macką połaskocze,[br]to rozchmurzy ci się mina![br][br]Wakacje 2025 r.;rarity=legendary;reqp=bw;resfire=4;sa=158",
       "tags": [
         "event-waka-25"
@@ -15471,13 +15610,49 @@
       ]
     },
     {
+      "id": 57844,
+      "name": "Rybie sztandary IV",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 296411,
+      "st": 0,
+      "stat": "absorb=540;absorbm=270;ac=189;act=12;crit=1;critmval=12;energybon=21;evade=17;hp=1386;legbon=lastheal,170;lvl=170;manabon=48;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resfire=8;reslight=6;sa=178"
+    },
+    {
+      "id": 57842,
+      "name": "Uścisk niespokojnej fali IV",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 243858,
+      "st": 0,
+      "stat": "ac=270;crit=1;critval=6;da=93;hp=705;legbon=verycrit,170;lowevade=34;lvl=170;manabon=90;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;reslight=9;sa=136"
+    },
+    {
+      "id": 57841,
+      "name": "Pluszowy żarłacz IV",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 243858,
+      "st": 0,
+      "stat": "ac=243;act=8;crit=3;critval=6;da=51;energybon=43;evade=17;legbon=curse,170;lvl=170;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;reslight=5;sa=178"
+    },
+    {
+      "id": 57840,
+      "name": "Czarne płetwy IV",
+      "icon": "rek/rekawice1333.gif",
+      "cl": 11,
+      "pr": 256051,
+      "st": 0,
+      "stat": "ac=292;act=1;blok=26;crit=1;ds=287;energybon=21;hp=705;legbon=holytouch,170;lowevade=17;lvl=170;opis=Gdy na morzu je zobaczysz,[br]lepiej modły zmów do boga.[br]Wielki sztorm wywołać mogą,[br]marynarzy jest to trwoga![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=w;sa=136;slow=57"
+    },
+    {
       "id": 57839,
       "name": "Muszelka urodziwej syreny IV",
       "icon": "pie/pierscien1276.gif",
       "cl": 12,
       "pr": 256051,
       "st": 0,
-      "stat": "acdmg=16;crit=1;da=51;energybon=21;evade=34;hp=3480;legbon=critred,170;lowcrit=2;lowevade=17;lvl=170;manabon=43;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=178",
+      "stat": "acdmg=16;crit=1;da=51;energybon=21;evade=34;hp=3480;legbon=critred,170;lowcrit=2;lowevade=17;lvl=170;manabon=48;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;resdmg=1;sa=178",
       "tags": [
         "event-waka-25"
       ]
@@ -16951,7 +17126,8 @@
         "abyss",
         "autolvl",
         "event"
-      ]
+      ],
+      "extendedID": "51801@182"
     },
     {
       "id": 51800,
@@ -18484,7 +18660,8 @@
       "tags": [
         "event-wiel-23",
         "event"
-      ]
+      ],
+      "extendedID": "46618@200"
     },
     {
       "id": 46617,
@@ -19146,16 +19323,34 @@
       ]
     },
     {
+      "id": 57903,
+      "name": "Morska asystentka V",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 389643,
+      "st": 0,
+      "stat": "ac=299;act=6;crit=3;dz=471;heal=247;hp=891;legbon=facade,210;lvl=210;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;resfire=7;reslight=6;sa=113;slow=68"
+    },
+    {
       "id": 57902,
       "name": "Rybie sztandary V",
       "icon": "rek/rekawice1330.gif",
       "cl": 11,
       "pr": 473614,
       "st": 0,
-      "stat": "absorb=748;absorbm=374;ac=262;act=12;crit=1;da=61;energybon=24;evade=21;hp=891;legbon=curse,210;lowevade=42;lvl=210;manabon=53;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resfire=8;reslight=6;sa=218",
+      "stat": "absorb=748;absorbm=374;ac=262;act=12;crit=1;da=61;energybon=24;evade=21;hp=891;legbon=curse,210;lowevade=42;lvl=210;manabon=58;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resfire=8;reslight=6;sa=218",
       "tags": [
         "event-waka-25"
       ]
+    },
+    {
+      "id": 57900,
+      "name": "Uścisk niespokojnej fali V",
+      "icon": "rek/rekawice1329.gif",
+      "cl": 11,
+      "pr": 371089,
+      "st": 0,
+      "stat": "ac=374;blok=32;crit=2;da=113;heal=487;legbon=holytouch,210;lvl=210;manabon=110;opis=Poszedł tryton do lekarza,[br]i usłyszał wtem diagnozę: [br]Syndrom płetwy niespokojnej,[br]co cię zabić w nocy może![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=p;resfrost=3;reslight=6;sa=166"
     },
     {
       "id": 57899,
@@ -19170,13 +19365,22 @@
       ]
     },
     {
+      "id": 57898,
+      "name": "Czarne płetwy V",
+      "icon": "rek/rekawice1333.gif",
+      "cl": 11,
+      "pr": 371089,
+      "st": 0,
+      "stat": "ac=404;act=1;crit=2;critval=12;da=61;ds=121;dz=121;legbon=verycrit,210;lowevade=42;lvl=210;opis=Gdy na morzu je zobaczysz,[br]lepiej modły zmów do boga.[br]Wielki sztorm wywołać mogą,[br]marynarzy jest to trwoga![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=w;sa=166"
+    },
+    {
       "id": 57897,
       "name": "Muszelka urodziwej syreny V",
       "icon": "pie/pierscien1276.gif",
       "cl": 12,
       "pr": 371089,
       "st": 0,
-      "stat": "crit=4;dz=121;energybon=24;evade=21;heal=915;legbon=lastheal,210;lowcrit=4;lowevade=21;lvl=210;manabon=53;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=166;slow=68",
+      "stat": "crit=4;dz=121;energybon=24;evade=21;heal=915;legbon=lastheal,210;lowcrit=4;lowevade=21;lvl=210;manabon=58;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=166;slow=68",
       "tags": [
         "event-waka-25"
       ]
@@ -19427,7 +19631,8 @@
       "tags": [
         "event",
         "event-waka-22"
-      ]
+      ],
+      "extendedID": "43750@210"
     },
     {
       "id": 43749,
@@ -21892,6 +22097,24 @@
       ]
     },
     {
+      "id": 57961,
+      "name": "Rybie sztandary VI",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 578735,
+      "st": 0,
+      "stat": "absorb=988;absorbm=494;ac=346;act=12;crit=1;critmval=6;di=143;energybon=27;hp=4275;legbon=facade,250;lvl=250;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;reslight=14;sa=258"
+    },
+    {
+      "id": 57960,
+      "name": "Łuskołapki VI",
+      "icon": "rek/rekawice1332.gif",
+      "cl": 11,
+      "pr": 524929,
+      "st": 0,
+      "stat": "absorb=1482;absorbm=741;ac=247;crit=2;critmval=12;di=421;heal=598;legbon=curse,250;lvl=250;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;reslight=16;sa=196"
+    },
+    {
       "id": 57959,
       "name": "Uścisk niespokojnej fali VI",
       "icon": "rek/rekawice1329.gif",
@@ -21902,6 +22125,15 @@
       "tags": [
         "event-waka-25"
       ]
+    },
+    {
+      "id": 57956,
+      "name": "Muszelka urodziwej syreny VI",
+      "icon": "pie/pierscien1276.gif",
+      "cl": 12,
+      "pr": 476126,
+      "st": 0,
+      "stat": "crit=2;da=133;evade=25;hp=7786;legbon=lastheal,250;lowcrit=4;lowevade=25;lvl=250;opis=Ta muszelka sekret kryje,[br]w niej się bowiem uchowała...[br]Mała perła, skarb syreny,[br]co jest twarda niczym skała.[br][br]Wakacje 2025 r.;permbound;rarity=legendary;sa=196;slow=151"
     },
     {
       "id": 39925,
@@ -22856,11 +23088,30 @@
       "stat": "ac=470;act=12;binds;crit=2;critval=12;energybon=56;evade=27;hp=1179;legbon=facade,268;lvl=268;opis=Istniał niemal od zawsze, jednak dopiero chciwość wysokiej, pragnącej nieśmiertelności kasty Wernoradu, przywołała go do krainy. Nauczywszy magów imperium, w jaki sposób przyzwać Seta, stał się niebawem świadkiem zawartego między nimi paktu. Począł wtenczas, ku własnej uciesze, dostarczać śmiertelnikom niebezpiecznych narzędzi z mroku dziejów, obserwując w jaki sposób zostaną one przez nich wykorzystane. Czy oprą się oni niebywałej potędze skarbów, czy może się w niej zatracą? Upływ czasu miał to zweryfikować...;rarity=legendary;reqp=bh;resfire=6;sa=276"
     },
     {
+      "id": 58184,
+      "name": "Sekret morskiej toni",
+      "icon": "nas/naszyjnik1284.gif",
+      "cl": 13,
+      "pr": 642420,
+      "st": 0,
+      "stat": "absorb=1296;binds;di=154;dz=154;enfatig=40,13;evade=27;heal=656;hp=4349;legbon=facade,270;lowevade=54;lvl=270;manabon=275;opis=W dłoniach swych trzymasz trofeum po zwycięskim boju z ożywionym szkieletem pirata. Czym jednak jest to ustrojstwo? Jaką skrywa tajemnicę? Odnajdź pasujący do kłódki kluczyk, by rozwiązać tę zagadkę...[br][br]Wakacje 2025 r.;rarity=legendary;reqp=t;sa=278"
+    },
+    {
+      "id": 58183,
+      "name": "Kapitańska zagwozdka",
+      "icon": "nas/naszyjnik1283.gif",
+      "cl": 13,
+      "pr": 611829,
+      "st": 0,
+      "stat": "binds;crit=4;critmval=6;di=154;enfatig=40,13;heal=656;hp=6511;legbon=facade,270;lowcrit=2;lvl=270;manabon=140;opis=W dłoniach swych trzymasz trofeum po zwycięskim boju z ożywionym szkieletem pirata. Czym jednak jest to ustrojstwo? Jaką skrywa tajemnicę? Odnajdź pasujący do kłódki kluczyk, by rozwiązać tę zagadkę...[br][br]Wakacje 2025 r.;rarity=legendary;reqp=m;sa=278"
+    },
+    {
       "id": 58182,
       "name": "Zagadka oceanu",
       "icon": "nas/naszyjnik1286.gif",
       "cl": 13,
       "pr": 611829,
+      "st": 0,
       "stat": "binds;crit=3;critval=6;energybon=84;evade=81;heal=656;hp=2187;legbon=holytouch,270;lvl=270;manafatig=40,28;opis=W dłoniach swych trzymasz trofeum po zwycięskim boju z ożywionym szkieletem pirata. Czym jednak jest to ustrojstwo? Jaką skrywa tajemnicę? Odnajdź pasujący do kłódki kluczyk, by rozwiązać tę zagadkę...[br][br]Wakacje 2025 r.;rarity=legendary;reqp=bh;sa=278;slow=85",
       "tags": [
         "event-waka-25"
@@ -24008,7 +24259,8 @@
       "cl": 12,
       "pr": 657773,
       "st": 0,
-      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288"
+      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288",
+      "extendedID": "20110@280"
     },
     {
       "id": 20099,
@@ -24279,6 +24531,51 @@
       "pr": 725470,
       "st": 0,
       "stat": "ac=576;act=8;binds;crit=2;critval=6;da=152;energybon=58;evade=29;legbon=lastheal,287;lvl=287;opis=Opiekunka Drzewa Życia, obudzona wizją zbliżającej się Wielkiej Wojny, czym prędzej zebrała z leśnego runa święte igliwie i magiczne ciernie, z których to splotła jedną z najbardziej okrutnych wizytówek kniei - sękate i dotkliwie kaleczące szpony, którymi broniła w starciu swe driadzie siostry. Pobłogosławione w Źródle Rytuału rękawice stały się prawdziwą pięścią ochronną kniei, przed którą lęka się teraz każdy intruz wkraczający na tereny opanowane przez mroczne driady i ich popleczników.;rarity=legendary;reqp=bhw;reslight=5;sa=223;slow=90"
+    },
+    {
+      "id": 58020,
+      "name": "Morska asystentka VII",
+      "icon": "rek/rekawice1331.gif",
+      "cl": 11,
+      "pr": 777682,
+      "st": 0,
+      "stat": "ac=504;acdmg=38;act=16;crit=2;critval=6;energybon=59;evade=29;legbon=lastheal,290;lowcrit=2;lvl=290;opis=Kiedy braknie ci już ręki,[br]użyj macki - wnet pomoże![br]Chwyci łuk i poda strzałę,[br]powiosłuje płynąc w morze![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=h;resfire=4;reslight=3;sa=298"
+    },
+    {
+      "id": 58019,
+      "name": "Rybie sztandary VII",
+      "icon": "rek/rekawice1330.gif",
+      "cl": 11,
+      "pr": 945277,
+      "st": 0,
+      "stat": "absorb=1260;absorbm=630;ac=441;acdmg=38;act=12;crit=1;da=153;di=165;evade=29;heal=362;legbon=facade,290;lvl=290;opis=Powiewają dwa sztandary,[br]każdy z nich jak ogon ryby![br]Lepiej poskrom nimi fale,[br]nim zakują cię w swe dyby![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=t;resdmg=1;resfire=8;reslight=6;sa=226;slow=91"
+    },
+    {
+      "id": 58018,
+      "name": "Łuskołapki VII",
+      "icon": "rek/rekawice1332.gif",
+      "cl": 11,
+      "pr": 857394,
+      "st": 0,
+      "stat": "absorb=1890;absorbm=945;ac=315;critmval=12;da=81;di=165;heal=362;legbon=cleanse,290;lowcrit=4;lvl=290;opis=Rybie łuski zdobią dłonie,[br]to najnowszy krzyk jest mody![br]Choć noszone - przyznać musisz[br]- dla efektu, nie wygody...[br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=m;resdmg=1;resfrost=7;reslight=9;sa=226;slow=91"
+    },
+    {
+      "id": 58016,
+      "name": "Pluszowy żarłacz VII",
+      "icon": "rek/rekawice1334.gif",
+      "cl": 11,
+      "pr": 705380,
+      "st": 0,
+      "stat": "ac=567;acdmg=38;act=8;critval=6;ds=326;hp=5098;legbon=glare,290;lvl=290;opis=Chociaż skórę ma mięciutką,[br]ostre jego są zębiska...[br]Komplet palców chcesz zachować? [br]Nie zaglądaj w paszczę z bliska![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=b;resfire=3;reslight=2;sa=298"
+    },
+    {
+      "id": 58015,
+      "name": "Czarne płetwy VII",
+      "icon": "rek/rekawice1333.gif",
+      "cl": 11,
+      "pr": 777682,
+      "st": 0,
+      "stat": "ac=680;acdmg=38;act=1;blok=44;critval=6;energybon=29;heal=716;hp=1293;legbon=glare,290;lowevade=29;lvl=290;opis=Gdy na morzu je zobaczysz,[br]lepiej modły zmów do boga.[br]Wielki sztorm wywołać mogą,[br]marynarzy jest to trwoga![br][br]Wakacje 2025 r.;permbound;rarity=legendary;reqp=w;sa=226;slow=91"
     },
     {
       "id": 58014,
@@ -25048,7 +25345,8 @@
       "stat": "acdmg=53;binds;crit=1;dmg=3640,4449;ds=171;dz=171;energybon=30;evade=30;hp=2538;legbon=curse,300;lvl=300;opis=Lodowa kula zawieszona na zmrożonym łańcuchu zmasakrowała w swojej historii zbyt wiele ciał i odebrała życie zbyt wielu istotom... Chcąc dzierżyć tę broń musisz wyzbyć się resztek sumienia - wtedy dopiero korbacz stanie ci się w pełni posłuszny.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Pychy.;rarity=legendary;reqp=b;sa=158;slow=94;wound=23,782",
       "tags": [
         "kopalnia-300"
-      ]
+      ],
+      "extendedID": "49109@300"
     },
     {
       "id": 49108,
@@ -25085,7 +25383,8 @@
         "autolvl",
         "event-hallo-23",
         "event"
-      ]
+      ],
+      "extendedID": "48880@300"
     },
     {
       "id": 47882,
@@ -25099,7 +25398,7 @@
         "one-night-casino",
         "event"
       ],
-      "extendedID": "47882@300"
+      "extendedID": "47882@300!heal"
     },
     {
       "id": 47382,
@@ -25112,7 +25411,8 @@
       "tags": [
         "autolvl",
         "removed"
-      ]
+      ],
+      "extendedID": "47382@300"
     },
     {
       "id": 47381,
@@ -25218,7 +25518,7 @@
         "event-xmas-23",
         "event"
       ],
-      "extendedID": "44055@300"
+      "extendedID": "44055@300!dz"
     },
     {
       "id": 43700,
@@ -25337,7 +25637,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39730@300"
     },
     {
       "id": 23324,
@@ -25449,7 +25750,8 @@
       "cl": 8,
       "pr": 1426290,
       "st": 0,
-      "stat": "ac=2520;act=16;crit=1;dz=337;energybon=30;evade=90;hp=2538;legbon=holytouch,300;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383"
+      "stat": "ac=2520;act=16;crit=1;dz=337;energybon=30;evade=90;hp=2538;legbon=holytouch,300;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383",
+      "extendedID": "21926@300"
     },
     {
       "id": 21925,
