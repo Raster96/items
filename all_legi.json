@@ -1,5 +1,5 @@
 {
-  "updated": "03.10.2025",
+  "updated": "23.10.2025",
   "data": [
     {
       "id": 56563,
@@ -484,7 +484,7 @@
       "cl": 15,
       "pr": 35,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 45347,
@@ -493,7 +493,7 @@
       "cl": 15,
       "pr": 35,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 45343,
@@ -502,7 +502,7 @@
       "cl": 15,
       "pr": 35,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=35;opis=Jeden z 18 składników legendarnego stroju[br]Mrocznego Patryka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 45330,
@@ -1792,7 +1792,7 @@
       "cl": 15,
       "pr": 45,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 45396,
@@ -1801,7 +1801,7 @@
       "cl": 15,
       "pr": 45,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 45395,
@@ -1810,7 +1810,7 @@
       "cl": 15,
       "pr": 45,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=45;opis=Jeden z 18 składników legendarnego stroju[br]Karmazynowego Mściciela. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 42042,
@@ -2520,7 +2520,7 @@
       "cl": 15,
       "pr": 50,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 37219,
@@ -2529,7 +2529,7 @@
       "cl": 15,
       "pr": 50,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 37217,
@@ -2538,7 +2538,7 @@
       "cl": 15,
       "pr": 50,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=50;opis=Jeden z 18 składników legendarnego stroju[br]Złodzieja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 36607,
@@ -3977,6 +3977,42 @@
       ]
     },
     {
+      "id": 58612,
+      "name": "Penetrator kanałów zębowych",
+      "icon": "pie/pierscien1322.gif",
+      "cl": 12,
+      "pr": 34917,
+      "st": 0,
+      "stat": "binds;crit=2;critval=6;dz=142;energybon=14;evade=12;heal=105;hp=362;legbon=anguish,62;lowevade=12;lvl=62;opis=Jeśli boisz się dentysty, [br]słuszne są obawy twoje... [br]Dziurę w zębie wyświdruje,[br]aż wybiją śliny zdroje![br][br]Halloween 2025 r.;rarity=legendary;reqp=ht;sa=39;slow=26"
+    },
+    {
+      "id": 58611,
+      "name": "Smakosz zainfekowanej miazgi",
+      "icon": "pie/pierscien1321.gif",
+      "cl": 12,
+      "pr": 34917,
+      "st": 0,
+      "stat": "binds;crit=2;critmval=12;di=107;ds=38;energybon=14;heal=202;hp=362;legbon=anguish,62;lvl=62;manabon=21;opis=Jeśli boisz się dentysty, [br]słuszne są obawy twoje... [br]Dziurę w zębie wyświdruje,[br]aż wybiją śliny zdroje![br][br]Halloween 2025 r.;rarity=legendary;reqp=mp;sa=39;slow=43"
+    },
+    {
+      "id": 58610,
+      "name": "Trofeum upiornego dentysty",
+      "icon": "pie/pierscien1323.gif",
+      "cl": 12,
+      "pr": 34917,
+      "st": 0,
+      "stat": "binds;crit=3;da=39;ds=38;dz=38;energybon=14;evade=19;heal=105;hp=362;legbon=anguish,62;lowevade=6;lvl=62;opis=Jeśli boisz się dentysty, [br]słuszne są obawy twoje... [br]Dziurę w zębie wyświdruje,[br]aż wybiją śliny zdroje![br][br]Halloween 2025 r.;rarity=legendary;reqp=b;sa=55"
+    },
+    {
+      "id": 58609,
+      "name": "Klątwa obumarłych dziąseł",
+      "icon": "pie/pierscien1324.gif",
+      "cl": 12,
+      "pr": 34917,
+      "st": 0,
+      "stat": "binds;blok=9;crit=3;critval=12;da=39;ds=38;energybon=14;heal=105;hp=700;legbon=anguish,62;lowevade=6;lvl=62;opis=Jeśli boisz się dentysty, [br]słuszne są obawy twoje... [br]Dziurę w zębie wyświdruje,[br]aż wybiją śliny zdroje![br][br]Halloween 2025 r.;rarity=legendary;reqp=w;sa=55"
+    },
+    {
       "id": 53228,
       "name": "Kryształowe sztuczki Vonarosa",
       "icon": "rek/rekawice1188.gif",
@@ -4034,7 +4070,7 @@
       "cl": 15,
       "pr": 63,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 46873,
@@ -4043,7 +4079,7 @@
       "cl": 15,
       "pr": 63,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 46872,
@@ -4052,7 +4088,7 @@
       "cl": 15,
       "pr": 63,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=63;opis=Jeden z 18 składników legendarnego stroju[br]Złego Przewodnika. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 28600,
@@ -5239,7 +5275,7 @@
       "cl": 15,
       "pr": 74,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50408,
@@ -5248,7 +5284,7 @@
       "cl": 15,
       "pr": 74,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50406,
@@ -5257,7 +5293,7 @@
       "cl": 15,
       "pr": 74,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=74;opis=Jeden z 18 składników legendarnego stroju[br]Opętanego Paladyna. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 47821,
@@ -6947,7 +6983,7 @@
       "cl": 15,
       "pr": 85,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 38517,
@@ -6956,7 +6992,7 @@
       "cl": 15,
       "pr": 85,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 38516,
@@ -6965,7 +7001,7 @@
       "cl": 15,
       "pr": 85,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=85;opis=Jeden z 18 składników legendarnego stroju[br]Piekielnego Kościeja. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 36740,
@@ -7754,7 +7790,7 @@
       "cl": 15,
       "pr": 94,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50454,
@@ -7763,7 +7799,7 @@
       "cl": 15,
       "pr": 94,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50453,
@@ -7772,7 +7808,7 @@
       "cl": 15,
       "pr": 94,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=94;opis=Jeden z 18 składników legendarnego stroju[br]Koźca Mąciciela Ścieżek. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 53797,
@@ -8780,7 +8816,7 @@
       "cl": 15,
       "pr": 102,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50379,
@@ -8789,7 +8825,7 @@
       "cl": 15,
       "pr": 102,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 50378,
@@ -8798,7 +8834,7 @@
       "cl": 15,
       "pr": 102,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=102;opis=Jeden z 18 składników legendarnego stroju[br]Kochanki Nocy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 42137,
@@ -9700,6 +9736,19 @@
       ]
     },
     {
+      "id": 59025,
+      "name": "Bombowe buty",
+      "icon": "but/buty1362.gif",
+      "cl": 10,
+      "pr": 111973,
+      "st": 0,
+      "stat": "ac=159;artisanbon=150;created=1761215247;crit=3;critmval=6;critval=6;da=36;evade=11;heal=130;hp=470;legbon=verycrit,112;lvl=112;opis=Urwanie stopy z nimi...[br][br]Zdobycz po zwycięstwie nad halloweenową elitą III.[br][br]Halloween #YEAR# r.;permbound;rarity=legendary;sa=64;slow=40",
+      "tags": [
+        "autolvl",
+        "event-hallo-25"
+      ]
+    },
+    {
       "id": 56341,
       "name": "Samotnia homunculusa",
       "icon": "nas/naszyjnik1238.gif",
@@ -10118,7 +10167,7 @@
       "cl": 15,
       "pr": 116,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 37151,
@@ -10127,7 +10176,7 @@
       "cl": 15,
       "pr": 116,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 37150,
@@ -10136,7 +10185,7 @@
       "cl": 15,
       "pr": 116,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=116;opis=Jeden z 18 składników legendarnego stroju[br]Księcia Kasima. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 27757,
@@ -10274,6 +10323,42 @@
       "tags": [
         "removed"
       ]
+    },
+    {
+      "id": 58625,
+      "name": "Uśmiechnięte mankiety",
+      "icon": "rek/rekawice1375.gif",
+      "cl": 11,
+      "pr": 122241,
+      "st": 0,
+      "stat": "ac=146;act=3;binds;crit=2;ds=204;energybon=18;evade=36;legbon=anguish,120;lvl=120;opis=Eksperyment to, czy czary? [br]Mruga dłoń, przedramię szczeka![br]Patrząc na to, myślisz z cicha:[br]Czy to dzieło jest człowieka?[br][br]Halloween 2025 r.;rarity=legendary;reqp=b;resfire=2;reslight=6;sa=98"
+    },
+    {
+      "id": 58624,
+      "name": "Oczy dookoła dłoni",
+      "icon": "rek/rekawice1373.gif",
+      "cl": 11,
+      "pr": 148585,
+      "st": 0,
+      "stat": "absorb=244;absorbm=122;ac=122;act=5;binds;crit=1;da=38;di=204;heal=134;hp=487;legbon=anguish,120;lvl=120;manabon=65;opis=Eksperyment to, czy czary? [br]Mruga dłoń, przedramię szczeka![br]Patrząc na to, myślisz z cicha:[br]Czy to dzieło jest człowieka?[br][br]Halloween 2025 r.;rarity=legendary;reqp=mp;resfire=5;reslight=6;sa=98"
+    },
+    {
+      "id": 58623,
+      "name": "Zapasowa szczęka wampira",
+      "icon": "rek/rekawice1376.gif",
+      "cl": 11,
+      "pr": 134771,
+      "st": 0,
+      "stat": "ac=122;act=9;binds;crit=2;dz=137;energybon=18;evade=24;heal=134;hp=487;legbon=anguish,120;lvl=120;opis=Eksperyment to, czy czary? [br]Mruga dłoń, przedramię szczeka![br]Patrząc na to, myślisz z cicha:[br]Czy to dzieło jest człowieka?[br][br]Halloween 2025 r.;rarity=legendary;reqp=ht;resfire=6;reslight=6;sa=98"
+    },
+    {
+      "id": 58622,
+      "name": "Czarne podglądaczki",
+      "icon": "rek/rekawice1374.gif",
+      "cl": 11,
+      "pr": 116420,
+      "st": 0,
+      "stat": "ac=176;act=1;binds;da=68;ds=204;energybon=18;hp=949;legbon=anguish,120;lowevade=12;lvl=120;opis=Eksperyment to, czy czary? [br]Mruga dłoń, przedramię szczeka![br]Patrząc na to, myślisz z cicha:[br]Czy to dzieło jest człowieka?[br][br]Halloween 2025 r.;rarity=legendary;reqp=w;sa=98"
     },
     {
       "id": 54760,
@@ -11008,7 +11093,7 @@
       "cl": 15,
       "pr": 123,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54543,
@@ -11017,7 +11102,7 @@
       "cl": 15,
       "pr": 123,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54542,
@@ -11026,7 +11111,7 @@
       "cl": 15,
       "pr": 123,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=123;opis=Jeden z 18 składników legendarnego stroju[br]Świętego Braciszka. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 42705,
@@ -12051,7 +12136,7 @@
       "cl": 15,
       "pr": 135,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54461,
@@ -12060,7 +12145,7 @@
       "cl": 15,
       "pr": 135,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54460,
@@ -12069,7 +12154,7 @@
       "cl": 15,
       "pr": 135,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=135;opis=Jeden z 18 składników legendarnego stroju[br]Złotego Rogera. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 51224,
@@ -12768,7 +12853,7 @@
       "cl": 15,
       "pr": 144,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54520,
@@ -12777,7 +12862,7 @@
       "cl": 15,
       "pr": 144,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54519,
@@ -12786,7 +12871,7 @@
       "cl": 15,
       "pr": 144,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=144;opis=Jeden z 18 składników legendarnego stroju[br]Bacy bez Łowiec. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54408,
@@ -14404,13 +14489,22 @@
       ]
     },
     {
+      "id": 56203,
+      "name": "Złoty grzebień wiedźmy",
+      "icon": "neu/itm_atka_l3.gif",
+      "cl": 15,
+      "pr": 157,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=157;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
       "id": 56202,
       "name": "Podręczny odbijacz czarów",
       "icon": "neu/itm_atka_l2.gif",
       "cl": 15,
       "pr": 157,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=157;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=157;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 56201,
@@ -14419,7 +14513,7 @@
       "cl": 15,
       "pr": 157,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=157;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=157;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54943,
@@ -14489,15 +14583,6 @@
         "event-xmas-23",
         "event"
       ]
-    },
-    {
-      "id": 56203,
-      "name": "Złoty grzebień wiedźmy",
-      "icon": "neu/itm_atka_l3.gif",
-      "cl": 15,
-      "pr": 157,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=158;opis=Jeden z 18 składników legendarnego stroju[br]Czarującej Atalii. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 31052,
@@ -15284,6 +15369,33 @@
       ]
     },
     {
+      "id": 58641,
+      "name": "Zabawka psychopaty",
+      "icon": "but/buty1350.gif",
+      "cl": 10,
+      "pr": 262861,
+      "st": 0,
+      "stat": "ac=246;act=6;binds;crit=1;dz=95;evade=33;heal=197;legbon=puncture,164;lowcrit=4;lowevade=16;lvl=164;opis=Wielkie dzieło naukowca,[br]co związany był z niewolą.[br]Jedni twierdzą - wielki geniusz![br]Inni gardzą jego dolą...[br][br]Halloween 2025 r.;rarity=legendary;reqp=h;resfire=9;reslight=4;sa=131;slow=55"
+    },
+    {
+      "id": 58640,
+      "name": "Ujadające cholewy",
+      "icon": "but/buty1352.gif",
+      "cl": 10,
+      "pr": 262861,
+      "st": 0,
+      "stat": "absorb=460;absorbm=230;ac=230;binds;blok=25;da=90;di=95;heal=197;legbon=puncture,164;lvl=164;manabon=128;opis=Wielkie dzieło naukowca,[br]co związany był z niewolą.[br]Jedni twierdzą - wielki geniusz![br]Inni gardzą jego dolą...[br][br]Halloween 2025 r.;rarity=legendary;reqp=mp;resfire=8;resfrost=6;sa=131;slow=55"
+    },
+    {
+      "id": 58639,
+      "name": "Podeszwy cichego obserwatora",
+      "icon": "but/buty1351.gif",
+      "cl": 10,
+      "pr": 250343,
+      "st": 0,
+      "stat": "ac=246;act=10;binds;crit=1;da=49;dz=186;energybon=42;evade=49;legbon=puncture,164;lvl=164;opis=Wielkie dzieło naukowca,[br]co związany był z niewolą.[br]Jedni twierdzą - wielki geniusz![br]Inni gardzą jego dolą...[br][br]Halloween 2025 r.;rarity=legendary;reqp=bt;resfire=3;resfrost=3;reslight=2;sa=131"
+    },
+    {
       "id": 55341,
       "name": "Odznaczenie smokobija",
       "icon": "hel/helm1349.gif",
@@ -15389,7 +15501,7 @@
       "cl": 15,
       "pr": 165,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 40329,
@@ -15398,7 +15510,7 @@
       "cl": 15,
       "pr": 165,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 40321,
@@ -15407,7 +15519,7 @@
       "cl": 15,
       "pr": 165,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=165;opis=Jeden z 18 składników legendarnego stroju[br]Obłąkanego Łowcy Orków. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 37494,
@@ -16439,7 +16551,7 @@
       "cl": 15,
       "pr": 177,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54497,
@@ -16448,7 +16560,7 @@
       "cl": 15,
       "pr": 177,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 54496,
@@ -16457,7 +16569,7 @@
       "cl": 15,
       "pr": 177,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=177;opis=Jeden z 18 składników legendarnego stroju[br]Lichwiarza Grauhaza. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 44306,
@@ -17504,7 +17616,7 @@
       "cl": 15,
       "pr": 185,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 42121,
@@ -17513,7 +17625,7 @@
       "cl": 15,
       "pr": 185,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 42120,
@@ -17522,7 +17634,7 @@
       "cl": 15,
       "pr": 185,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=185;opis=Jeden z 18 składników legendarnego stroju[br]Viviany Nandin. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 15419,
@@ -18441,6 +18553,60 @@
       ]
     },
     {
+      "id": 58799,
+      "name": "Kwiaty spijające krew",
+      "icon": "neu/itm_przeraza_l3.gif",
+      "cl": 15,
+      "pr": 194,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=194;opis=Jeden z 18 składników legendarnego stroju Przerazy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58798,
+      "name": "Flakon więzionych świadomości",
+      "icon": "neu/itm_przeraza_l2.gif",
+      "cl": 15,
+      "pr": 194,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=194;opis=Jeden z 18 składników legendarnego stroju Przerazy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58797,
+      "name": "Magiczna ręka kostuchy",
+      "icon": "neu/itm_przeraza_l1.gif",
+      "cl": 15,
+      "pr": 194,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=194;opis=Jeden z 18 składników legendarnego stroju Przerazy. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 57405,
+      "name": "Mankiety powiernika woli",
+      "icon": "rek/rekawice1372.gif",
+      "cl": 11,
+      "pr": 366971,
+      "st": 0,
+      "stat": "absorb=826;absorbm=413;ac=198;act=6;binds;crit=2;critmval=12;di=112;evade=19;heal=226;legbon=lastheal,194;lvl=194;manabon=54;opis=Leśna kostucha używa wielu rodzajów magii, gdyż jest złączonymi w jedność szczątkami drastycznie poległych magów. Życiodajne soki wtłoczone w rozerwane tkanki połączyły ze sobą zarówno ludzkie ochłapy, jak i tlące się w nich resztki świadomości. Ten poważny występek względem praw natury, zaowocował powstaniem Przerazy - istoty obdarzonej wolą Cerarusa, rozkazującej słabszym marionetkom z Mrocznego Lasu oraz tworzącej plany zwabiania i uśmiercania podróżników w celu przeobrażania ich ciał w kolejne kukiełki.;rarity=legendary;reqp=mt;resfire=15;sa=202"
+    },
+    {
+      "id": 57404,
+      "name": "Dłonie wielu osobowości",
+      "icon": "rek/rekawice1370.gif",
+      "cl": 11,
+      "pr": 317003,
+      "st": 0,
+      "stat": "ac=344;act=1;binds;blok=29;crit=3;critval=12;ds=112;legbon=glare,194;lowevade=19;lvl=194;opis=Przeraza nie posiada własnej osobowości - przemawiają przez nią ofiary, z których szczątków została stworzona i które to prowadzą stałą batalię między sobą o dominację nad ciałem. Nieważne jednak, która ze świadomości ma w danej chwili kontrolę, gdyż wszelkie działania podejmowane przez konstrukt są zgodne z wolą Cerasusa i dążą do utworzenia potwornej armii.;rarity=legendary;reqp=pw;resfire=6;sa=202"
+    },
+    {
+      "id": 57403,
+      "name": "Bransolety kwitnącej aberracji",
+      "icon": "rek/rekawice1371.gif",
+      "cl": 11,
+      "pr": 332853,
+      "st": 0,
+      "stat": "ac=281;act=12;binds;crit=2;critval=6;energybon=23;evade=39;hp=816;legbon=facade,194;lvl=194;opis=Konstrukt, jakim jest Przeraza, powstał ze szczątków magów, których to - w przypływie gniewu i rozpaczy - zabił Cerasus. Kontrolowany przez pnącza, magię oraz wolę drzewca, jest on najsilniejszą z marionetek Mrocznego Lasu. Będąc przy tym powiernikiem woli pomniejszego boga - Cerasusa - działa zgodnie z jego ideami, zachowując pełną swobodę w przemieszczaniu się po kniei.;rarity=legendary;reqp=bh;resfire=6;sa=202;slow=63"
+    },
+    {
       "id": 41075,
       "name": "Piekielny Nietoperz",
       "icon": "nas/naszyjnik682.gif",
@@ -18716,7 +18882,10 @@
       "cl": 11,
       "pr": 296435,
       "st": 0,
-      "stat": "ac=305;binds;crit=4;da=57;evade=20;heal=230;legbon=verycrit,197;lowevade=20;lvl=197;opis=Ktokolwiek nałoży te rękawice, natychmiastowo staje się bezmyślnym pionkiem na usługach Marlloth Malignitas. Czy więc Mulher Ma służyła swej Pani z własnej woli...?;rarity=legendary;sa=156;slow=64"
+      "stat": "ac=305;binds;crit=4;da=57;evade=20;heal=230;legbon=verycrit,197;lowevade=20;lvl=197;opis=Ktokolwiek nałoży te rękawice, natychmiastowo staje się bezmyślnym pionkiem na usługach Marlloth Malignitas. Czy więc Mulher Ma służyła swej Pani z własnej woli...?;rarity=legendary;sa=156;slow=64",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 13912,
@@ -18725,7 +18894,10 @@
       "cl": 9,
       "pr": 343161,
       "st": 0,
-      "stat": "ac=415;acdmg=20;act=8;binds;crit=3;critval=12;ds=113;evade=20;legbon=facade,197;lowevade=20;lvl=197;opis=Gdy tylko wsuniesz ten hełm na głowę,[br]usłyszysz okrzyk wzywający do boju. Do[br]walki na śmierć i życie. Do walki za swą[br]demoniczną oblubienicę. Mulher Ma użyła[br]potężnej magii, aby przygotować oręż swej[br]gwardii. Walcz lub giń.;rarity=legendary;reqp=bhw;reslight=5;sa=156"
+      "stat": "ac=415;acdmg=20;act=8;binds;crit=3;critval=12;ds=113;evade=20;legbon=facade,197;lowevade=20;lvl=197;opis=Gdy tylko wsuniesz ten hełm na głowę,[br]usłyszysz okrzyk wzywający do boju. Do[br]walki na śmierć i życie. Do walki za swą[br]demoniczną oblubienicę. Mulher Ma użyła[br]potężnej magii, aby przygotować oręż swej[br]gwardii. Walcz lub giń.;rarity=legendary;reqp=bhw;reslight=5;sa=156",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 13911,
@@ -18734,7 +18906,10 @@
       "cl": 9,
       "pr": 378335,
       "st": 0,
-      "stat": "absorb=751;absorbm=375;ac=335;act=4;binds;crit=3;critmval=12;da=107;heal=251;legbon=curse,197;lvl=197;manabon=54;opis=Mulher Ma pragnęła władzy i w wielu miastach oddawano jej cześć godną bogini. Nie wystarczało jej to jednak i żądała ofiar w ludziach. Jęki i płacz niewolników kwitowała pogardliwym śmiechem...;rarity=legendary;reqp=mpt;resdmg=1;reslight=11;sa=156"
+      "stat": "absorb=751;absorbm=375;ac=335;act=4;binds;crit=3;critmval=12;da=107;heal=251;legbon=curse,197;lvl=197;manabon=54;opis=Mulher Ma pragnęła władzy i w wielu miastach oddawano jej cześć godną bogini. Nie wystarczało jej to jednak i żądała ofiar w ludziach. Jęki i płacz niewolników kwitowała pogardliwym śmiechem...;rarity=legendary;reqp=mpt;resdmg=1;reslight=11;sa=156",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 28974,
@@ -19432,6 +19607,42 @@
       ]
     },
     {
+      "id": 58657,
+      "name": "Buciska z organiczną wentylacją",
+      "icon": "but/buty1359.gif",
+      "cl": 10,
+      "pr": 438420,
+      "st": 0,
+      "stat": "absorb=1056;absorbm=528;ac=253;act=6;binds;crit=1;da=109;di=116;evade=20;heal=250;legbon=anguish,202;lvl=202;manabon=56;opis=Szewca ciepła jest piwniczka,[br]są tam ponoć też koteczki... [br]Patrz uważnie w każdą stronę,[br]bo zamienisz się w niteczki![br][br]Halloween 2025 r.;rarity=legendary;reqp=mt;resfire=9;resfrost=6;sa=210;slow=66"
+    },
+    {
+      "id": 58656,
+      "name": "Kamasze z oddychającego materiału",
+      "icon": "but/buty1358.gif",
+      "cl": 10,
+      "pr": 343514,
+      "st": 0,
+      "stat": "ac=380;act=8;binds;da=109;energybon=23;evade=40;hp=895;legbon=anguish,202;lowcrit=2;lvl=202;opis=Szewca ciepła jest piwniczka,[br]są tam ponoć też koteczki... [br]Patrz uważnie w każdą stronę,[br]bo zamienisz się w niteczki![br][br]Halloween 2025 r.;rarity=legendary;reqp=b;reslight=5;sa=261"
+    },
+    {
+      "id": 58655,
+      "name": "Zdegenerowana stópka",
+      "icon": "but/buty1360.gif",
+      "cl": 10,
+      "pr": 378724,
+      "st": 0,
+      "stat": "ac=338;act=16;binds;crit=1;da=59;dz=116;energybon=23;evade=40;legbon=anguish,202;lowcrit=2;lvl=202;opis=Szewca ciepła jest piwniczka,[br]są tam ponoć też koteczki... [br]Patrz uważnie w każdą stronę,[br]bo zamienisz się w niteczki![br][br]Halloween 2025 r.;rarity=legendary;reqp=h;resfire=4;reslight=3;sa=261"
+    },
+    {
+      "id": 58654,
+      "name": "Ludzka kosiarka",
+      "icon": "but/buty1361.gif",
+      "cl": 10,
+      "pr": 343514,
+      "st": 0,
+      "stat": "ac=439;act=1;binds;blok=30;crit=2;da=109;energybon=47;legbon=anguish,202;lowevade=20;lvl=202;opis=Szewca ciepła jest piwniczka,[br]są tam ponoć też koteczki... [br]Patrz uważnie w każdą stronę,[br]bo zamienisz się w niteczki![br][br]Halloween 2025 r.;rarity=legendary;reqp=pw;resfrost=6;sa=210"
+    },
+    {
       "id": 57389,
       "name": "Nawiedzona chusta hrabiny",
       "icon": "hel/helm1404.gif",
@@ -19591,6 +19802,60 @@
       ]
     },
     {
+      "id": 57408,
+      "name": "Czarne Słońce",
+      "icon": "pie/pierscien1284.gif",
+      "cl": 12,
+      "pr": 353730,
+      "st": 0,
+      "stat": "binds;crit=3;critmval=12;di=118;evade=21;heal=885;hp=1502;legbon=puncture,205;lvl=205;manabon=108;opis=Wojna Magów nadeszła i przeminęła, a Demonis wraz z ciałem Thinkusa wciąż wyczekiwali, aż jakaś nieszczęsna dusza posłyszy ich nieczyste zaklęcia... I doczekali się. Lucius - młody chłopiec, zwabiony mrocznym głosem do podziemnych komnat, wkroczył na nową ścieżkę i stał się dobrowolnym sługą Pana Nicości. Poświęcając swe życie na pięcie się po szczeblach władzy, chciał ofiarować finalnie całe miasto Demonisowi. Gdy jego plany zostały jednak pokrzyżowane, odrzucił on swoje imię i obwołał się Satanielem, zapowiadając, że wciąż będzie nękał miasto wraz ze swoimi poplecznikami.;rarity=legendary;reqp=mt;sa=213;slow=67"
+    },
+    {
+      "id": 57407,
+      "name": "Nerw wzrokowy demona",
+      "icon": "pie/pierscien1286.gif",
+      "cl": 12,
+      "pr": 353730,
+      "st": 0,
+      "stat": "binds;blok=31;crit=3;critval=12;ds=346;energybon=24;heal=447;legbon=anguish,205;lowevade=21;lvl=205;opis=Gdy bogowie pokonali zrodzonego z chaosu upadłego anioła o imieniu Eszma-Fakum, który ośmielił się im sprzeciwić, z truchła jego uwolniło się całe zło i przyjęło najróżniejsze postacie. Największa plugawość nabrała kształtu jako sześć potężnych demonów, znanych potem w krainie pod nazwą Synów Eszmy. Sygnet zaś, który trzymasz teraz w dłoniach, to najlepiej zachowany artefakt z czasów terroru Najwyższego, w którym zawiera się ponoć cząstka jego oryginalnej mocy.;rarity=legendary;reqp=pw;sa=213;slow=67"
+    },
+    {
+      "id": 57406,
+      "name": "Krwawa relikwia",
+      "icon": "pie/pierscien1285.gif",
+      "cl": 12,
+      "pr": 353730,
+      "st": 0,
+      "stat": "binds;crit=2;critval=6;dz=346;energybon=47;evade=21;hp=2980;legbon=anguish,205;lowcrit=2;lvl=205;opis=W czasach, gdy Nithal było zaledwie małą osadą, sposobu na znalezienie życia wiecznego podjął się stary kupiec o imieniu Thinkus. Sprzeniewierzając się bogom zlecił on poszukiwania w krainie mrocznych artefaktów, celem zyskania demonicznego wsparcia. Zuchwalstwo starca odpłaciło mu się jednak pięknym za nadobne, gdyż przystanie na ofertę Demonisa Pana Nicości co prawda dało mu życie wieczne, jednak w postaci pustej, wypaczonej z osobowości skorupy - Przyzywacza Demonów...;rarity=legendary;reqp=bh;sa=213;slow=67"
+    },
+    {
+      "id": 41681,
+      "name": "Kula grzechu i perwersji",
+      "icon": "neu/dem_out_part3.gif",
+      "cl": 15,
+      "pr": 205,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=205;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 41680,
+      "name": "Wyposzczone oko demona",
+      "icon": "neu/dem_out_part2.gif",
+      "cl": 15,
+      "pr": 205,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=205;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 41679,
+      "name": "Płomień największego bluźniercy",
+      "icon": "neu/dem_out_part1.gif",
+      "cl": 15,
+      "pr": 205,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=205;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
       "id": 39815,
       "name": "Korona Wiecznej Gehenny",
       "icon": "hel/helm617.gif",
@@ -19733,6 +19998,33 @@
         "event-waka-25",
         "event"
       ]
+    },
+    {
+      "id": 57411,
+      "name": "Wdzięczność Pajęczycy",
+      "icon": "nas/naszyjnik1301.gif",
+      "cl": 13,
+      "pr": 336588,
+      "st": 0,
+      "stat": "binds;crit=3;critval=12;da=61;energybon=48;evade=63;hp=3078;legbon=verycrit,210;lvl=210;opis=Mulher Ma otrzymała te cenne obręcze od samej Marrloth Malignitas w zamian za uratowanie jej życia podczas wyczerpującej batalii z Demonisem Panem Nicości. By odzyskać utracone w tej walce, należące do jej pani dwa cenne amulety, kapłanka każdego dnia opuszcza Otchłań i wyrusza na powierzchnię celem odnalezienia tych artefaktów.;rarity=legendary;reqp=ht;sa=271"
+    },
+    {
+      "id": 57410,
+      "name": "Kołnierz dekapitacji",
+      "icon": "nas/naszyjnik1300.gif",
+      "cl": 13,
+      "pr": 336588,
+      "st": 0,
+      "stat": "binds;crit=4;di=354;heal=915;hp=3078;legbon=glare,210;lvl=210;manabon=110;opis=Mulher Ma miała jedno zadanie - odzyskać naszyjniki Marlloth Malignitas. Skupiona na swoim celu była w stanie zdekapitować każdego, kto stanął na jej drodze...;rarity=legendary;reqp=mp;sa=218;slow=68"
+    },
+    {
+      "id": 57409,
+      "name": "Obręcz Najwyższej Kapłanki",
+      "icon": "nas/naszyjnik1299.gif",
+      "cl": 13,
+      "pr": 429582,
+      "st": 0,
+      "stat": "binds;crit=2;critval=12;ds=237;dz=121;energybon=24;evade=21;heal=462;hp=1551;legbon=holytouch,210;lowcrit=2;lowevade=21;lvl=210;opis=Starożytna konstrukcja pokryta tajemniczymi rytami zaciekawiła mieszkańców, gdy zaczęli dostrzegać w jej okolicy demona o intrygującej aparycji. Czymże jest tajemniczy monument? Może służył kapłance pajęczej bogini do komunikacji z Otchłanią? Czy za pomocą zgubionego przez nią naszyjnika uda ci się uruchomić ten przedziwny kanał komunikacji?;rarity=legendary;reqp=bw;sa=218;slow=68"
     },
     {
       "id": 57177,
@@ -19983,7 +20275,8 @@
       "tags": [
         "event",
         "event-waka-22"
-      ]
+      ],
+      "extendedID": "43750@210"
     },
     {
       "id": 43749,
@@ -19999,40 +20292,16 @@
       ]
     },
     {
-      "id": 41681,
-      "name": "Kula grzechu i perwersji",
-      "icon": "neu/dem_out_part3.gif",
-      "cl": 15,
-      "pr": 210,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=210;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
-      "id": 41680,
-      "name": "Wyposzczone oko demona",
-      "icon": "neu/dem_out_part2.gif",
-      "cl": 15,
-      "pr": 210,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=210;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
-      "id": 41679,
-      "name": "Płomień największego bluźniercy",
-      "icon": "neu/dem_out_part1.gif",
-      "cl": 15,
-      "pr": 210,
-      "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=210;opis=Jeden z 18 składników legendarnego stroju[br]Demonisa Pana Nicości. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
-    },
-    {
       "id": 39633,
       "name": "Obręcz trwogi i zbydlęcenia",
       "icon": "nas/naszyjnik661.gif",
       "cl": 13,
       "pr": 336588,
       "st": 0,
-      "stat": "binds;crit=4;di=354;heal=915;hp=3078;legbon=glare,210;lvl=210;manabon=110;opis=W czasach, gdy Nithal było zaledwie małą osadą, sposobu na znalezienie życia wiecznego podjął się stary kupiec o imieniu Thinkus. Sprzeniewierzając się bogom zlecił on poszukiwania w krainie mrocznych artefaktów, celem zyskania demonicznego wsparcia. Zuchwalstwo starca odpłaciło mu się jednak pięknym za nadobne, gdyż przystanie na ofertę Demonisa Pana Nicości co prawda dało mu życie wieczne, jednak w postaci pustej, wypaczonej z osobowości skorupy - Przyzywacza Demonów...;rarity=legendary;reqp=mp;sa=218;slow=68"
+      "stat": "binds;crit=4;di=354;heal=915;hp=3078;legbon=glare,210;lvl=210;manabon=110;opis=W czasach, gdy Nithal było zaledwie małą osadą, sposobu na znalezienie życia wiecznego podjął się stary kupiec o imieniu Thinkus. Sprzeniewierzając się bogom zlecił on poszukiwania w krainie mrocznych artefaktów, celem zyskania demonicznego wsparcia. Zuchwalstwo starca odpłaciło mu się jednak pięknym za nadobne, gdyż przystanie na ofertę Demonisa Pana Nicości co prawda dało mu życie wieczne, jednak w postaci pustej, wypaczonej z osobowości skorupy - Przyzywacza Demonów...;rarity=legendary;reqp=mp;sa=218;slow=68",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 39632,
@@ -20041,7 +20310,10 @@
       "cl": 13,
       "pr": 336588,
       "st": 0,
-      "stat": "binds;crit=3;critval=18;da=61;energybon=48;evade=63;hp=1551;legbon=verycrit,210;lvl=210;opis=Gdy bogowie pokonali zrodzonego z chaosu upadłego anioła o imieniu Eszma-Fakum, który ośmielił się im sprzeciwić, z truchła jego uwolniło się całe zło i przyjęło najróżniejsze postacie. Największa plugawość nabrała kształtu jako sześć potężnych demonów, znanych potem w krainie pod nazwą Synów Eszmy. Amulet zaś, który trzymasz teraz w dłoniach, to najlepiej zachowany artefakt z czasów terroru Najwyższego, w którym zawiera się ponoć cząstka jego oryginalnej mocy.;rarity=legendary;reqp=ht;sa=271"
+      "stat": "binds;crit=3;critval=18;da=61;energybon=48;evade=63;hp=1551;legbon=verycrit,210;lvl=210;opis=Gdy bogowie pokonali zrodzonego z chaosu upadłego anioła o imieniu Eszma-Fakum, który ośmielił się im sprzeciwić, z truchła jego uwolniło się całe zło i przyjęło najróżniejsze postacie. Największa plugawość nabrała kształtu jako sześć potężnych demonów, znanych potem w krainie pod nazwą Synów Eszmy. Amulet zaś, który trzymasz teraz w dłoniach, to najlepiej zachowany artefakt z czasów terroru Najwyższego, w którym zawiera się ponoć cząstka jego oryginalnej mocy.;rarity=legendary;reqp=ht;sa=271",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 39631,
@@ -20050,7 +20322,10 @@
       "cl": 13,
       "pr": 371089,
       "st": 0,
-      "stat": "binds;crit=2;critval=12;ds=237;dz=121;energybon=24;evade=21;hp=3078;legbon=holytouch,210;lowcrit=2;lowevade=21;lvl=210;opis=Wojna Magów nadeszła i przeminęła, a Demonis wraz z ciałem Thinkusa wciąż wyczekiwali, aż jakaś nieszczęsna dusza posłyszy ich nieczyste zaklęcia... I doczekali się. Lucius - młody chłopiec, zwabiony mrocznym głosem do podziemnych komnat, wkroczył na nową ścieżkę i stał się dobrowolnym sługą Pana Nicości. Poświęcając swe życie na pięcie się po szczeblach władzy, chciał ofiarować finalnie całe miasto Demonisowi. Gdy jego plany zostały jednak pokrzyżowane, odrzucił on swoje imię i obwołał się Satanielem, zapowiadając, że wciąż będzie nękał miasto wraz ze swoimi poplecznikami.;rarity=legendary;reqp=bw;sa=218;slow=68"
+      "stat": "binds;crit=2;critval=12;ds=237;dz=121;energybon=24;evade=21;hp=3078;legbon=holytouch,210;lowcrit=2;lowevade=21;lvl=210;opis=Wojna Magów nadeszła i przeminęła, a Demonis wraz z ciałem Thinkusa wciąż wyczekiwali, aż jakaś nieszczęsna dusza posłyszy ich nieczyste zaklęcia... I doczekali się. Lucius - młody chłopiec, zwabiony mrocznym głosem do podziemnych komnat, wkroczył na nową ścieżkę i stał się dobrowolnym sługą Pana Nicości. Poświęcając swe życie na pięcie się po szczeblach władzy, chciał ofiarować finalnie całe miasto Demonisowi. Gdy jego plany zostały jednak pokrzyżowane, odrzucił on swoje imię i obwołał się Satanielem, zapowiadając, że wciąż będzie nękał miasto wraz ze swoimi poplecznikami.;rarity=legendary;reqp=bw;sa=218;slow=68",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 39136,
@@ -20137,7 +20412,10 @@
       "cl": 11,
       "pr": 409125,
       "st": 0,
-      "stat": "ac=348;act=8;binds;crit=2;critval=6;ds=121;dz=121;energybon=24;evade=42;heal=247;legbon=critred,210;lvl=210;opis=Gdy w odpowiedzi na jad pająka jego oczy zapłonęły szkarłatem, było już pewne, że to właśnie on stanie się tym, który uratuje życie swej Pani. Szkolony przez wybitnych szermierzy i magów, wyruszył na daleką wyprawę, z której nigdy już nie powrócił w ojczyste strony...;rarity=legendary;reqp=bhw;reslight=5;sa=166"
+      "stat": "ac=348;act=8;binds;crit=2;critval=6;ds=121;dz=121;energybon=24;evade=42;heal=247;legbon=critred,210;lvl=210;opis=Gdy w odpowiedzi na jad pająka jego oczy zapłonęły szkarłatem, było już pewne, że to właśnie on stanie się tym, który uratuje życie swej Pani. Szkolony przez wybitnych szermierzy i magów, wyruszył na daleką wyprawę, z której nigdy już nie powrócił w ojczyste strony...;rarity=legendary;reqp=bhw;reslight=5;sa=166",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 31230,
@@ -20146,7 +20424,10 @@
       "cl": 12,
       "pr": 409125,
       "st": 0,
-      "stat": "acdmg=22;binds;crit=3;critmval=12;di=237;heal=462;hp=1551;legbon=facade,210;lowcrit=2;lvl=210;manabon=58;opis=Nie bez powodu Rycerz nie został stracony przez pajęczą kolonię - w trzymanym przez ciebie pierścieniu drzemie bowiem najwspanialsza z antypajęczej magii, opracowana na terenach zamorskiej Meryzrei. Nieszczęśnik pozostanie więźniem pajęczyn póki nie wydobędą one z niego całej tej mocy i nie przetworzą jej w odporności, by gatunek mógł pozostać bezpieczny.;rarity=legendary;reqp=mpt;resdmg=1;sa=166;slow=68"
+      "stat": "acdmg=22;binds;crit=3;critmval=12;di=237;heal=462;hp=1551;legbon=facade,210;lowcrit=2;lvl=210;manabon=58;opis=Nie bez powodu Rycerz nie został stracony przez pajęczą kolonię - w trzymanym przez ciebie pierścieniu drzemie bowiem najwspanialsza z antypajęczej magii, opracowana na terenach zamorskiej Meryzrei. Nieszczęśnik pozostanie więźniem pajęczyn póki nie wydobędą one z niego całej tej mocy i nie przetworzą jej w odporności, by gatunek mógł pozostać bezpieczny.;rarity=legendary;reqp=mpt;resdmg=1;sa=166;slow=68",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 22758,
@@ -20385,7 +20666,91 @@
       "cl": 13,
       "pr": 353418,
       "st": 0,
-      "stat": "binds;crit=2;da=166;energybon=24;evade=21;heal=462;hp=4604;legbon=facade,210;lowcrit=4;lvl=210;manabon=58;opis=Ten amulet posiada wyjątkowe, ochronne[br]właściwości przeciwko pajęczakom.[br]Dodatkowo, możesz go ścisnąć i kilka[br]kropel jadu w nim zawartego, użyć jako[br]śmiertelnej trucizny dla wroga.;rarity=legendary;sa=166;slow=68"
+      "stat": "binds;crit=2;da=166;energybon=24;evade=21;heal=462;hp=4604;legbon=facade,210;lowcrit=4;lvl=210;manabon=58;opis=Ten amulet posiada wyjątkowe, ochronne[br]właściwości przeciwko pajęczakom.[br]Dodatkowo, możesz go ścisnąć i kilka[br]kropel jadu w nim zawartego, użyć jako[br]śmiertelnej trucizny dla wroga.;rarity=legendary;sa=166;slow=68",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 57437,
+      "name": "Splot ciemnych pajęczyn",
+      "icon": "but/buty1336.gif",
+      "cl": 10,
+      "pr": 400789,
+      "st": 0,
+      "stat": "ac=344;act=14;crit=3;critval=6;dz=122;energybon=24;evade=21;legbon=lastheal,213;lowevade=21;lvl=213;opis=Poza wiedzą kogokolwiek z Rady Magicznej, pojedynczy członkowie Organizacji postanowili w tajemnicy stworzyć kolejną bestię - samicę dla Arachina. Arachniregina Colosseus, bo tak nazwali tę zakazaną istotę - jak wkrótce się okazało - nie była w pełni kompletnym tworem. Mimo przeróżnych prób zapłodnienia, zrodziła zaledwie jedno jajo, z którego wykluł się wątły pajączek. Trafiwszy pod ręce magicznego rzemieślnika, przeobrażony został w wjątkowy amulet - Pajęczą ozdobę.;permbound;rarity=legendary;reqp=ht;reslight=9;sa=221"
+    },
+    {
+      "id": 57393,
+      "name": "Kamasze kontrolera bestii",
+      "icon": "but/buty1335.gif",
+      "cl": 10,
+      "pr": 400789,
+      "st": 0,
+      "stat": "absorb=688;absorbm=344;ac=344;crit=3;critmval=6;di=122;hp=951;legbon=curse,213;lvl=213;manabon=112;opis=Poza tłamsicielami gniewu i medykami, każdy z kolosów posiadał wyszkolonego maga, który odpowiadał za kontrolowanie ruchów bestii. Podczas wojny to właśnie oni - zwani pośród kompanów kontrolerami - mieli nakierowywać kolosów na oddziały wroga i wyznaczać im nowe cele do pokonania. Jednak podczas Wojny Magów nie użyte zostały żadne magiczne bestie... Jakie wydarzenia mogły spowodować taki obrót spraw?;permbound;rarity=legendary;reqp=mp;reslight=14;sa=221"
+    },
+    {
+      "id": 57392,
+      "name": "Skarb z pajęczego królestwa",
+      "icon": "but/buty1334.gif",
+      "cl": 10,
+      "pr": 400789,
+      "st": 0,
+      "stat": "ac=454;act=5;crit=3;critval=6;ds=122;energybon=24;evade=21;legbon=cleanse,213;lowevade=21;lvl=213;opis=Kute w Arachnitopii, spajane pajęczą przędzą i wysadzane odłamkami kryształów porastających podziemne korytarze ośmionogich. Wyposażenie idealne dla każdego, kto nie boi się pająków!;permbound;rarity=legendary;reqp=bw;reslight=4;sa=221"
+    },
+    {
+      "id": 57391,
+      "name": "Symbol przebudzenia ośmionogich",
+      "icon": "hel/helm1448.gif",
+      "cl": 9,
+      "pr": 381704,
+      "st": 0,
+      "stat": "ac=404;act=16;crit=1;critval=6;dz=122;evade=21;hp=3837;legbon=cleanse,213;lvl=213;opis=Pajęcze monstra istniały niemal od zawsze, ale dopiero, gdy zyskały swego władcę - Arachina Podstępnego - rozgrzała w nich chęć walki i niepohamowana agresja. Kawałek po kawałku spowijały więc swymi siećmi coraz to rozleglejsze tereny, a zażarty konflikt między nimi a furbolami przybrał na sile, jak nigdy wcześniej.;permbound;rarity=legendary;reqp=h;reslight=7;sa=221"
+    },
+    {
+      "id": 57390,
+      "name": "Oblicze Czarnej Wdowy",
+      "icon": "hel/helm1447.gif",
+      "cl": 9,
+      "pr": 441870,
+      "st": 0,
+      "stat": "absorb=1010;absorbm=505;ac=353;act=12;crit=2;da=61;evade=21;hp=1931;legbon=facade,213;lowevade=21;lvl=213;manabon=58;opis=Szkaradny symbol księżniczki, która w akcie wielkiej rozpaczy odebrała sobie życie, a przywrócona do niego została pod postacią pająka. Całe wieki później jej ośmionodzy potomkowie - siłą wcieleni do Organizacji - zmuszeni zostali wykorzystywać swój niebywały talent do tkactwa w służbie ludziom. Ludziom, którzy już niebawem mieli rozpętać wojnę, jakiej te ziemie jeszcze nie widziały...;permbound;rarity=legendary;reqp=t;reslight=14;sa=221"
+    },
+    {
+      "id": 57388,
+      "name": "Zasłona Arachne",
+      "icon": "hel/helm1446.gif",
+      "cl": 9,
+      "pr": 441870,
+      "st": 0,
+      "stat": "absorb=1514;absorbm=757;ac=252;crit=2;critmval=6;da=61;heal=275;hp=978;legbon=cleanse,213;lvl=213;manabon=58;opis=Szkaradny symbol księżniczki, która w akcie wielkiej rozpaczy odebrała sobie życie, a przywrócona do niego została pod postacią pająka. Całe wieki później jej ośmionodzy potomkowie - siłą wcieleni do Organizacji - zmuszeni zostali wykorzystywać swój niebywały talent do tkactwa w służbie ludziom. Ludziom, którzy już niebawem mieli rozpętać wojnę, jakiej te ziemie jeszcze nie widziały...;permbound;rarity=legendary;reqp=m;reslight=16;sa=168;slow=130"
+    },
+    {
+      "id": 57387,
+      "name": "Zrabowany kask szamana",
+      "icon": "hel/helm1445.gif",
+      "cl": 9,
+      "pr": 400789,
+      "st": 0,
+      "stat": "ac=505;blok=32;crit=3;di=122;energybon=24;legbon=lastheal,213;lowevade=21;lvl=213;manabon=58;opis=Cacko należące do furbolich przodków, którzy lata temu - nim jeszcze krainę skolonizowali ludzie - władali całą północą. Niesie ze sobą wspomnienie pewnego ataku, podczas którego strona prawowitych właścicieli tego hełmu poniosła wielkie straty. Celem uniknięcia podobnych wydarzeń, szamani furboli - używając pełni swych mocy - stworzyli wyjątkowe pierścienie, które miały za zadanie tłumić wrogie intencje pajęczych sąsiadów.;permbound;rarity=legendary;reqp=p;resfire=9;sa=168;slow=69"
+    },
+    {
+      "id": 57386,
+      "name": "Więzienie pajęczych sugestii",
+      "icon": "hel/helm1444.gif",
+      "cl": 9,
+      "pr": 400789,
+      "st": 0,
+      "stat": "ac=454;act=8;crit=2;critval=6;da=61;evade=43;hp=978;legbon=facade,213;lowevade=21;lvl=213;opis=Nosząc ten przedziwny hełm zaczynasz rozumieć mowę pająków, a do uszu twych docierają ciche szepty monstrualnych bestii:[br]Zabić... fur-bo-le...[br]Wróg... zagrożenie.[br]Truchło... furbola[br]...Jedyne życzenie.[br]Czy spełnisz pajęcze błagania? A może odejdziesz, ignorując je? One jednak nigdy nie ucichną i już zawsze będą tkwiły w twej głowie...;permbound;rarity=legendary;reqp=b;reslight=5;sa=221"
+    },
+    {
+      "id": 57385,
+      "name": "Skradziona przyłbica furbola",
+      "icon": "hel/helm1443.gif",
+      "cl": 9,
+      "pr": 363527,
+      "st": 0,
+      "stat": "ac=545;act=1;crit=4;ds=122;energybon=48;legbon=lastheal,213;lowcrit=2;lvl=213;opis=W pewną bezksiężycową, czarną jak smoła noc, terytoria furboli zalały pajęcze hordy z północy. Rozgromione przez Czempiona, nie wycofały się z niczym - ich lepkie odnóża skradły dwa drogocenne hełmy oraz ciało głównego szamana poległego w walce... którym to ostentacyjnie, na szczycie wzgórza, nakarmiły swoje młode.;permbound;rarity=legendary;reqp=w;sa=168;slow=69"
     },
     {
       "id": 28777,
@@ -20427,13 +20792,70 @@
       ]
     },
     {
+      "id": 58823,
+      "name": "Ulubione ostrze czcicielki",
+      "icon": "neu/itm_mulher_l3.gif",
+      "cl": 15,
+      "pr": 214,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=214;opis=Jeden z 18 składników legendarnego stroju Mulher Ma. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58822,
+      "name": "Brosza od Marlloth Malignitas",
+      "icon": "neu/itm_mulher_l2.gif",
+      "cl": 15,
+      "pr": 214,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=214;opis=Jeden z 18 składników legendarnego stroju Mulher Ma. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58821,
+      "name": "Złota bransoleta sługi",
+      "icon": "neu/itm_mulher_l1.gif",
+      "cl": 15,
+      "pr": 214,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=214;opis=Jeden z 18 składników legendarnego stroju Mulher Ma. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 57402,
+      "name": "Muśnięcie powiewających pajęczyn",
+      "icon": "rek/rekawice1344.gif",
+      "cl": 11,
+      "pr": 404539,
+      "st": 0,
+      "stat": "absorb=1156;absorbm=578;ac=193;binds;crit=2;critmval=18;da=115;heal=253;legbon=verycrit,214;lvl=214;manabon=59;opis=Gdy furbol poczuje na swym karku muśnięcie pajęczyny, to może już tylko zaakceptować swój przyszły, tragiczny los. Za chwilę wokół jego szyi zaciśnie się lasso utkane ze świeżej przędzy, a ciało pokryje lepka pajęczyna, by chwilę później - nadal żywe - zawisło u sklepienia korytarzy ośmionogów. Zdejmą one z niego uzbrojenie, wybiją kły, zerwą paznokcie i większość futra, by finalnie - po tej okrutnej zabawie - wprowadzić enzymy, które zatrzymają pracę organów i rozpuszczą zwłoki do postaci pożywnej papki.;rarity=legendary;reqp=m;reslight=16;sa=169"
+    },
+    {
+      "id": 57401,
+      "name": "Stalowe pająki",
+      "icon": "rek/rekawice1343.gif",
+      "cl": 11,
+      "pr": 385275,
+      "st": 0,
+      "stat": "ac=401;act=1;binds;crit=2;critval=12;da=115;energybon=49;legbon=anguish,214;lowevade=21;lvl=214;opis=Nie bez powodu Rycerz nie został stracony przez pajęczą kolonię. Jego krew jest bowiem wyjątkowa, niezwykle odporna na pajęczą magię... Czyżby w swej ojczystej Meryzrei należał do klanu polującego na ośmionogich? A może jest owocem zakazanej, międzygatunkowej miłości? Stalowe pająki nieustannie pobierają i filtrują krew żylną, by dowiedzieć się, z czym przyszło im walczyć.;rarity=legendary;reqp=pw;reslight=6;sa=169"
+    },
+    {
+      "id": 57400,
+      "name": "Pięści zawodnego bohatera",
+      "icon": "rek/rekawice1342.gif",
+      "cl": 11,
+      "pr": 404539,
+      "st": 0,
+      "stat": "ac=308;act=12;binds;crit=1;critval=6;energybon=49;evade=21;hp=910;legbon=glare,214;lowevade=43;lvl=214;opis=Gdy w odpowiedzi na jad pająka jego oczy zapłonęły szkarłatem, było już pewne, że to właśnie on stanie się tym, który uratuje życie swej Pani. Szkolony przez wybitnych szermierzy i magów, wyruszył na daleką wyprawę, z której nigdy już nie powrócił w ojczyste strony...;rarity=legendary;reqp=bht;reslight=8;sa=222"
+    },
+    {
       "id": 13919,
       "name": "Buty maniakalnego czciciela",
       "icon": "but/buty118.gif",
       "cl": 10,
       "pr": 424766,
       "st": 0,
-      "stat": "ac=393;acdmg=23;act=12;binds;crit=2;critval=12;ds=123;dz=123;evade=21;legbon=holytouch,214;lowevade=21;lvl=214;opis=Cicho przebiegasz za plecami innowierców. Skradasz się i[nbsp]atakujesz szybko. Krew z poderżniętych gardeł brudzi twoje buty, a każda jej kropla tylko je wzmacnia. Tak jak łzy wrogów, gdy padając na kolana, błagają o litość i[nbsp]szybką śmierć.;rarity=legendary;reqp=bh;resfrost=6;sa=169"
+      "stat": "ac=393;acdmg=23;act=12;binds;crit=2;critval=12;ds=123;dz=123;evade=21;legbon=holytouch,214;lowevade=21;lvl=214;opis=Cicho przebiegasz za plecami innowierców. Skradasz się i[nbsp]atakujesz szybko. Krew z poderżniętych gardeł brudzi twoje buty, a każda jej kropla tylko je wzmacnia. Tak jak łzy wrogów, gdy padając na kolana, błagają o litość i[nbsp]szybką śmierć.;rarity=legendary;reqp=bh;resfrost=6;sa=169",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 13918,
@@ -20442,7 +20864,10 @@
       "cl": 10,
       "pr": 385275,
       "st": 0,
-      "stat": "ac=481;act=1;binds;crit=3;critval=12;ds=123;energybon=24;heal=268;legbon=verycrit,214;lowevade=21;lvl=214;opis=Buty te nosili najtwardsi wojownicy oddani[br]służbie Marlloth Malignitas. Cechowała ich[br]niezwykła siła i zawziętość. Czy chcesz stanąć z nimi w jednym szeregu, dać się uwikłać i z dumą je nosić?;rarity=legendary;reqp=pw;resfrost=6;sa=169"
+      "stat": "ac=481;act=1;binds;crit=3;critval=12;ds=123;energybon=24;heal=268;legbon=verycrit,214;lowevade=21;lvl=214;opis=Buty te nosili najtwardsi wojownicy oddani[br]służbie Marlloth Malignitas. Cechowała ich[br]niezwykła siła i zawziętość. Czy chcesz stanąć z nimi w jednym szeregu, dać się uwikłać i z dumą je nosić?;rarity=legendary;reqp=pw;resfrost=6;sa=169",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 13917,
@@ -20451,7 +20876,37 @@
       "cl": 10,
       "pr": 468305,
       "st": 0,
-      "stat": "absorb=1156;absorbm=578;ac=277;act=6;binds;crit=2;critmval=12;da=62;di=123;evade=21;heal=268;legbon=lastheal,214;lvl=214;opis=Jesteś w sidłach. Wijesz się. Wykręcasz i walczysz. Z każdym ruchem zapadasz się głębiej w pajęczą matnię... Marlloth Malignitas cię wybrała.;rarity=legendary;reqp=mt;resfrost=15;sa=169;slow=69"
+      "stat": "absorb=1156;absorbm=578;ac=277;act=6;binds;crit=2;critmval=12;da=62;di=123;evade=21;heal=268;legbon=lastheal,214;lvl=214;opis=Jesteś w sidłach. Wijesz się. Wykręcasz i walczysz. Z każdym ruchem zapadasz się głębiej w pajęczą matnię... Marlloth Malignitas cię wybrała.;rarity=legendary;reqp=mt;resfrost=15;sa=169;slow=69",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 57396,
+      "name": "Podeszwy uzurpatora",
+      "icon": "but/buty1342.gif",
+      "cl": 10,
+      "pr": 477048,
+      "st": 0,
+      "stat": "absorb=1173;absorbm=586;ac=282;acdmg=23;act=6;binds;crit=1;critmval=12;di=244;hp=966;legbon=anguish,216;lvl=216;opis=Gdy córce poprzedniej władczyni drowów udało się obalić rządy Al'diphrina Ilythirahela i powrócić do władzy w Dar'kham, nie okazała mu ona żadnej litości. Uzurpator, który tymczasowo przejął władzę nad miastem, został oślepiony i skazany na wygnanie wraz ze swymi pomagierami do opuszczonych przez rasę tuneli.;rarity=legendary;reqp=mt;resdmg=1;resfrost=15;sa=170;slow=70"
+    },
+    {
+      "id": 57395,
+      "name": "Łup z Tass Zhil",
+      "icon": "but/buty1341.gif",
+      "cl": 10,
+      "pr": 432696,
+      "st": 0,
+      "stat": "ac=488;acdmg=23;act=1;binds;crit=3;critval=6;ds=124;energybon=24;heal=270;legbon=lastheal,216;lowevade=22;lvl=216;opis=Wyrób ten pochodzi z elfiego miasta Tass Zhil, z którego to ostały się jedynie ruiny zabudowań ulegające nieustannemu odziaływaniu sił przyrody. Złupiona para obuwia pamięta blask świetności owej metropolii, gdy elfy mogły jeszcze wieść spokojne życie... Sielanka ta została jednak przerwana przez chyży najazd drowów żyjących we wnętrzu Gór Andaryjskich. Atak zakończył się doszczętnym zniszczeniem miasta.;rarity=legendary;reqp=pw;resfrost=6;sa=170"
+    },
+    {
+      "id": 57394,
+      "name": "Cholewy chwilowej ekscytacji",
+      "icon": "but/buty1343.gif",
+      "cl": 10,
+      "pr": 412092,
+      "st": 0,
+      "stat": "ac=399;acdmg=23;act=12;binds;crit=2;critval=6;dz=244;evade=43;hp=966;legbon=holytouch,216;lvl=216;opis=Choć zgodnie z planem miasto Tass Zhil zostało zniszczone, a mroczne elfy wycofały się do swych jaskiń w Górach Andaryjskich, drowie świętowanie nie trwało zbyt długo. Niebawem bowiem nadszedł czas starcia ich bogini z jednym z Synów Eszmy, w której to batalii została ona pokonana, a lud utracił kontakt ze swym bóstwem oraz kapłanką...;rarity=legendary;reqp=bh;resfrost=6;sa=170"
     },
     {
       "id": 23697,
@@ -20460,7 +20915,10 @@
       "cl": 9,
       "pr": 362565,
       "st": 0,
-      "stat": "ac=471;binds;crit=2;da=63;heal=283;hp=2964;legbon=glare,218;lowevade=22;lvl=218;opis=Usłyszawszy opowieść o Vaporze Veneno i jego skarbach, wyruszył na manowce w poszukiwaniu bestii. Będąc przekonanym o potędze swojej i swego hełmu, zaglądał do każdej jaskini i uśmiercał maddoki, zwąc je przy tym niegodnymi jego majestatu płotkami. Wielkim musiało być jego zdziwienie, gdy zamiast zwyciężyć z Vaporem Veneno, stracił głowę będąc pokonanym przez jedną z tych płotek - opitego nektarem Mocnego Maddoksa. Trofeum to wisząc przez lata na stalagmicie nie straciło nic ze swej mocy. Czy uda ci się pokonać w nim Vapora Veneno i odebrać mu jego kosztowności?;rarity=legendary;sa=172;slow=70"
+      "stat": "ac=471;binds;crit=2;da=63;heal=283;hp=2964;legbon=glare,218;lowevade=22;lvl=218;opis=Usłyszawszy opowieść o Vaporze Veneno i jego skarbach, wyruszył na manowce w poszukiwaniu bestii. Będąc przekonanym o potędze swojej i swego hełmu, zaglądał do każdej jaskini i uśmiercał maddoki, zwąc je przy tym niegodnymi jego majestatu płotkami. Wielkim musiało być jego zdziwienie, gdy zamiast zwyciężyć z Vaporem Veneno, stracił głowę będąc pokonanym przez jedną z tych płotek - opitego nektarem Mocnego Maddoksa. Trofeum to wisząc przez lata na stalagmicie nie straciło nic ze swej mocy. Czy uda ci się pokonać w nim Vapora Veneno i odebrać mu jego kosztowności?;rarity=legendary;sa=172;slow=70",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 4276,
@@ -20469,7 +20927,37 @@
       "cl": 13,
       "pr": 399728,
       "st": 0,
-      "stat": "binds;crit=3;critmval=6;critval=6;da=172;evade=44;heal=486;hp=3237;legbon=holytouch,218;lowevade=22;lvl=218;opis=Legenda głosi, iż najsilniejszy ze wszystkich[br]maddoków zwał się Mocny Maddoks. Jedni[br]mówią, że to wszystko przez hektolitry[br]nektaru, który ciągle pił. Inni, że to przez ten[br]naszyjnik...;rarity=legendary;sa=172;slow=70"
+      "stat": "binds;crit=3;critmval=6;critval=6;da=172;evade=44;heal=486;hp=3237;legbon=holytouch,218;lowevade=22;lvl=218;opis=Legenda głosi, iż najsilniejszy ze wszystkich[br]maddoków zwał się Mocny Maddoks. Jedni[br]mówią, że to wszystko przez hektolitry[br]nektaru, który ciągle pił. Inni, że to przez ten[br]naszyjnik...;rarity=legendary;sa=172;slow=70",
+      "tags": [
+        "removed"
+      ]
+    },
+    {
+      "id": 58491,
+      "name": "Stukot historii",
+      "icon": "but/buty1333.gif",
+      "cl": 10,
+      "pr": 369210,
+      "st": 0,
+      "stat": "ac=435;binds;da=228;enfatig=40,11;evade=22;hp=987;legbon=glare,220;lowevade=22;lvl=220;manafatig=40,24;opis=W początkowych etapach istnienia Thuzal ludzie podjęli próbę utworzenia miejskiej kopalni, drążąc sztolnie. Wielkie było ich zdziwienie, gdy przebili się do podziemnej sieci korytarzy, nie wiedząc, że są tak blisko Ołtarza Pajęczej Bogini... Prace nad pogłębianiem wyrobiska wstrzymano, a dostęp do głębszych sal zabarykadowano. Od tej pory Zapomniane Sztolnie objęte są pracami archeologicznymi i wielkim rygorem przy próbie ich eksploracji.;rarity=legendary;sa=173"
+    },
+    {
+      "id": 58490,
+      "name": "Magazyn sił chaosu",
+      "icon": "hel/helm1442.gif",
+      "cl": 9,
+      "pr": 448777,
+      "st": 0,
+      "stat": "absorb=893;absorbm=446;ac=398;act=4;binds;crit=4;hp=2006;legbon=cleanse,220;lowevade=22;lvl=220;manabon=60;opis=Tworowi Chaosu, jakim jest Marlloth Malignitas, dane było doświadczać zarówno wzlotów, jak i dotkliwych upadków. Po utracie Podmuchu Potępionych oraz Tchnienia Grozy w starciu z Panem Nicości, moce Pajęczej Bogini uległy znacznemu osłabieniu. Zaszyta w głębokich podziemiach kumuluje ona teraz swoją energię w nowym artefakcie - nakryciu głowy, które trzymasz w swoich dłoniach - by w przyszłości odzyskać to, co zostało jej odebrane.;rarity=legendary;reqp=mpt;resfire=8;resfrost=6;sa=228"
+    },
+    {
+      "id": 58489,
+      "name": "Wspomnienie sromotnej porażki",
+      "icon": "hel/helm1441.gif",
+      "cl": 9,
+      "pr": 369210,
+      "st": 0,
+      "stat": "ac=494;act=8;binds;crit=2;critval=12;hp=3987;legbon=puncture,220;lvl=220;opis=Gdy bogowie opuścili już znany nam świat, Demonis Pan Nicości starł się z Marlloth Malignitas. Demon walczył magią, ciskając kuliste pioruny, podczas gdy Pajęcza Bogini tkała wokół niego lepkie pajęczyny, wirując w upiornym tańcu z mieczami w obu dłoniach. Zwycięstwo Marlloth zdawało się być przesądzone, gdy oplotła Demonisa nićmi, z których nie potrafił się uwolnić. Pan Nicości czekał jednak na zadanie ostatecznego ciosu i zerwanie z szyi bogini dwóch amuletów - źródła jej mocy - co ostatecznie zadecydowało o jego wygranej.;rarity=legendary;reqp=bhw;resfrost=5;sa=228"
     },
     {
       "id": 54135,
@@ -20764,7 +21252,10 @@
       "cl": 9,
       "pr": 492755,
       "st": 0,
-      "stat": "absorb=1101;absorbm=551;ac=385;act=12;crit=2;critmval=6;da=64;energybon=25;evade=45;legbon=critred,225;lvl=225;manabon=56;opis=Historyczne podania traktują o kuszniczce, która łączyła swe magiczne zdolności tropicielki z używaniem najtęższych trucizn znanych w krainie. Każda z jej strzał trafiała w cel, raniąc i paraliżując ciało ofiary, przez co w podziwie, bądź w strachu, zaczęła być zwana pośród ludzi Czarną Wdową. Spoglądając na ten zakrwawiony przedmiot można wnioskować, że pająki najwyraźniej postanowiły odzyskać tytuł, który należny jest tylko im.;permbound;rarity=legendary;reqp=t;resfrost=14;sa=233"
+      "stat": "absorb=1101;absorbm=551;ac=385;act=12;crit=2;critmval=6;da=64;energybon=25;evade=45;legbon=critred,225;lvl=225;manabon=56;opis=Historyczne podania traktują o kuszniczce, która łączyła swe magiczne zdolności tropicielki z używaniem najtęższych trucizn znanych w krainie. Każda z jej strzał trafiała w cel, raniąc i paraliżując ciało ofiary, przez co w podziwie, bądź w strachu, zaczęła być zwana pośród ludzi Czarną Wdową. Spoglądając na ten zakrwawiony przedmiot można wnioskować, że pająki najwyraźniej postanowiły odzyskać tytuł, który należny jest tylko im.;permbound;rarity=legendary;reqp=t;resfrost=14;sa=233",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29353,
@@ -20773,7 +21264,10 @@
       "cl": 9,
       "pr": 469291,
       "st": 0,
-      "stat": "ac=551;blok=34;crit=1;da=64;energybon=25;hp=1042;legbon=cleanse,225;lowevade=45;lvl=225;manabon=56;opis=Cacko należące do furbolich przodków, którzy lata temu, nim jeszcze krainę skolonizowali ludzie, władali całą północą. Niesie ze sobą wspomnienie pewnego ataku, podczas którego strona prawowitych właścicieli tego hełmu poniosła wielkie straty. Celem uniknięcia podobnych wydarzeń, szamani furboli, używając pełni swych mocy, stworzyli dwa wyjątkowe pierścienie, które miały za zadanie tłumić wrogie intencje pajęczych sąsiadów.;permbound;rarity=legendary;reqp=p;reslight=9;sa=177;slow=72"
+      "stat": "ac=551;blok=34;crit=1;da=64;energybon=25;hp=1042;legbon=cleanse,225;lowevade=45;lvl=225;manabon=56;opis=Cacko należące do furbolich przodków, którzy lata temu, nim jeszcze krainę skolonizowali ludzie, władali całą północą. Niesie ze sobą wspomnienie pewnego ataku, podczas którego strona prawowitych właścicieli tego hełmu poniosła wielkie straty. Celem uniknięcia podobnych wydarzeń, szamani furboli, używając pełni swych mocy, stworzyli dwa wyjątkowe pierścienie, które miały za zadanie tłumić wrogie intencje pajęczych sąsiadów.;permbound;rarity=legendary;reqp=p;reslight=9;sa=177;slow=72",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29352,
@@ -20782,7 +21276,10 @@
       "cl": 9,
       "pr": 425661,
       "st": 0,
-      "stat": "ac=496;act=8;crit=2;critval=12;ds=129;evade=45;legbon=curse,225;lowcrit=2;lvl=225;opis=Nosząc ten przedziwny hełm zaczynasz rozumieć mowę pająków, a do uszu twych docierają ciche szepty monstrualnych bestii:[br]Zabić... fur-bo-le...[br]Wróg... zagrożenie.[br]Truchło... furbola[br]...Jedyne życzenie.[br]Czy spełnisz pajęcze błagania? A może odejdziesz, ignorując je? One nigdy nie ucichną, już zawsze będą tkwiły w twej głowie... Do czasu aż nie zwariujesz i nie staniesz się żywą marionetką na usługach ośmioocznych bestii.;permbound;rarity=legendary;reqp=b;resfire=5;sa=233"
+      "stat": "ac=496;act=8;crit=2;critval=12;ds=129;evade=45;legbon=curse,225;lowcrit=2;lvl=225;opis=Nosząc ten przedziwny hełm zaczynasz rozumieć mowę pająków, a do uszu twych docierają ciche szepty monstrualnych bestii:[br]Zabić... fur-bo-le...[br]Wróg... zagrożenie.[br]Truchło... furbola[br]...Jedyne życzenie.[br]Czy spełnisz pajęcze błagania? A może odejdziesz, ignorując je? One nigdy nie ucichną, już zawsze będą tkwiły w twej głowie... Do czasu aż nie zwariujesz i nie staniesz się żywą marionetką na usługach ośmioocznych bestii.;permbound;rarity=legendary;reqp=b;resfire=5;sa=233",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29351,
@@ -20791,7 +21288,10 @@
       "cl": 9,
       "pr": 446944,
       "st": 0,
-      "stat": "absorb=1652;absorbm=826;ac=275;crit=3;critmval=18;di=129;heal=293;legbon=critred,225;lvl=225;manabon=56;opis=Szkaradny symbol księżniczki, która w akcie rozpaczy odebrała sobie życie, a przywrócona do niego została pod postacią pająka. Całe wieki później jej ośmionodzy potomkowie, siłą wcieleni do Organizacji, zmuszeni zostali wykorzystywać swój niebywały talent do tkactwa w służbie ludziom. Ludziom, którzy już niebawem mieli rozpętać wojnę, jakiej te ziemie jeszcze nie widziały.;permbound;rarity=legendary;reqp=m;resfrost=16;sa=177"
+      "stat": "absorb=1652;absorbm=826;ac=275;crit=3;critmval=18;di=129;heal=293;legbon=critred,225;lvl=225;manabon=56;opis=Szkaradny symbol księżniczki, która w akcie rozpaczy odebrała sobie życie, a przywrócona do niego została pod postacią pająka. Całe wieki później jej ośmionodzy potomkowie, siłą wcieleni do Organizacji, zmuszeni zostali wykorzystywać swój niebywały talent do tkactwa w służbie ludziom. Ludziom, którzy już niebawem mieli rozpętać wojnę, jakiej te ziemie jeszcze nie widziały.;permbound;rarity=legendary;reqp=m;resfrost=16;sa=177",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29350,
@@ -20800,7 +21300,10 @@
       "cl": 9,
       "pr": 425661,
       "st": 0,
-      "stat": "ac=595;act=1;crit=2;critval=12;ds=129;energybon=25;legbon=verycrit,225;lowevade=45;lvl=225;opis=W pewną bezksiężycową, czarną jak smoła noc, terytoria furboli zalały pajęcze hordy z północy. Rozgromione przez Czempiona, nie wycofały się z niczym - ich lepkie odnóża skradły dwa niezwykłe hełmy oraz ciało głównego szamana poległego w walce, którym to ostentacyjnie, na szczycie wzgórza, nakarmiły swoje młode.;permbound;rarity=legendary;reqp=w;sa=177;slow=72"
+      "stat": "ac=595;act=1;crit=2;critval=12;ds=129;energybon=25;legbon=verycrit,225;lowevade=45;lvl=225;opis=W pewną bezksiężycową, czarną jak smoła noc, terytoria furboli zalały pajęcze hordy z północy. Rozgromione przez Czempiona, nie wycofały się z niczym - ich lepkie odnóża skradły dwa niezwykłe hełmy oraz ciało głównego szamana poległego w walce, którym to ostentacyjnie, na szczycie wzgórza, nakarmiły swoje młode.;permbound;rarity=legendary;reqp=w;sa=177;slow=72",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29349,
@@ -20809,7 +21312,10 @@
       "cl": 9,
       "pr": 469291,
       "st": 0,
-      "stat": "ac=440;act=16;crit=2;critval=6;dz=129;energybon=25;evade=23;hp=1042;legbon=lastheal,225;lowevade=23;lvl=225;opis=Istniały od zawsze, ale dopiero, gdy zyskały swego władcę - Arachina, rozgrzała się w nich chęć do walki i niepohamowana agresja. Kawałek po kawałku spowijały siecią coraz to rozleglejsze tereny, a konflikt między nimi a furbolami przybrał na sile jak nigdy wcześniej i utrzymuje się po dziś dzień.;permbound;rarity=legendary;reqp=h;resfire=7;sa=233"
+      "stat": "ac=440;act=16;crit=2;critval=6;dz=129;energybon=25;evade=23;hp=1042;legbon=lastheal,225;lowevade=23;lvl=225;opis=Istniały od zawsze, ale dopiero, gdy zyskały swego władcę - Arachina, rozgrzała się w nich chęć do walki i niepohamowana agresja. Kawałek po kawałku spowijały siecią coraz to rozleglejsze tereny, a konflikt między nimi a furbolami przybrał na sile jak nigdy wcześniej i utrzymuje się po dziś dzień.;permbound;rarity=legendary;reqp=h;resfire=7;sa=233",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 29348,
@@ -20818,7 +21324,10 @@
       "cl": 12,
       "pr": 425661,
       "st": 0,
-      "stat": "acdmg=25;crit=2;da=121;energybon=25;evade=45;heal=508;legbon=holytouch,225;lowevade=45;lvl=225;manabon=56;opis=Poza wiedzą kogokolwiek z Rady Magicznej, pojedynczy członkowie Organizacji postanowili w tajemnicy stworzyć kolejną bestię - samicę dla Arachina. Arachniregina Colosseus, bo tak nazwali tę zakazaną istotę, jak się wkrótce okazało, nie była tworem kompletnym. Po wszystkich próbach zapłodnienia zrodziła jedynie jednego, wątłego pajączka, z którego to sprawne ręce magicznego rzemieślnika utworzyły nadzwyczajny mocą amulet - Pajęczą ozdobę. Kto jednak wie, jakie losy spotkały potem tę błyskotkę...;permbound;rarity=legendary;resdmg=1;sa=233"
+      "stat": "acdmg=25;crit=2;da=121;energybon=25;evade=45;heal=508;legbon=holytouch,225;lowevade=45;lvl=225;manabon=56;opis=Poza wiedzą kogokolwiek z Rady Magicznej, pojedynczy członkowie Organizacji postanowili w tajemnicy stworzyć kolejną bestię - samicę dla Arachina. Arachniregina Colosseus, bo tak nazwali tę zakazaną istotę, jak się wkrótce okazało, nie była tworem kompletnym. Po wszystkich próbach zapłodnienia zrodziła jedynie jednego, wątłego pajączka, z którego to sprawne ręce magicznego rzemieślnika utworzyły nadzwyczajny mocą amulet - Pajęczą ozdobę. Kto jednak wie, jakie losy spotkały potem tę błyskotkę...;permbound;rarity=legendary;resdmg=1;sa=233",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 24568,
@@ -20912,13 +21421,43 @@
       ]
     },
     {
+      "id": 58598,
+      "name": "Pokraczne łapy Arytodama",
+      "icon": "rek/rekawice1357.gif",
+      "cl": 11,
+      "pr": 450903,
+      "st": 0,
+      "stat": "absorb=1260;absorbm=630;ac=210;binds;crit=3;critmval=6;di=381;heal=269;legbon=lastheal,226;lvl=226;opis=Wielkie cielsko bagna strzeże,[br]podróżników jest to zmora![br]Wiedząc o eksperymentach...[br]Czyżby brat to był Vapora?;rarity=legendary;reqp=m;resfrost=16;sa=178;slow=73"
+    },
+    {
+      "id": 58597,
+      "name": "Klamry degradacji środowiska",
+      "icon": "rek/rekawice1356.gif",
+      "cl": 11,
+      "pr": 450903,
+      "st": 0,
+      "stat": "ac=336;act=12;binds;crit=2;critval=6;dz=255;energybon=25;evade=23;legbon=verycrit,226;lowevade=23;lvl=226;opis=Kiedyś wody krystaliczne,[br]teraz bagna są cuchnące...[br]Aby żyć złe żaby mogły,[br]wlano środki tu trujące!;rarity=legendary;reqp=bht;resfrost=8;sa=234"
+    },
+    {
+      "id": 58596,
+      "name": "Kajdany bagiennego bulgotania",
+      "icon": "rek/rekawice1355.gif",
+      "cl": 11,
+      "pr": 473448,
+      "st": 0,
+      "stat": "ac=437;act=1;binds;blok=34;crit=2;critval=12;ds=130;energybon=25;heal=269;legbon=lastheal,226;lowevade=23;lvl=226;opis=Bulgotania co nie miara,[br]gdy ucichnie - słychać nowe![br]Czy z wyziewów to bąbelki,[br]czy zatrucie pokarmowe?;rarity=legendary;reqp=pw;resfrost=6;sa=178"
+    },
+    {
       "id": 23722,
       "name": "Pancerne rękawice maddoków",
       "icon": "rek/rekawice338.gif",
       "cl": 11,
       "pr": 450903,
       "st": 0,
-      "stat": "ac=377;act=1;binds;blok=34;crit=2;critval=12;ds=130;energybon=25;hp=1912;legbon=lastheal,226;lowevade=23;lvl=226;opis=Ciężko ustalić z czego zostały wykonane. Ten dziwny materiał raz zaciska się na dłoniach odcinając dopływ krwi do kończyn, a innym razem daje tak wielką swobodę, że rękawice te mogłyby zsunąć się z rąk wraz z silniejszym zamachem miecza.;rarity=legendary;reqp=pw;resfrost=6;sa=178"
+      "stat": "ac=377;act=1;binds;blok=34;crit=2;critval=12;ds=130;energybon=25;hp=1912;legbon=lastheal,226;lowevade=23;lvl=226;opis=Ciężko ustalić z czego zostały wykonane. Ten dziwny materiał raz zaciska się na dłoniach odcinając dopływ krwi do kończyn, a innym razem daje tak wielką swobodę, że rękawice te mogłyby zsunąć się z rąk wraz z silniejszym zamachem miecza.;rarity=legendary;reqp=pw;resfrost=6;sa=178",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23721,
@@ -20927,7 +21466,10 @@
       "cl": 11,
       "pr": 450903,
       "st": 0,
-      "stat": "ac=336;act=12;binds;crit=2;critval=6;dz=255;energybon=25;evade=23;legbon=verycrit,226;lowevade=23;lvl=226;opis=Wystarczył pojedynczy zamach w tych rękawicach, by zerwać łeb jednemu ze świty pyszałka uśmierconego przez Mocnego Maddoksa. Nakrycie jego głowy pewnie do tej pory wala się gdzieś po jaskini.;rarity=legendary;reqp=bht;resfrost=8;sa=234"
+      "stat": "ac=336;act=12;binds;crit=2;critval=6;dz=255;energybon=25;evade=23;legbon=verycrit,226;lowevade=23;lvl=226;opis=Wystarczył pojedynczy zamach w tych rękawicach, by zerwać łeb jednemu ze świty pyszałka uśmierconego przez Mocnego Maddoksa. Nakrycie jego głowy pewnie do tej pory wala się gdzieś po jaskini.;rarity=legendary;reqp=bht;resfrost=8;sa=234",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 23720,
@@ -20936,7 +21478,10 @@
       "cl": 11,
       "pr": 521977,
       "st": 0,
-      "stat": "absorb=1260;absorbm=630;ac=210;binds;crit=2;critmval=6;da=65;di=130;heal=269;legbon=curse,226;lowcrit=2;lvl=226;manabon=62;opis=Wkładając weń dłonie wyczuwasz pokrywający wnętrze śluz - dokładnie ten sam, który powleka cielska maddoków. Mimo, iż rękawy te są na ciebie z lekka zbyt duże, kleista maź idealnie wypełnia luzy, sprawiając, że dłonie tworzą jedność z rękawicami.;rarity=legendary;reqp=m;resfrost=16;sa=178;slow=73"
+      "stat": "absorb=1260;absorbm=630;ac=210;binds;crit=2;critmval=6;da=65;di=130;heal=269;legbon=curse,226;lowcrit=2;lvl=226;manabon=62;opis=Wkładając weń dłonie wyczuwasz pokrywający wnętrze śluz - dokładnie ten sam, który powleka cielska maddoków. Mimo, iż rękawy te są na ciebie z lekka zbyt duże, kleista maź idealnie wypełnia luzy, sprawiając, że dłonie tworzą jedność z rękawicami.;rarity=legendary;reqp=m;resfrost=16;sa=178;slow=73",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 49860,
@@ -21169,7 +21714,10 @@
       "cl": 12,
       "pr": 477625,
       "st": 0,
-      "stat": "binds;crit=2;critmval=6;di=130;dz=130;evade=23;heal=1020;hp=1722;legbon=facade,227;lowcrit=4;lvl=227;manabon=119;opis=Klejnot użyty do wykonania tego pierścienia ułatwiał najwyższemu kapłanowi z Mar Sehes przeobrażanie się w inne postacie.[br]Gdy przedwieczna cywilizacja upadła, cała magiczna wiedza na temat metamorfów przepadła. Klejnot jednak nadal emanuje wyczuwalną energią.;rarity=legendary;reqp=mt;sa=178;slow=73"
+      "stat": "binds;crit=2;critmval=6;di=130;dz=130;evade=23;heal=1020;hp=1722;legbon=facade,227;lowcrit=4;lvl=227;manabon=119;opis=Klejnot użyty do wykonania tego pierścienia ułatwiał najwyższemu kapłanowi z Mar Sehes przeobrażanie się w inne postacie.[br]Gdy przedwieczna cywilizacja upadła, cała magiczna wiedza na temat metamorfów przepadła. Klejnot jednak nadal emanuje wyczuwalną energią.;rarity=legendary;reqp=mt;sa=178;slow=73",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 18157,
@@ -21178,7 +21726,10 @@
       "cl": 12,
       "pr": 454881,
       "st": 0,
-      "stat": "binds;crit=3;critval=6;ds=130;dz=130;energybon=50;evade=68;hp=3420;legbon=critred,227;lvl=227;opis=Wydobyty z chłodnych odmętów Krainy Jezior przez samego Vapora Veneno. Noszony na palcu pozwala z łatwością odnaleźć drogę na bagnistych terenach.;rarity=legendary;reqp=bh;resfire=6;resfrost=-6;sa=235"
+      "stat": "binds;crit=3;critval=6;ds=130;dz=130;energybon=50;evade=68;hp=3420;legbon=critred,227;lvl=227;opis=Wydobyty z chłodnych odmętów Krainy Jezior przez samego Vapora Veneno. Noszony na palcu pozwala z łatwością odnaleźć drogę na bagnistych terenach.;rarity=legendary;reqp=bh;resfire=6;resfrost=-6;sa=235",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 18156,
@@ -21187,7 +21738,10 @@
       "cl": 12,
       "pr": 412590,
       "st": 0,
-      "stat": "binds;crit=2;critval=12;ds=256;energybon=50;heal=514;hp=6815;legbon=glare,227;lowevade=23;lvl=227;opis=Niezwykły okaz wielkiej różowej perły. Ponoć osoba, która wejdzie w posiadanie pierścienia równocześnie zyskuje władzę nad bagnistymi krainami. Sam klejnot jest również symbolem nadziei oraz odrodzenia piękna wśród upadku i zgnilizny.;rarity=legendary;reqp=pw;sa=178"
+      "stat": "binds;crit=2;critval=12;ds=256;energybon=50;heal=514;hp=6815;legbon=glare,227;lowevade=23;lvl=227;opis=Niezwykły okaz wielkiej różowej perły. Ponoć osoba, która wejdzie w posiadanie pierścienia równocześnie zyskuje władzę nad bagnistymi krainami. Sam klejnot jest również symbolem nadziei oraz odrodzenia piękna wśród upadku i zgnilizny.;rarity=legendary;reqp=pw;sa=178",
+      "tags": [
+        "removed"
+      ]
     },
     {
       "id": 48349,
@@ -21411,58 +21965,145 @@
       ]
     },
     {
+      "id": 58847,
+      "name": "Zapieczętowane źródło",
+      "icon": "neu/itm_vapor_l3.gif",
+      "cl": 15,
+      "pr": 231,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=231;opis=Jeden z 18 składników legendarnego stroju Vapora Veneno. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58846,
+      "name": "Pastorał bagiennego hegemona",
+      "icon": "neu/itm_vapor_l2.gif",
+      "cl": 15,
+      "pr": 231,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=231;opis=Jeden z 18 składników legendarnego stroju Vapora Veneno. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58845,
+      "name": "Ikra pana jezior",
+      "icon": "neu/itm_vapor_l1.gif",
+      "cl": 15,
+      "pr": 231,
+      "st": 0,
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=231;opis=Jeden z 18 składników legendarnego stroju Vapora Veneno. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+    },
+    {
+      "id": 58537,
+      "name": "Stary Żabiec",
+      "icon": "hel/helm1452.gif",
+      "cl": 9,
+      "pr": 519238,
+      "st": 0,
+      "stat": "absorb=861;absorbm=431;ac=431;binds;crit=3;di=261;ds=132;heal=303;hp=1075;legbon=anguish,231;lvl=231;manabon=63;opis=Opisywany w wielu księgach Mocny Maddoks zdaje się być związany z gatunkiem niemal od zawsze. I choć to ludzkie obserwacje z zaledwie kilkuset lat, to nie mijają się z prawdą - ten konkretny przedstawiciel maddoków wykluł się bowiem z jaja złożonego przez samego Maguę. Jak wskazują kroniki, po redukcji ilości maddoków - ze względu na zanieczyszczenie wód krwią po Wojnie Magów - przyczynił się on w znaczy sposób odbudowie populacji, składając rekordowe ilości jaj. To jednak wyczerpujące siły witalne wydarzenie spowodowało, iż jest on teraz bliski końca swego żywota.;rarity=legendary;reqp=mp;resfire=6;reslight=8;sa=181"
+    },
+    {
+      "id": 58536,
+      "name": "Smakosz Ambrozji Maddoków",
+      "icon": "hel/helm1453.gif",
+      "cl": 9,
+      "pr": 470964,
+      "st": 0,
+      "stat": "ac=459;act=12;binds;crit=2;energybon=25;evade=46;hp=3176;legbon=lastheal,231;lvl=231;opis=Ambrozja Maddoków, chociaż sprawia wrażenie zwykłego napitku, to ma kluczowe znaczenie dla przetrwania tej rasy. Organizmy maddoków nie posiadają bowiem funkcji odpowiedzialnych za regenerację własnych tkanek, czy zabliźnianie się ran. Jest to jednak możliwe dzięki Ambrozji, w skład której wchodzą: krystalicznie czysta woda, specjalne żywice oraz świeża krew samego Maddoka Maguy, w którego organizmie nadal krąży spożyta setki lat temu Amfora Bogów.;rarity=legendary;reqp=bht;resfrost=2;reslight=6;sa=181;slow=74"
+    },
+    {
+      "id": 58535,
+      "name": "Genealogiczne Algi",
+      "icon": "hel/helm1451.gif",
+      "cl": 9,
+      "pr": 406836,
+      "st": 0,
+      "stat": "ac=620;act=1;binds;blok=35;crit=3;ds=389;legbon=cleanse,231;lowevade=46;lvl=231;opis=Eksperyment Nikantosa, mający na celu stworzenie istoty idealnej do życia na lądzie oraz w wodzie, zakończył się połowicznym sukcesem. Chociaż powstały stwór - Magua - spełniał boskie założenia, to był jednak wyjątkowo słaby. Nikantos napoił go więc Amforą Bogów, obdarzając istotę zarówno siłą, jak i długowiecznością. Wiele lat później - gdy Magua dorósł w nurcie rzeki Yss - złożył nieplanowane przez Nikantosa jaja, dając początek rasie maddoków.;rarity=legendary;reqp=w;sa=181"
+    },
+    {
+      "id": 58469,
+      "name": "Pierścionek toksycznej fascynacji",
+      "icon": "pie/pierscien1320.gif",
+      "cl": 12,
+      "pr": 494512,
+      "st": 0,
+      "stat": "binds;crit=2;critmval=6;da=124;di=132;evade=23;heal=1045;hp=1763;legbon=puncture,231;lowcrit=2;lvl=231;manabon=121;opis=Zafascynowani maddokami magowie badali i zatruwali torfowiska, tworząc przy tym początkowo bagienne żaby i toksyczne stworki, by finalnie doprowadzić do narodzin nowego, potężnego gatunku - anuraków. Swoje eksperymenty opierali na maddoczych jajach, chcąc ostatecznie powołać do życia byt dostosowany zarówno do czystych akwenów, jak i do gnijących bagien...;rarity=legendary;reqp=mt;sa=181;slow=74"
+    },
+    {
+      "id": 58468,
+      "name": "Błyskotka humanoidalnej natury",
+      "icon": "pie/pierscien1319.gif",
+      "cl": 12,
+      "pr": 427178,
+      "st": 0,
+      "stat": "binds;crit=2;critval=12;da=124;energybon=51;evade=46;heal=526;hp=3502;legbon=critred,231;lvl=231;opis=Klejnot odnaleziony został przez samego Vapora Veneno pośród połaci magicznych tataraków. Zgodnie z prowadzonymi obserwacjami, pierścień w sposób znaczny wpłynął na procesy poznawcze potwora, uwidaczniając jeszcze bardziej jego względnie humanoidalna naturę. Silny jak maddok, częściowo rozumny, potrafiący się leczyć... Lepiej nie mieć go za swojego przeciwnika!;rarity=legendary;reqp=bh;sa=239"
+    },
+    {
+      "id": 58467,
+      "name": "Symbol wodnych narodzin",
+      "icon": "pie/pierscien1318.gif",
+      "cl": 12,
+      "pr": 470964,
+      "st": 0,
+      "stat": "binds;crit=2;critval=6;ds=389;energybon=51;heal=526;hp=3502;legbon=glare,231;lowcrit=2;lowevade=23;lvl=231;opis=Pod koniec wojny magowie ewakuujący się z krainy zabrali ze sobą zmodyfikowane jaja maddoków. Pech jednak chciał, iż podczas ucieczki jedno z jaj wpadło do małego rozlewiska łączącego krystalicznie czystą wodę maddoków z trującymi, bagiennymi wysiękami, gdzie dojrzewało swym naturalnym rytmem... Po jakimś czasie z zagubionego jaja wyklul się byt odstający wyglądem zarówno od maddoków, jak i anuraków, jednak łączący w sobie cechy obydwu tych gatunków - Vapor Veneno.;rarity=legendary;reqp=pw;sa=181;slow=74"
+    },
+    {
       "id": 47177,
       "name": "Trzcinowe pantofle maddoka",
-      "icon": "but/buty912.gif",
+      "icon": "but/buty1345.gif",
       "cl": 10,
       "pr": 545200,
       "st": 0,
-      "stat": "absorb=1305;absorbm=653;ac=313;acdmg=26;act=6;crit=2;critmval=6;evade=23;heal=293;legbon=cleanse,231;lvl=231;manabon=116;opis=Splecione z wikliny i opasane trzcinowymi liśćmi pantofle ratują życie w sytuacjach takich jak utknięcie w grzęzawisku. Zaklęcie maddoczych szamanów rzucone na parę obuwia powoduje natychmiastowy wzrost wierzbowych pędów, z których zostało wykonane, blokując dalsze zapadanie się w zdradliwe, bagienne odmęty.;permbound;rarity=legendary;reqp=mt;resfire=15;sa=239;slow=74"
+      "stat": "absorb=1305;absorbm=653;ac=313;acdmg=26;act=6;crit=2;critmval=6;evade=23;heal=293;legbon=cleanse,231;lvl=231;manabon=121;opis=Splecione z wikliny i opasane trzcinowymi liśćmi pantofle ratują życie w sytuacjach takich jak utknięcie w grzęzawisku. Zaklęcie maddoczych szamanów rzucone na parę obuwia powoduje natychmiastowy wzrost wierzbowych pędów, z których zostało wykonane, blokując dalsze zapadanie się w zdradliwe, bagienne odmęty.;permbound;rarity=legendary;reqp=mt;resfire=15;sa=239;slow=74",
+      "tags": []
     },
     {
       "id": 47176,
       "name": "Krok torfowego dywanu",
-      "icon": "but/buty911.gif",
+      "icon": "but/buty1344.gif",
       "cl": 10,
       "pr": 470964,
       "st": 0,
-      "stat": "ac=444;acdmg=26;act=12;crit=2;critval=6;dz=132;energybon=51;evade=23;legbon=lastheal,231;lvl=231;opis=Drewniane cholewy porzucone zostały lata temu w miejscu, gdzie następnie wybiło źródło, tworząc w zagłębieniu terenu niewielkie jezioro. Chociaż obuwie zaczęło niszczeć i gnić, proces ten zatrzymały algi, które przylgnęły do jego powierzchni. Czyżby rośliny te posiadały jakieś wyjątkowe właściwości?;permbound;rarity=legendary;reqp=bh;resfire=6;sa=297"
+      "stat": "ac=444;acdmg=26;act=12;crit=2;critval=6;dz=132;energybon=51;evade=23;legbon=lastheal,231;lvl=231;opis=Drewniane cholewy porzucone zostały lata temu w miejscu, gdzie następnie wybiło źródło, tworząc w zagłębieniu terenu niewielkie jezioro. Chociaż obuwie zaczęło niszczeć i gnić, proces ten zatrzymały algi, które przylgnęły do jego powierzchni. Czyżby rośliny te posiadały jakieś wyjątkowe właściwości?;permbound;rarity=legendary;reqp=bh;resfire=6;sa=297",
+      "tags": []
     },
     {
       "id": 47175,
       "name": "Obuwie jedności z naturą",
-      "icon": "but/buty913.gif",
+      "icon": "but/buty1346.gif",
       "cl": 10,
       "pr": 519238,
       "st": 0,
-      "stat": "ac=543;acdmg=26;act=1;blok=35;crit=2;critval=6;energybon=25;heal=293;legbon=critred,231;lowevade=23;lvl=231;opis=Pnącza porastające obuwie układają się w kształt specyficznej spirali, która jest powszechnym w naturze wzorcem dla formowania się różnych obiektów i zjawisk: pąków kwiatowych, huraganów, jak również i całych galaktyk. Załóż podeszwy na nogi, stań się z nimi jednością i poczuj pierwotną energię, która je przepełnia!;permbound;rarity=legendary;reqp=pw;resfire=6;sa=239;slow=74"
+      "stat": "ac=543;acdmg=26;act=1;blok=35;crit=2;critval=6;energybon=25;heal=293;legbon=critred,231;lowevade=23;lvl=231;opis=Pnącza porastające obuwie układają się w kształt specyficznej spirali, która jest powszechnym w naturze wzorcem dla formowania się różnych obiektów i zjawisk: pąków kwiatowych, huraganów, jak również i całych galaktyk. Załóż podeszwy na nogi, stań się z nimi jednością i poczuj pierwotną energię, która je przepełnia!;permbound;rarity=legendary;reqp=pw;resfire=6;sa=239;slow=74",
+      "tags": []
     },
     {
       "id": 47173,
       "name": "Oko aligatora",
-      "icon": "nas/naszyjnik912.gif",
+      "icon": "nas/naszyjnik1320.gif",
       "cl": 13,
       "pr": 494512,
       "st": 0,
-      "stat": "crit=3;critval=6;dz=132;energybon=25;enfatig=40,11;evade=69;hp=1763;legbon=holytouch,231;lowevade=23;lvl=231;manafatig=40,24;opis=Lazurowe oko w zielonej oprawie zdobiło pierś Maddoka Maguy, połyskując coraz mocniej i mocniej z każdą ofiarą jego tatarakowej włóczni. Mawia się, że klejnot ten symbolizuje pakt z żywiołem wody, a oferowane przez niego moce są niezwykle przydatne w walkach na podmokłych terenach.;permbound;rarity=legendary;reqp=bht;sa=297;slow=74"
+      "stat": "crit=3;critval=6;dz=132;energybon=25;enfatig=40,11;evade=69;hp=1763;legbon=holytouch,231;lowevade=23;lvl=231;manafatig=40,24;opis=Lazurowe oko w zielonej oprawie zdobiło pierś Maddoka Maguy, połyskując coraz mocniej i mocniej z każdą ofiarą jego tatarakowej włóczni. Mawia się, że klejnot ten symbolizuje pakt z żywiołem wody, a oferowane przez niego moce są niezwykle przydatne w walkach na podmokłych terenach.;permbound;rarity=legendary;reqp=bht;sa=297;slow=74",
+      "tags": []
     },
     {
       "id": 47172,
       "name": "Amulet bagiennych rybaków",
-      "icon": "nas/naszyjnik914.gif",
+      "icon": "nas/naszyjnik1322.gif",
       "cl": 13,
       "pr": 494512,
       "st": 0,
-      "stat": "crit=3;critval=12;ds=132;energybon=51;enfatig=40,11;heal=526;hp=3502;legbon=cleanse,231;lowevade=23;lvl=231;manafatig=40,24;opis=Chociaż bagienne wody są wyjątkowo mętne, a dna wszelkich akwenów przepełnia masa mułu, to żyje w nich wiele wyjątkowych gatunków ryb - spotykanych wyłącznie w tym obszarze krainy, będących głównym źródłem pożywienia maddoków. Chęć złowienia tych okazów wabi na bagna także wielu rybaków, którzy to od czasu do czasu stanowią ciekawe urozmaicenie maddoczej diety.;permbound;rarity=legendary;reqp=w;sa=239;slow=74"
+      "stat": "crit=3;critval=12;ds=132;energybon=51;enfatig=40,11;heal=526;hp=3502;legbon=cleanse,231;lowevade=23;lvl=231;manafatig=40,24;opis=Chociaż bagienne wody są wyjątkowo mętne, a dna wszelkich akwenów przepełnia masa mułu, to żyje w nich wiele wyjątkowych gatunków ryb - spotykanych wyłącznie w tym obszarze krainy, będących głównym źródłem pożywienia maddoków. Chęć złowienia tych okazów wabi na bagna także wielu rybaków, którzy to od czasu do czasu stanowią ciekawe urozmaicenie maddoczej diety.;permbound;rarity=legendary;reqp=w;sa=239;slow=74",
+      "tags": []
     },
     {
       "id": 47171,
       "name": "Kłącza i wodorosty",
-      "icon": "nas/naszyjnik913.gif",
+      "icon": "nas/naszyjnik1321.gif",
       "cl": 13,
       "pr": 470964,
       "st": 0,
-      "stat": "crit=3;critmval=6;di=132;enfatig=40,11;heal=1045;hp=3502;legbon=verycrit,231;lvl=231;manabon=173;manafatig=40,24;opis=Na pozór zwykłe rośliny wrośnięte w namoknięty sznur, a jednak jest w nich coś intrygującego. Świecą w ciemności, wydzielają ciepło, nigdy nie więdną... Czyżby nie było to chaotyczne dzieło natury, a specjalny artefakt stworzony z jakąś wizją lub konkretnym zastosowaniem?;permbound;rarity=legendary;reqp=mp;sa=239;slow=74"
+      "stat": "crit=3;critmval=6;di=132;enfatig=40,11;heal=1045;hp=3502;legbon=verycrit,231;lvl=231;manabon=178;manafatig=40,24;opis=Na pozór zwykłe rośliny wrośnięte w namoknięty sznur, a jednak jest w nich coś intrygującego. Świecą w ciemności, wydzielają ciepło, nigdy nie więdną... Czyżby nie było to chaotyczne dzieło natury, a specjalny artefakt stworzony z jakąś wizją lub konkretnym zastosowaniem?;permbound;rarity=legendary;reqp=mp;sa=239;slow=74",
+      "tags": []
     },
     {
       "id": 29369,
@@ -21491,11 +22132,12 @@
     {
       "id": 7522,
       "name": "Oczeretowe pazury maddoka",
-      "icon": "rek/rekawice927.gif",
+      "icon": "rek/rekawice1360.gif",
       "cl": 11,
       "pr": 406836,
       "st": 0,
-      "stat": "ac=392;crit=1;da=124;evade=23;heal=544;legbon=facade,231;lowcrit=4;lvl=231;opis=Delikatne jak dotyk wiatru - pozwalają na bezszelestne wyprowadzanie ciosów i tak ciche zamachy mieczem, że nie jest w stanie usłyszeć ich nawet najbardziej wyczulona na dźwięk, leśna zwierzyna. Dzięki temu niejednokrotnie zostały już splamione krwią... Ludzką krwią...;permbound;rarity=legendary;sa=239;slow=74"
+      "stat": "ac=392;crit=1;da=124;evade=23;heal=544;legbon=facade,231;lowcrit=4;lvl=231;opis=Delikatne jak dotyk wiatru - pozwalają na bezszelestne wyprowadzanie ciosów i tak ciche zamachy mieczem, że nie jest w stanie usłyszeć ich nawet najbardziej wyczulona na dźwięk, leśna zwierzyna. Dzięki temu niejednokrotnie zostały już splamione krwią... Ludzką krwią...;permbound;rarity=legendary;sa=239;slow=74",
+      "tags": []
     },
     {
       "id": 7519,
@@ -21937,7 +22579,7 @@
       "cl": 9,
       "pr": 483974,
       "st": 0,
-      "stat": "ac=549;binds;crit=3;da=188;energybon=26;heal=317;legbon=glare,240;lowcrit=2;lvl=240;manabon=60;opis=To podłużne, przypominające kruczy dziób nakrycie głowy, zakładał podczas ceremonii na swą głowę sam przywódca plemienia - Cuaitl Citlalin. Słyszał ponoć wtedy boskie szepty, które stanowiły proroctwo na czas, nim kolejny Xiuhpohualli zakończyć miał swój bieg...;rarity=legendary;resfrost=-3;reslight=3;sa=188"
+      "stat": "ac=549;binds;crit=3;da=188;energybon=26;heal=317;legbon=glare,240;lowcrit=2;lvl=240;manabon=65;opis=To podłużne, przypominające kruczy dziób nakrycie głowy, zakładał podczas ceremonii na swą głowę sam przywódca plemienia - Cuaitl Citlalin. Słyszał ponoć wtedy boskie szepty, które stanowiły proroctwo na czas, nim kolejny Xiuhpohualli zakończyć miał swój bieg...;rarity=legendary;resfrost=-3;reslight=3;sa=188"
     },
     {
       "id": 31237,
@@ -22155,7 +22797,7 @@
       "cl": 11,
       "pr": 598068,
       "st": 0,
-      "stat": "absorb=787;absorbm=394;ac=352;act=4;binds;crit=3;critmval=6;di=138;heal=292;hp=2070;legbon=holytouch,242;lvl=242;manabon=61;manafatig=40,25;opis=W blasku wschodzącego słońca ukazał się nam na horyzoncie ląd ten upragniony, który za siedzibę uznali bogowie. Oto zaistniało przed nami dziedzictwo, proroctwo i nasza przyszłość. Niechaj bogowie mają nas w swej opiece, a my ich.[br]No-kal, Teotl-kal!;rarity=legendary;reqp=mpt;reslight=14;sa=190"
+      "stat": "absorb=787;absorbm=394;ac=352;act=4;binds;crit=3;critmval=6;di=138;heal=292;hp=2070;legbon=holytouch,242;lvl=242;manabon=66;manafatig=40,25;opis=W blasku wschodzącego słońca ukazał się nam na horyzoncie ląd ten upragniony, który za siedzibę uznali bogowie. Oto zaistniało przed nami dziedzictwo, proroctwo i nasza przyszłość. Niechaj bogowie mają nas w swej opiece, a my ich.[br]No-kal, Teotl-kal!;rarity=legendary;reqp=mpt;reslight=14;sa=190"
     },
     {
       "id": 32442,
@@ -23182,7 +23824,7 @@
       "cl": 15,
       "pr": 260,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 38830,
@@ -23191,7 +23833,7 @@
       "cl": 15,
       "pr": 260,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 38829,
@@ -23200,7 +23842,7 @@
       "cl": 15,
       "pr": 260,
       "st": 0,
-      "stat": "amount=1;cansplit=1;capacity=3;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
+      "stat": "amount=1;cansplit=1;capacity=100;lvl=260;opis=Jeden z 18 składników legendarnego stroju[br]Tepeyollotla. [br][br]Po zebraniu wszystkich części [br]wymień je u Broka z Nithal.;permbound;rarity=legendary"
     },
     {
       "id": 38150,
