@@ -1,5 +1,5 @@
 {
-  "updated": "14.12.2025",
+  "updated": "18.12.2025",
   "data": [
     {
       "id": 56563,
@@ -928,6 +928,42 @@
       ]
     },
     {
+      "id": 59715,
+      "name": "Szpony chłodnego serca",
+      "icon": "rek/rekawice1378.gif",
+      "cl": 11,
+      "pr": 14839,
+      "st": 0,
+      "stat": "ac=33;act=16;binds;da=18;dz=26;energybon=13;evade=8;heal=46;hp=165;legbon=curse,39;lvl=39;opis=Z nimi na dłoniach nie będzie ci straszne żadne miłosne rozstanie czy długa rozłąka![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;resfire=7;sa=47;slow=19"
+    },
+    {
+      "id": 59714,
+      "name": "Pięści migocących gwiazd",
+      "icon": "rek/rekawice1380.gif",
+      "cl": 11,
+      "pr": 16359,
+      "st": 0,
+      "stat": "absorb=104;absorbm=52;ac=30;act=6;binds;da=18;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=25;opis=Podobno zadany nimi cios powoduje, że można zobaczyć gwiazdy... Ty  w walce wolisz jednak zachowywać bezpieczny dystans.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=6;reslight=9;sa=37;slow=19"
+    },
+    {
+      "id": 59713,
+      "name": "Lśnienie pierwszej gwiazdki",
+      "icon": "rek/rekawice1381.gif",
+      "cl": 11,
+      "pr": 14132,
+      "st": 0,
+      "stat": "ac=41;binds;da=18;energybon=25;evade=8;heal=46;hp=165;legbon=puncture,39;lvl=39;manabon=15;opis=Za każdym razem, gdy pierwsza gwiazdka zabłyśnie na niebie, czujesz niesamowity przypływ energii. Czy to zasługa tych rękawic, czy może twojej wiary w astrologię?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=p;reslight=9;sa=37;slow=19"
+    },
+    {
+      "id": 59712,
+      "name": "Atrybut zamarzniętego rycerza",
+      "icon": "rek/rekawice1379.gif",
+      "cl": 11,
+      "pr": 14132,
+      "st": 0,
+      "stat": "ac=41;act=5;binds;da=18;energybon=38;evade=8;heal=46;hp=165;legbon=facade,39;lvl=39;opis=Poprzedni właściciel tych rękawic czekał na pojedynek tak długo, że zamarzł na kość. Nie pozwól, by historia ta się powtórzyła![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;reslight=4;sa=37;slow=19"
+    },
+    {
       "id": 56690,
       "name": "Wilcze dziedzictwo",
       "icon": "pie/pierscien1232.gif",
@@ -1229,7 +1265,8 @@
       "cl": 13,
       "pr": 13464,
       "st": 0,
-      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48"
+      "stat": "binds;crit=4;critval=6;da=38;energybon=25;evade=8;heal=67;hp=232;legbon=glare,40;lvl=40;opis=Nazbyt wielka potęga antycznego amuletu doprowadzała jego właścicieli do szaleństwa. Szpon demonicznego bytu przeciął więc medalion na dwie części, a te - początkowo przechowywane razem - z biegiem czasu trafiły w różne części krainy. Goblinom udało się jednak zdobyć zarówno jasną jak i ciemną połowę artefaktu... Tylko jakie spoiwo da radę zaleczyć to demoniczne cięcie?;rarity=legendary;reqp=bhw;sa=48",
+      "extendedID": "34790@40"
     },
     {
       "id": 34438,
@@ -2643,7 +2680,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39733@51"
     },
     {
       "id": 32658,
@@ -7012,6 +7050,33 @@
       ]
     },
     {
+      "id": 59730,
+      "name": "Lodowe skrzydełka",
+      "icon": "pie/pierscien1345.gif",
+      "cl": 12,
+      "pr": 70754,
+      "st": 0,
+      "stat": "acdmg=7;binds;crit=2;critval=6;dz=206;energybon=16;evade=18;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Rozciągnij między nimi cięciwę, a posłużą jako miniaturowa kusza![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=h;sa=76"
+    },
+    {
+      "id": 59729,
+      "name": "Kryształowy smok",
+      "icon": "pie/pierscien1344.gif",
+      "cl": 12,
+      "pr": 67385,
+      "st": 0,
+      "stat": "acdmg=7;binds;crit=2;critmval=12;da=54;di=55;heal=468;legbon=puncture,91;lvl=91;manabon=73;opis=Pierścień ten jest podobizną pupila jednego z wybitniejszych czarnoksiężników posługujących się magią zimna. Stworzony został celem upamiętnienia poległego przyjaciela podróży...[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mpt;sa=76"
+    },
+    {
+      "id": 59728,
+      "name": "Pieczęć mrozu",
+      "icon": "pie/pierscien1343.gif",
+      "cl": 12,
+      "pr": 78007,
+      "st": 0,
+      "stat": "acdmg=7;binds;crit=2;critval=6;ds=105;dz=55;energybon=32;evade=9;hp=1081;legbon=puncture,91;lowevade=9;lvl=91;opis=Odnaleziono ją w jednej z lodowych sal na północ od Thuzal. Niestety, nie udało się ustalić do kogo należała w latach swej świetności.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bw;sa=76;slow=34"
+    },
+    {
       "id": 56584,
       "name": "Strzelające palce kniei",
       "icon": "rek/rekawice1286.gif",
@@ -7784,7 +7849,8 @@
       "tags": [
         "event",
         "event-wiel-20"
-      ]
+      ],
+      "extendedID": "34463@100!heal"
     },
     {
       "id": 34461,
@@ -11800,6 +11866,42 @@
       "pr": 156635,
       "st": 0,
       "stat": "binds;crit=3;critval=6;da=42;dz=155;energybon=19;evade=14;hp=1754;legbon=facade,136;lowevade=27;lvl=136;opis=Zebrały się potwory wszelakie,[br]mając trunki ze świata całego. [br]Choć każdy się w wyzwaniu spróbował,[br]nie było na Grubbera mocnego!;rarity=legendary;reqp=bh;sa=144"
+    },
+    {
+      "id": 59746,
+      "name": "Bojowe rękawice kuchenne",
+      "icon": "rek/rekawice1385.gif",
+      "cl": 11,
+      "pr": 166872,
+      "st": 0,
+      "stat": "absorb=589;absorbm=294;ac=98;binds;crit=2;critmval=12;heal=300;legbon=critred,137;lvl=137;opis=Właściciel tych rękawic zyskuje pełne prawo do konsumpcji dań oznaczonych etykietą \"na święta\" oraz do zarządzania czasem i energią swoich domowników. Korzystaj mądrze![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;reslight=16;sa=145;slow=47"
+    },
+    {
+      "id": 59745,
+      "name": "Para słodkich łapek",
+      "icon": "rek/rekawice1384.gif",
+      "cl": 11,
+      "pr": 183976,
+      "st": 0,
+      "stat": "absorb=118;absorbm=59;ac=181;act=11;binds;dz=80;energybon=38;heal=154;legbon=facade,137;lowevade=14;lvl=137;manabon=74;opis=Cukrowe ozdoby przytwierdzone do rękawic wspomogą cię za każdym razem, gdy odczujesz nagły brak energii. Nawet podczas walki![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;reslight=7;sa=145"
+    },
+    {
+      "id": 59744,
+      "name": "Uścisk podstępnej słodyczy",
+      "icon": "rek/rekawice1383.gif",
+      "cl": 11,
+      "pr": 158926,
+      "st": 0,
+      "stat": "ac=212;acdmg=12;act=1;binds;crit=2;critval=6;energybon=38;heal=154;legbon=critred,137;lvl=137;opis=W cukrowym szale nie oszczędzisz nikogo ani niczego. A już szczególnie cukrowych lasek zwisających ze świątecznego drzewka.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=145;slow=47"
+    },
+    {
+      "id": 59743,
+      "name": "Kryształowe mankiety",
+      "icon": "rek/rekawice1382.gif",
+      "cl": 11,
+      "pr": 166872,
+      "st": 0,
+      "stat": "ac=167;acdmg=12;act=2;binds;energybon=38;evade=27;hp=559;legbon=facade,137;lvl=137;opis=Dotyk twych gorących dłoni rozpuszcza lodowe bariery, a unosząca się para ulega krystalizacji na purpurowych mankietach. Powstałe w ten sposób lodowe formacje cieszą oko zarówno twoje, jak i obcych ci ludzi.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;reslight=6;sa=145;slow=86"
     },
     {
       "id": 56589,
@@ -15937,6 +16039,42 @@
       ]
     },
     {
+      "id": 59763,
+      "name": "Chwyt dekoratora choinek",
+      "icon": "rek/rekawice1389.gif",
+      "cl": 11,
+      "pr": 328387,
+      "st": 0,
+      "stat": "absorb=876;absorbm=438;ac=146;binds;crit=1;critmval=6;da=53;heal=405;legbon=puncture,179;lowcrit=2;lvl=179;opis=Wokół każdej bombki zawieszonej w tych rękawicach zdaje się pulsować delikatna, złota aura... Czyżby w łapkach tych żył sam duch świąt?[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=m;resdmg=1;resfire=6;reslight=10;sa=142;slow=110"
+    },
+    {
+      "id": 59762,
+      "name": "Dotyk iskrzącego igliwia",
+      "icon": "rek/rekawice1388.gif",
+      "cl": 11,
+      "pr": 344807,
+      "st": 0,
+      "stat": "absorb=175;absorbm=88;ac=269;act=6;binds;crit=2;da=53;di=103;energybon=22;heal=207;legbon=puncture,179;lvl=179;manabon=50;opis=Sklejająca dłonie żywica oraz wchodzące pod płytkę paznokcia igliwie skutecznie przekonują cię do możliwie szybkiego wykonywania zadań w tych podstępnych rękawicach.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=pt;resdmg=1;resfire=3;reslight=7;sa=187"
+    },
+    {
+      "id": 59761,
+      "name": "Lodowe łapy osiłka",
+      "icon": "rek/rekawice1387.gif",
+      "cl": 11,
+      "pr": 257300,
+      "st": 0,
+      "stat": "ac=315;acdmg=18;act=1;binds;crit=2;critval=12;ds=103;energybon=44;legbon=facade,179;lvl=179;opis=Stalowe szpony wprawiają lód w drżenie, a wymierzone w lodową bryłę ciosy zmieniają ją w sorbet... Uważaj, by przypadkiem nie uszkodzić w nich samego siebie![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=w;sa=187"
+    },
+    {
+      "id": 59760,
+      "name": "Palce pani mrozu",
+      "icon": "rek/rekawice1386.gif",
+      "cl": 11,
+      "pr": 270165,
+      "st": 0,
+      "stat": "ac=248;acdmg=18;act=12;binds;energybon=22;evade=36;hp=2190;legbon=puncture,179;lvl=179;opis=Dotyk tych rękawic rozpalał zmysły, by chwilę później schładzać nieruchome już ciała... Choć każdy wiedział, jaki los może go spotkać, pani mrozu nigdy nie narzekała na brak adoratorów.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;reslight=6;sa=187;slow=59"
+    },
+    {
       "id": 57023,
       "name": "Hełm ogrzego szaleństwa",
       "icon": "hel/helm1382.gif",
@@ -16509,7 +16647,8 @@
         "autolvl",
         "event-xmas-24",
         "event"
-      ]
+      ],
+      "extendedID": "55332@182"
     },
     {
       "id": 51801,
@@ -16523,7 +16662,8 @@
         "abyss",
         "autolvl",
         "event"
-      ]
+      ],
+      "extendedID": "51801@182"
     },
     {
       "id": 51800,
@@ -16537,7 +16677,8 @@
         "abyss",
         "autolvl",
         "event"
-      ]
+      ],
+      "extendedID": "51800@182"
     },
     {
       "id": 56807,
@@ -16817,6 +16958,20 @@
       "pr": 291557,
       "st": 0,
       "stat": "binds;crit=4;critmval=12;di=211;heal=1160;hp=2619;legbon=curse,186;lvl=186;manabon=52;opis=Tajemna symbolika, wiązana niekiedy z pewnym bractwem działającym z thuzalskiego podziemia, nad wyraz często oznaczała swą obecność w historii rodu Ankelwaldów. Sygnowano nią co cenniejsze z rodzinnych artefaktów, ale także i pospolite broszki oraz guziki zdobiące arystokratyczne szaty. Symbol niebieskiego oka odnajdywano również wytatuowany na ciałach wysoko postawionych, Thuzalskich dostojników... Ci zawsze jednak odnajdywani byli martwi, z twarzami pełnymi cierpienia.;rarity=legendary;reqp=mpt;resdmg=1;sa=148"
+    },
+    {
+      "id": 59816,
+      "name": "Wielosezonowe rękawice Kapitana",
+      "icon": "rek/rekawice1390.gif",
+      "cl": 11,
+      "pr": 267283,
+      "st": 0,
+      "stat": "ac=281;artisanbon=150;created=1765880863;crit=2;da=55;evade=19;hp=3059;legbon=lastheal,187;lowevade=19;lvl=187;opis=Wiosna, lato, jesień, zima? Gwiazdka, wakacje, a może urodziny? Rękawiczki te odpowiednie są na każdą porę roku i na każde wydarzenie![br][br]Zdobycz po zwycięstwie nad gwiazdkową elitą III.[br][br]Gwiazdka #YEAR,-1,M# r.;permbound;rarity=legendary;sa=148",
+      "tags": [
+        "autolvl",
+        "event-xmas-25",
+        "latest"
+      ]
     },
     {
       "id": 57052,
@@ -18048,7 +18203,8 @@
       "tags": [
         "event-wiel-23",
         "event"
-      ]
+      ],
+      "extendedID": "46618@200"
     },
     {
       "id": 46617,
@@ -19244,8 +19400,7 @@
       "tags": [
         "event",
         "event-waka-22"
-      ],
-      "extendedID": "43750@210"
+      ]
     },
     {
       "id": 43749,
@@ -22023,6 +22178,33 @@
       "stat": "binds;crit=3;critmval=6;da=134;di=144;evade=25;heal=1181;hp=1987;legbon=curse,252;lowevade=25;lvl=252;manabon=131;opis=Wisior boga Huitzilopochtli, który codziennie o poranku walczy z księżycem i gwiazdami, by zginąć wieczorem. Karmi się esencją życia zawartą we krwi, by mieć siłę do walki z wrogami.;rarity=legendary;reqp=mpt;resfire=-6;reslight=6;sa=260"
     },
     {
+      "id": 59778,
+      "name": "Lodowe czubki",
+      "icon": "but/buty1373.gif",
+      "cl": 10,
+      "pr": 622270,
+      "st": 0,
+      "stat": "absorb=1511;absorbm=755;ac=363;act=6;binds;crit=2;critmval=12;di=285;heal=327;legbon=puncture,253;lvl=253;opis=Ostatni krzyk mody! Zachwycą zarówno podczas zimowych spacerów, jak i na lodowisku - wszystko dzięki specjalnemu mechanizmowi pozwalającemu na stabilny montaż płóz do podeszw.[br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=mt;resfire=9;reslight=6;sa=198;slow=153"
+    },
+    {
+      "id": 59777,
+      "name": "Cholewy z zamarzniętej ziemi",
+      "icon": "but/buty1372.gif",
+      "cl": 10,
+      "pr": 511943,
+      "st": 0,
+      "stat": "ac=629;act=1;binds;crit=4;energybon=27;hp=1162;legbon=anguish,253;lowevade=51;lvl=253;opis=Zakładając obuwie to na stopy zastanawiasz się, czy nie zmieni się ono w zwykłe błoto wraz z najbliższymi roztopami... Odrobina ryzyka jednak w życiu nie zaszkodzi![br][br]Gwiazdka 2025 r.[br];rarity=legendary;reqp=pw;resfire=6;sa=261"
+    },
+    {
+      "id": 59776,
+      "name": "Lodołamacze",
+      "icon": "but/buty1369.gif",
+      "cl": 10,
+      "pr": 564417,
+      "st": 0,
+      "stat": "ac=514;act=12;binds;crit=1;ds=145;dz=145;energybon=27;evade=76;legbon=anguish,253;lowevade=25;lvl=253;opis=Według sprzedającego, obuwie to miało pozwalać na bezproblemowe przedzieranie się przez zamarznięte rzeki i jeziora. Szkoda było nie dokonać zakupu, gdyż do jednego buta - uwaga, uwaga - drugi dokładany był gratis![br][br]Gwiazdka 2025 r.;rarity=legendary;reqp=bh;resfire=6;sa=261"
+    },
+    {
       "id": 27455,
       "name": "Łapska przedziwnych anomalii",
       "icon": "rek/rekawice416.gif",
@@ -23780,7 +23962,8 @@
       "cl": 12,
       "pr": 657773,
       "st": 0,
-      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288"
+      "stat": "binds;crit=2;critval=18;ds=160;energybon=29;evade=56;hp=4578;legbon=critred,280;lowcrit=2;lowevade=28;lvl=280;opis=W tym krysztale zamknięta była smocza dusza, która zyskała Wybrańcom przychylność smoczego boga. Choć rozpadł się, gdy duch opuścił swe więzienie, jego odłamki wciąż zachowały potężną moc. Wybrańcy podzielili je między siebie i użyli do stworzenia dwóch obrączek, by Hebrehoth pobłogosławił ich małżeństwo. Jeden pierścień związany jest z drugim, tak jak miłość wiąże smoczych kochanków...;rarity=legendary;reqp=bhw;sa=288",
+      "extendedID": "20110@280"
     },
     {
       "id": 20099,
@@ -24827,7 +25010,8 @@
       "stat": "acdmg=53;binds;crit=1;dmg=3640,4449;ds=171;dz=171;energybon=30;evade=30;hp=2538;lvl=300;opis=Lodowa kula zawieszona na zmrożonym łańcuchu zmasakrowała w swojej historii zbyt wiele ciał i odebrała życie zbyt wielu istotom... Chcąc dzierżyć tę broń musisz wyzbyć się resztek sumienia - wtedy dopiero korbacz stanie ci się w pełni posłuszny.[br][br]Przedmiot wytworzony z użyciem cennych surowców pozyskanych ze złóż w Kopalni Krwawej Pychy.;rarity=legendary;reqp=b;sa=158;slow=94;socket_content=0;socket_fleeting_legbon=curse,300;wound=23,782",
       "tags": [
         "kopalnia-300"
-      ]
+      ],
+      "extendedID": "49109@300"
     },
     {
       "id": 49108,
@@ -24864,7 +25048,8 @@
         "autolvl",
         "event-hallo-23",
         "event"
-      ]
+      ],
+      "extendedID": "48880@300"
     },
     {
       "id": 47882,
@@ -24878,7 +25063,7 @@
         "one-night-casino",
         "event"
       ],
-      "extendedID": "47882@300!heal"
+      "extendedID": "47882@300!slow"
     },
     {
       "id": 47382,
@@ -24891,7 +25076,8 @@
       "tags": [
         "autolvl",
         "removed"
-      ]
+      ],
+      "extendedID": "47382@300"
     },
     {
       "id": 47381,
@@ -24904,7 +25090,8 @@
       "tags": [
         "autolvl",
         "removed"
-      ]
+      ],
+      "extendedID": "47381@300!ac"
     },
     {
       "id": 45488,
@@ -24981,7 +25168,8 @@
         "autolvl",
         "event",
         "event-wiel-24"
-      ]
+      ],
+      "extendedID": "44129@300"
     },
     {
       "id": 44055,
@@ -25115,7 +25303,8 @@
         "event",
         "autolvl",
         "event-autumn"
-      ]
+      ],
+      "extendedID": "39730@300"
     },
     {
       "id": 23324,
@@ -25182,7 +25371,8 @@
       "cl": 8,
       "pr": 1497605,
       "st": 0,
-      "stat": "ac=2520;act=16;artisanbon=188;dmgmul=3;dz=337;energybon=30;evade=90;hp=5051;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383;socket_content=0"
+      "stat": "ac=2520;act=16;artisanbon=188;dmgmul=3;dz=337;energybon=30;evade=90;hp=5051;lowevade=30;lvl=300;opis=Wystarczyło kilka precyzyjnych uderzeń krasnoludzkim młotem, aby uwolnić prawdziwą moc tej zbroi. [br]Gładka warstwa lodu sprawia, że żadne wrogie ostrze nie przebije się przez ten pancerz.;permbound;rarity=legendary;reqp=h;resfire=7;sa=383;socket_content=0",
+      "extendedID": "21926@300~57488"
     },
     {
       "id": 21924,
